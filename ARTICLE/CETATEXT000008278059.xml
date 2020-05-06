@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008278059</ID>
+<ANCIEN_ID>JTXLX1975X03X00000PUGAR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/80/CETATEXT000008278059.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Pau, du 17 mars 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-03-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Pau</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Boissemet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guiu</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Costes</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-04 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES - TAXES ASSIMILEES AUX T.C.A. - Taxe  spéciale sur les activités bancaires et financières - Délai de réclamation - Champ d'application - Exemptions - Opérations de ducroire.</SCT>
+<ANA ID="9AA">19-06-04        Inapplicabilité de l'article 1932-2 du code des impôts, s'agissant d'une taxe assimilée aux T.C.A.. Des opérations d'entreprise se rattachant à l'activité d'agents d'affaires entrent dans le champ d'application de la taxe. Caractère limitatif de l'exonération prévue pour les commissions de "ducroire".</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1931-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1932-2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 299-5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 300</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN4 50 TERDECIES</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

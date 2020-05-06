@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008251786</ID>
+<ANCIEN_ID>JTXLX1977X08X00000NTACO</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/25/17/CETATEXT000008251786.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nantes, du 17 août 1977, publié au recueil Lebon</TITRE>
+<DATE_DEC>1977-08-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nantes</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rousseau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Carbonnel</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bouvet de la Maisonneuve</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02-03-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - LIQUIDATION DE LA TAXE -  DEDUCTIONS -  BIENS OU SERVICES OUVRANT DROIT A DEDUCTION - Moyens de manutention - Exclusion des véhicules conçus pour le transport de personnes ou à usage mixte et constituant une immobilisation [art 237 de l'annexe II du C.G.I.] - Notion.</SCT>
+<ANA ID="9AA">8AA          L'article 237 de l'annexe II du code général des impôts n'est pas applicable aux véhicules de type "monoplace" utilisés exclusivement pour les besoins de l'école de pilotage et aux véhicules conçus pour le critérium des jeunes pilotes et destinés aux jeunes enfants de 8 à 14 ans, bien que ces véhicules figurent au nombre des immobilisations de l'association de l'Automobile Club de l'Ouest.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 271-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 237 et 241</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

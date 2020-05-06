@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008282198</ID>
+<ANCIEN_ID>JTXLX1976X03X00000POSYN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/21/CETATEXT000008282198.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Poitiers, du 17 mars 1976, publié au recueil Lebon</TITRE>
+<DATE_DEC>1976-03-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Poitiers</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Triaud</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Boufrioua</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Clavier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES ET TAXES ASSIMILEES - PATENTE - PROFESSIONS ET PERSONNES IMPOSABLES - Activités désintéressées - Syndicat de défense.</SCT>
+<ANA ID="9AA">19-03-04-01        N'est pas fondé à soutenir que son activité est purement désintéressée ou présente un caractère "syndical", au sens de la loi du 21-03-1884, le rendant insusceptible d'être assujetti à la contribution des patentes, un syndicat de défense des expropriés, qui ne se borne pas à défendre les intérêts communs de ses adhérents, mais prépare leurs dossiers individuels, effectue toutes les démarches utiles auprès des administrations et fait intervenir pour le compte de chacun d'eux des cabinets d'avocats auprès des juridictions compétentes, afin que l'indemnité d'expropriation leur soit accordée dans les conditions les plus avantageuses. Ce syndicat qui perçoit outre des cotisations un prélèvement forfaitaire fixé à 2,50 % du montant des indemnités d'expropriation a, en effet, pour objet de permettre à ses adhérents d'obtenir à un moindre coût l'assistance qu'aurait pu leur procurer une entreprise professionnelle exerçant l'activité d'agent d'affaires.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1447</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1454-12</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1884-03-21</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008288607</ID>
+<ANCIEN_ID>JTXLX1994X05X00000REBRO</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/86/CETATEXT000008288607.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Rennes, du 11 mai 1994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1994-05-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Rennes</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Coat</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Guillemot-Daudet</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Rois</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-01-01 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - PERSONNES ET OPERATIONS TAXABLES - OPERATIONS TAXABLES -Absence - Deuxième paiement d'une même prestation - Absence de lien direct.</SCT>
+<ANA ID="9AA">19-06-02-01-01          Une société a perçu deux fois la même somme en paiement d'une seule facture de remboursement de frais. En l'absence de réclamation de son client, la société a constaté un profit exceptionnel correspondant au second de ces paiements. Cette somme n'étant la contrepartie d'aucune prestation de service fournie par la société, elle n'entre pas dans le champ d'application de la T.V.A. défini par l'article 256-I du code général des impôts. Réduction à hauteur de la T.V.A. ayant grevé cette somme des droits supplémentaires de T.V.A. mis à la charge de la société.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 256</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

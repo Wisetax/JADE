@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008266374</ID>
+<ANCIEN_ID>JTXLX1999X01X00000PATUL</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/63/CETATEXT000008266374.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Paris, du 7 janvier 1999, 9410276-1, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-01-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Paris</JURIDICTION>
+<NUMERO>9410276-1</NUMERO>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Jean-Antoine</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Barnaba</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Soumet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-01-03,RJ1 CONTRIBUTIONS ET TAXES - GENERALITES - TEXTES FISCAUX - LEGALITE DES DISPOSITIONS FISCALES - INSTRUCTIONS -Légalité - Absence - Annexe n° 3 de l'instruction 5B-16-88 du 6 mai 1998 relative à la déduction par le contribuable de son revenu global du montant de sa souscription au capital d'une société en cessation de paiement.</SCT>
+<ANA ID="9AA">19-01-01-01-03          Il résulte des dispositions de l'article 163 octodecies du code général des impôts alors en vigueur que, dans le cas où une entreprise en cessation de paiement fait l'objet d'une cession ordonnée par jugement du tribunal de commerce, la déduction par le contribuable du montant de sa souscription est opérée sur son revenu global de l'année au cours de laquelle intervient ladite cession. En mettant à la charge dudit contribuable l'obligation de produire la copie de l'un des jugements mentionnés au deuxième alinéa du I de l'article 163 octodecies susvisé, l'article 75-0X de l'annexe II se réfère nécessairement, dans l'hypothèse de la cession de la société, au jugement qui ordonne cette mesure et non au jugement qui prononce la clôture des opérations de cession, lequel n'est pas mentionné par les dispositions en cause. Ainsi, en précisant, dans l'annexe n° 3 à l'instruction du 6 mai 1998 référencée 5B-16-88, que la déduction de la perte subie par les souscripteurs ne peut être effectuée qu'au titre de l'année du prononcé du jugement de clôture des opérations de cession, l'administration a subordonné la déduction susvisée à une condition non prévue par les dispositions des articles 163 octodecies du code général des impôts et 75-OX de l'année II audit code et en a restreint la portée. Dès lors, l'administration ne peut utilement se prévaloir d'une interprétation contraire exprimée dans l'instruction susvisée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Cf. CE, 1987-06-12, Bournonville, p. 212 ; CE, 1998-02-11, Mme Martin, p. 48&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 163 octodecies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 75-0X</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

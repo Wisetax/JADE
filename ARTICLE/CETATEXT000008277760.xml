@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008277760</ID>
+<ANCIEN_ID>JTXLX1998X03X00000LLIMP</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/77/CETATEXT000008277760.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 26 mars 1998, 94-1381, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-03-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>94-1381</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Flecher Bourjol</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Looten</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Michel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-03 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE PROFESSIONNELLE - EXONERATIONS -Exonération au titre de l'année de création d'un établissement (article 1478 II du CGI) - Champ d'application - Exclusion - Simple transfert entre communes des installations et du matériel d'un établissement.</SCT>
+<ANA ID="9AA">19-03-04-03          En vertu des règles applicables en matière de taxe professionnelle, un transfert d'établissement équivaut à une suppression suivie d'une création d'établissement pour le calcul des bases d'établissement de cette taxe dans la commune d'arrivée ; il ressort cependant clairement des dispositions de l'article 1478 II du code général des impôts que le législateur a entendu exclure du bénéfice du régime d'exonération ou de réduction des bases qu'il prévoit, les créations d'établissements qui ne procèdent que d'un simple transfert, total ou partiel, des bases d'imposition d'un établissement à un autre ; dès lors, la création d'un établissement par simple transfert des installations et des matériels d'une commune à une autre n'ouvre pas droit au régime de réduction des bases d'imposition prévu par l'article 1478 II précité du code général des impôts.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1478</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007624471</ID>
+<ANCIEN_ID>JFXLX1986X10X0000044668</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/44/CETATEXT000007624471.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 9 / 7 SSR, du 8 octobre 1986, 44668, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-10-08</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>44668</NUMERO>
+<SOLUTION>Annulation partielle enquête</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>9 / 7 SSR</FORMATION>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. M. Bernard</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Teissier du Cros</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Racine</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-03-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES FONCIERES - TAXE FONCIERE SUR LES PROPRIETES BATIES         [1]          Personnes et immeubles imposables - Notion de propriété          bâtie - Existence - Champignonnière aménagée.         [2]          Exonérations permanentes - Immeubles affectés à un service          public ou d'utilité générale et non productifs de revenus          [article 1382 1° du C.G.I.] - Absence -               [21],RJ1                Imprimerie de la marine nationale - Travaux                effectués faisant regarder les immeubles                comme productifs de revenus [1].               [22],RJ1                Sous-sol d'une installation de la marine                nationale aménagée en champignonnière et louée à un                tiers [1].</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-03-04-01,RJ1 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE PROFESSIONNELLE - PROFESSIONS ET PERSONNES TAXABLES -Activité professionnelle non salariée exercée à titre habituel [article 1447 du C.G.I.] - Absence - Activités non commerciales d'une imprimerie de l'Etat.</SCT>
+<ANA ID="9AA">19-03-03-01[1]        Une champignonnière aménagée en sous-sol à cet effet constitue une propriété bâtie.</ANA>
+<ANA ID="9BA">19-03-03-01[21]        Aux termes de l'article 1382 du C.G.I. : "Sont exonérés de la taxe foncière sur les propriétés bâties 1° les immeubles nationaux affectés à un service public ou d'utilité générale et non productifs de revenus, notamment ... les magasins, casernes et établissements militaires ...". L'Etat peut être assujetti à la T.F.P.B. à raison des immeubles abritant "l'Imprimerie de la Marine", service relevant de l'état-major de la marine nationale implanté dans le "Centre Commandant Mille", si les travaux effectués par l'imprimerie, dans son activité d'impression de bulletins ou revues au profit d'associations d'anciens marins, ont procuré à l'Etat des recettes permettant de regarder ces immeubles comme productifs de revenus. Enquête afin de rechercher si l'activité d'impression au profit de tiers exécutée dans les installations de ce centre a donné lieu à rémunération.</ANA>
+<ANA ID="9CA">19-03-03-01[22]        Si aux termes de l'article 1382 du C.G.I. : "Sont exonérés de la taxe foncière sur les propriétés bâties 1°] les immeubles nationaux affectés à un service public ou d'utilité générale et non productifs de revenus, notamment ... les magasins, casernes et établissements militaires", le sous-sol d'une installation de la marine nationale aménagé en champignonnière et loué à un tiers est productif de revenus et donc assujetti à la taxe foncière sur les propriétés bâties.</ANA>
+<ANA ID="9DA">19-03-04-01        La livraison à soi-même de biens ou de services ne constitue pas une activité professionnelle non salariée au sens de l'article 1447 du C.G.I. et ne peut dès lors donner lieu à assujettissement à la taxe professionnelle. En revanche, l'Etat exerce une activité professionnelle non salariée dans la mesure où les biens et services produits sont livrés, moyennant rémunération, à des tiers. Application de ces principes aux activités de "l'Imprimerie de la Marine", service relevant de l'état-major de la marine nationale implanté dans le "Centre Commandant Mille". L'Etat peut être passible de la taxe professionnelle si les travaux effectués par l'imprimerie, dans son activité d'impression de bulletins ou revues au profit d'associations d'anciens marins, ont donné lieu à rémunération. Enquête afin de rechercher si la condition est remplie en l'espèce.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Cf. Plénière, 1986-07-04, Ministre du budget et autre c/ Commune de Brest n° 50789 et 50847&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1382 1, 1447, 1654</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

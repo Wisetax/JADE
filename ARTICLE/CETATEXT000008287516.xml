@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287516</ID>
+<ANCIEN_ID>JTXLX1999X02X00000LLDEM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/75/CETATEXT000008287516.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 18 février 1999, 98-580, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-02-18</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>98-580</NUMERO>
+<SOLUTION>Annulation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Vettraino</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Dalle</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Brenne</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-08-02 CONTRIBUTIONS ET TAXES - PARAFISCALITE, REDEVANCES ET TAXES DIVERSES - REDEVANCES -Redevance pour droit d'usage des appareils récepteurs de télévision - Exonération des personnes âgées de plus de soixante-cinq ans (article 11 bis du décret du 30 mars 1992) - Conditions.</SCT>
+<ANA ID="9AA">19-08-02          L'article 11 bis du décret n° 92-304 du 30 mars 1992, dans sa rédaction issue du décret n° 93-1314 du 20 décembre 1993, ne subordonne pas le bénéfice de l'exonération de redevance "audiovisuelle" en faveur des personnes âgées de soixante-cinq ans antérieurement au 1er janvier 1998 à la condition que ces personnes soient déjà exonérées formellement de redevance au titre de l'année précédant leur demande. Illégalité par suite de la décision du service de la redevance de l'audiovisuel qui a rejeté pour ce seul motif la demande d'exonération présentée par une personne âgée de plus de soixante-cinq ans au 1er janvier 1998 et qui acquittait jusqu'alors la redevance.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 92-304 1992-03-30 art. 11 bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 93-1314 1993-12-20</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

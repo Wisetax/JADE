@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007623962</ID>
+<ANCIEN_ID>JFXLX1987X02X0000041600</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/39/CETATEXT000007623962.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 9 / 7 SSR, du 25 février 1987, 41600 41601, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1987-02-25</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>41600 41601</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>9 / 7 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. M. Bernard</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Dulong</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Ph. Martin</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-05,RJ1 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE PROFESSIONNELLE - QUESTIONS RELATIVES AU PLAFONNEMENT -Conditions d'imposition au titres d'exercices antérieurs - Condition d'imposition à la contribution des patentes au titre de l'année 1975 [articles 1647 A, 1647 B et 1647 B bis du C.G.I.] - Identité des personnes morales - Absence - Société ayant modifié son objet social et sa dénomination [1].</SCT>
+<ANA ID="9AA">19-03-04-05        Il résulte des dispositions des articles 1647 B et 1647 B bis, selon lesquelles les cotisations de taxe professionnelle d'un contribuable pour les années 1977 à 1979 sont plafonnées à 70 % de la cotisation acquittée par ce même contribuable en 1975, que le plafonnement de la taxe professionnelle est ouvert au seul bénéfice des entreprises, qui ont, elles-mêmes, été imposées à la contribution des patentes en 1975.        Dès lors, une société exerçant une activité de miroiterie qui a quadruplé son capital par souscription d'actions en numéraire et émission d'actions en représentation de l'apport d'un fonds de commerce de miroiterie et d'entreprise de peinture a ajouté cette dernière activité à son objet social, et a ainsi modifié sa dénomination sociale, ne peut être regardée comme étant demeurée la même à compter de ces transformations, opérées en mars 1975. Les dispositions relatives au plafonnement de la taxe professionnelle ne lui sont donc pas applicables.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Application en matière de plafonnement de taxe professionnelle de la jurisprudence relative à la condition d'identité d'entreprise pour le report des déficits.&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">6-E 6-78 1978-09-07 Finances</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1647 B I, 1647 B III, 1647 B bis, 1649 quinquies E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales L80 A</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Instruction 6E-1877 1977-12-05</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

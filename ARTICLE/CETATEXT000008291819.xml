@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291819</ID>
+<ANCIEN_ID>JTXLX1980X12X00000GROMV</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/18/CETATEXT000008291819.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Grenoble, du 12 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Jacquin-Pentillon</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bataille</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-04-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES -  PERSONNES MORALES ET BENEFICES IMPOSABLES - Personnes morales imposables - Personne morale de droit public - Etablissement public à caractère industriel et commercial - Office municipal de tourisme.</SCT>
+<ANA ID="9AA">19-04-01-04-01          Il résulte des dispositions des articles 206-I et 207-I 6° du CGI, ainsi que de l'article 165-1 de l'annexe IV au code que si les régies municipales ou départementales de services publics et les établissements publics ne se livrant pas à des opérations de caractère lucratif sont exonérés de l'impôt sur les sociétés, les établissements publics à caractère industriel ou commercial sont passibles de cet impôt.          Un office municipal de tourisme de station classée constitue un établissement public à caractère industriel ou commercial, en application de la loi du 10 juillet 1964. L'article 1 du décret du 5 avril 1966 pris pour l'application de cette loi renvoie au décret du 19 octobre 1959 portant R.A.P. relatif aux régies départementales et communales n'a pas pour effet de modifier cette qualification [dès lors que les régies visées par ce décret sont dotées de la personnalité morale et de l'autonomie financière ont pour objet de gérer des services publics industriels et commerciaux et constituent en fait des établissements publics à caractère industriel et commercial - sol. impl.].          Un office municipal de tourisme de station classée est par suite passible de l'impôt sur les sociétés.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1655 ter</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 206 I</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 207 1 6</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 207 1 6 bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 223 septiès</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 239 bis A</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 8 ter</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN4 165 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 59-1225 1959-10-19</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 66-211 1966-04-05 ART. 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 64-698 1964-07-10 ART. 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

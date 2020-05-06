@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008293183</ID>
+<ANCIEN_ID>JTXLX1980X12X00000STVAL</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/31/CETATEXT000008293183.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Strasbourg, du 24 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-24</DATE_DEC>
+<JURIDICTION>Tribunal administratif Strasbourg</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delevallé</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Moreau</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Raymond</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-041 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - TAXE PROFESSIONNELLE -  Titulaires de bénéfices non commerciaux - Assiette - Titulaires de B.N.C. employant moins de cinq salariés - Notion de salarié - Electro-radiologue exerçant sa profession avec le concours de salariés mis à sa disposition par une clinique - Absence de lien de subordination caractéristique du salariat.</SCT>
+<ANA ID="9AA">19-03-041          Médecin électro-radiologue ayant passé une convention avec une clinique aux termes de laquelle il est autorisé, pour dispenser ses soins dans cette clinique, à utiliser le matériel ainsi que les services de sept agents de la clinique moyennant une indemnité forfaitaire mensuelle versée à la clinique. En admettant qu'une partie de cette indemnité puisse être regardée comme représentant la rémunération du personnel mis à la disposition du médecin, la clinique a continué à rémunérer ce personnel et à en être responsable. En conséquence, ce personnel ne se trouvait pas, à l'égard du médecin, placé dans une situation de subordination caractérisant le contrat de travail et le médecin ne pouvait être regardé comme employant ce personnel au sens de l'article 1467 du CGI. Par suite, la taxe professionnelle a été à bon droit assise sur le huitième des recettes, le contribuable employant moins de cinq salariés.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1467</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 231 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

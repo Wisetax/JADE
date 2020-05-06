@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267829</ID>
+<ANCIEN_ID>JTXLX1973X03X00000PADMX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/78/CETATEXT000008267829.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 6 mars 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-03-06</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mlle Jousselin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Serre</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-01-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - PERSONNES ET ACTIVITES IMPOSABLES - ENUMERATION DES PERSONNES ET ACTIVITES -  Plus-values immobilières assimilées aux B.I.C. [art. 35-A du C.G.I.] - Absence d'intention spéculative - Cession motivée par un changement de résidence.</SCT>
+<ANA ID="9AA">19-04-02-01-01-01        La revente et le changement de résidence peuvent ne pas être concomitants : la requérante, à qui son état de santé et son âge ne permettaient plus de vivre seule, doit bénéficier de la présomption légale d'intention non spéculative alors même qu'avant de s'installer dans une maison de retraits située dans une autre localité, elle a continué de résider près de deux ans dans la même commune, où des amis l'ont hébergée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35 A</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

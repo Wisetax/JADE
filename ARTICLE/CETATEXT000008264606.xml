@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264606</ID>
+<ANCIEN_ID>JTXLX1978X07X00000PASPP</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/46/CETATEXT000008264606.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 12 juillet 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-07-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Alexandre</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Rietsch</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-02 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  EXEMPTIONS ET EXONERATIONS - Journaux et périodiques - Publications présentant le caractère de suppléments à des publications exonérées.</SCT>
+<ANA ID="9AA">19-06-01-02          D'une part, les publications présentant le caractère de suppléments à des publications exonérées ne bénéficient elles-mêmes de l'exonération que si elles remplissent les conditions posées par l'article 72 de l'annexe III. D'autre part, ne peuvent être regardés comme des suppléments, alors même que cette qualification leur serait donnée par l'éditeur, des documents qui sont sans ressemblance matérielle avec les journaux ou revues de rattachement et dont le contenu trouve sa destination dans la diffusion propre qui leur est donnée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 72</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1950-03-25</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1881-07-29 ART. 10</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1881-07-29 ART. 7</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

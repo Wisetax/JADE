@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270745</ID>
+<ANCIEN_ID>JTXLX1977X04X00000CFSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270745.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Clermont-Ferrand, du 26 avril 1977, 00480, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-04-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif Clermont-Ferrand</JURIDICTION>
+<NUMERO>00480</NUMERO>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Berne</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guihal</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Varaine</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-02 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX -  TEXTE APPLICABLE [DANS LE TEMPS ET DANS L'ESPACE] - Application de la loi fiscale dans le temps - Art. 27-3 de la loi n. 65-566 du 12 juillet 1965.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-03-01-01-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS DES CAPITAUX MOBILIERS ET ASSIMILABLES -  REVENUS DISTRIBUES - NOTION DE REVENUS DISTRIBUES -  IMPOSITION PERSONNELLE DU BENEFICIAIRE -  Dépenses et charges dont la déduction est interdite en vertu de l'article 39-4.</SCT>
+<ANA ID="9AA">19-01-01-02, 19-04-02-03-01-01-02        La partie non déductible des amortissements mentionnés à l'article 39-4 du CGI est considérée comme un revenu distribué au profit des associés qui disposent de ces véhicules de tourisme à caractère somptuaire. Si jusqu'à l'intervention de la loi du 12 juillet 1965 dont l'article 27-3 a abrogé le 5. de l'article 112 du Code, les associés pouvaient faire tomber cette présomption de distribution en justifiant que les véhicules en cause ont été utilisés dans l'intérêt direct de leur société, cette justification devait être fournie, en raison de l'annualité de l'impôt sur le revenu, au cours de chaque année d'utilisation. En mettant fin à cette faculté, la loi du 12 juillet 1965 a eu normalement pour effet, sans porter atteinte au principe de non rétroactivité d'interdire de fournir cette justification au titre de l'année 1966 qui a suivi son entrée en vigueur, alors même que les véhicules en cause auraient été acquis avant cette date.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 111 E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 112 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 QUINQUIES E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39-4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 65-566 1965-07-12 ART. 27 3</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

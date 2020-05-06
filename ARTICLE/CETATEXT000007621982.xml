@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007621982</ID>
+<ANCIEN_ID>JFXLX1986X01X0000038553</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/19/CETATEXT000007621982.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 6 janvier 1986, 38553, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-01-06</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>38553</NUMERO>
+<SOLUTION>Réformation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Videau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Magniny</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Fouquet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-05-02,RJ1 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - BENEFICES NON COMMERCIAUX - DETERMINATION DU BENEFICE IMPOSABLE -Dépenses - Déductibilité des charges - Autres charges - Régime particulier de déduction de leurs frais professionnels par les médecins conventionnés [instruction du 7 février 1972] - Conditions d'application - Tenue d'un livre-journal [1].</SCT>
+<ANA ID="9AA">19-04-02-05-02        Si une note administrative du 7 février 1972 dispense les médecins conventionnés soumis au régime de la déclaration contrôlée de tenir un document journalier de leurs recettes professionnelles lorsqu'ils mentionnent celles-ci sur les feuilles de sécurité sociale, cette dispense ne concerne pas la tenue du livre-journal qui doit notamment retracer le détail quotidien des dépenses professionnelles. La circonstance que la même instruction autorise un abattement forfaitaire, égal à 2 % du montant des recettes brutes, à titre de frais professionnels de représentation, réception, prospection, cadeaux professionnels, petits déplacements, travaux de recherche et blanchissage n'interdit pas la déduction de frais autres que ceux-ci à condition qu'ils aient été inscrits au livre-journal [1].</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. 1984-10-22, 39361&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 99 al. 2, 104 al. 2, 1649 quinquiès E, 93 1 2, 39 1 2, 156</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil 205, 208</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Note administrative 1972-02-07 direction générale des impôts</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

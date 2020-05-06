@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007635079</ID>
+<ANCIEN_ID>JGXLX1965X05X0000049874</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/63/50/CETATEXT000007635079.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, Assemblée, du 14 mai 1965, 49874 49875 54150, publié au recueil Lebon</TITRE>
+<DATE_DEC>1965-05-14</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>49874 49875 54150</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>ASSEMBLEE</FORMATION>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT/>
+<AVOCATS/>
+<RAPPORTEUR>M. Essig</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Lavondès</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">01-04-03-02 ACTES LEGISLATIFS ET ADMINISTRATIFS - VALIDITE DES ACTES ADMINISTRATIFS - VIOLATION DIRECTE DE LA REGLE DE DROIT - PRINCIPES GENERAUX DU DROIT - EGALITE DEVANT LES CHARGES PUBLIQUES -&lt;CA&gt;Date à laquelle s'apprécie la légalité. Impositions et taxes locales. Conformité à la réglementation au 1er janvier.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">01-08-02-02 ACTES LEGISLATIFS ET ADMINISTRATIFS - APPLICATION DANS LE TEMPS - RETROACTIVITE - RETROACTIVITE ILLEGALE -&lt;CA&gt;Impôts locaux.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">135-02-04-01 COLLECTIVITES TERRITORIALES - COMMUNE - FINANCES COMMUNALES - BUDGET -&lt;CA&gt;Illégalité des impositions à caractère annuel si le budget est voté après le 1er janvier.</SCT>
+<SCT ID="8DA" TYPE="PRINCIPAL">19-01-01-01 CONTRIBUTIONS ET TAXES - GENERALITES - TEXTES FISCAUX - LEGALITE DES DISPOSITIONS FISCALES. - Illégalité anciennes contributions - si  le budget est voté après le 1er janvier.</SCT>
+<SCT ID="8EA" TYPE="PRINCIPAL">19-01-01-02 CONTRIBUTIONS ET TAXES - GENERALITES - TEXTES FISCAUX - TEXTE APPLICABLE (DANS LE TEMPS ET DANS L'ESPACE) - Entrée en vigueur du  budget communal - Absence de rétroactivité pour les impositions  locales annuelles.</SCT>
+<ANA ID="9AA">01-04-03-02, 01-08-02-02, 135-02-04-01, 19-01-01-01, 19-01-01-02          Le taux et les bases des impositions locales annuelles déterminées d'après la situation existant au 1er janvier devant être déterminées d'après la législation et la réglementation en vigueur à cette date, illégalité des impositions établies d'après le budget communal voté à une date postérieure au 1er janvier de l'année à laquelle il s'applique, quand ce budget augmente le nombre des centimes et élève le taux des taxes communales, aucune disposition législative spéciale, et notamment ni l'article 181 ni l'article 182 du Code de l'administration communale n'autorisant l'application rétroactive des quotités de centimes et des taux votés après le 1er janvier, pour le calcul des impositions dues par les contribuables au titre de l'année dont s'agit.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1381, 1441, 1508</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'administration communale 181, 182, 241, 242</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1948-01-06 art. 9-1, art. 9-2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

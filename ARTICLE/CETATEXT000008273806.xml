@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008273806</ID>
+<ANCIEN_ID>JTXLX1977X12X00000PUSAI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/38/CETATEXT000008273806.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Pau, du 13 décembre 1977, 00437, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-12-13</DATE_DEC>
+<JURIDICTION>Tribunal administratif Pau</JURIDICTION>
+<NUMERO>00437</NUMERO>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Darot</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Darot</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Piedbois</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-02-02 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - CONTRIBUTION FONCIERE - CONTRIBUTION FONCIERE DES PROPRIETES BATIES - Procédure d'intégration fiscale progressive en cas de fusion de communes [art. 1638 du C.G.I.]</SCT>
+<ANA ID="9AA">19-03-02-02          Pour l'application de l'article 327 A de l'annexe II au C.G.I. auquel renvoie l'article 1638 du C.G.I., le terme "habitant" doit être regardé comme visant les personnes vivant en permanence sur la portion de territoire en cause, y avant leur demeure, leur résidence habituelle ou encore leur domicile.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1638 1 AL. 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 327 A</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

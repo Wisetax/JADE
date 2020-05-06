@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008288691</ID>
+<ANCIEN_ID>JTXLX1996X09X00000GRCOP</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/86/CETATEXT000008288691.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Grenoble, du 24 septembre 1996, 93866, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-09-24</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Grenoble</JURIDICTION>
+<NUMERO>93866</NUMERO>
+<SOLUTION>Annulation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Valette</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Favier</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Cau</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">01-04-03-03-03 ACTES LEGISLATIFS ET ADMINISTRATIFS - VALIDITE DES ACTES ADMINISTRATIFS - VIOLATION DIRECTE DE LA REGLE DE DROIT - PRINCIPES GENERAUX DU DROIT - EGALITE DEVANT LE SERVICE PUBLIC - EGALITE DES USAGERS DEVANT LE SERVICE PUBLIC -Violation - Service d'enlèvement des ordures ménagères - Perception de la redevance sur une partie du territoire communal, de la taxe sur l'autre partie.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">135-02-03-03-06 COLLECTIVITES TERRITORIALES - COMMUNE - ATTRIBUTIONS - SERVICES COMMUNAUX - ORDURES MENAGERES ET AUTRES DECHETS -Perception de la redevance sur une partie du territoire communal, de la taxe sur l'autre partie - Illégalité.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-03-05-03 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES ASSIMILEES - TAXE D'ENLEVEMENT DES ORDURES MENAGERES -Perception sur une partie seulement du territoire de la commune, la redevance étant perçue sur l'autre partie - Illégalité.</SCT>
+<SCT ID="8DA" TYPE="PRINCIPAL">19-03-06-06 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - AUTRES TAXES OU REDEVANCES - REDEVANCE D'ENLEVEMENT DES ORDURES MENAGERES -Perception sur une partie seulement du territoire de la commune, la taxe étant perçue sur l'autre partie - Illégalité.</SCT>
+<ANA ID="9AA">01-04-03-03-03, 135-02-03-03-06, 19-03-05-03, 19-03-06-06          Une délibération du conseil municipal divisant le territoire communal en deux zones, l'une où s'applique la taxe d'enlèvement des ordures ménagères, l'autre où s'applique la redevance est illégale au regard des articles L. 233-78 et L. 233-79 du code des communes et du principe d'égalité des usagers devant le service public.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des communes L233-78, L233-79</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

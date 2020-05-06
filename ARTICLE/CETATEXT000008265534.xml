@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008265534</ID>
+<ANCIEN_ID>JTXLX1975X07X00000MACAR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/55/CETATEXT000008265534.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 11 juillet 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-07-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Heurté</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guérin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Vieil</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-06 CONTRIBUTIONS ET TAXES -  GENERALITES - DIVERS - Sociétés de fait - Critères</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-03-04-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES ET TAXES ASSIMILEES - PATENTE - PROFESSIONS ET PERSONNES IMPOSABLES - Activités de location - Loueur en meublé - Cas où la location des locaux nus et la location des meubles sont faites par deux contribuables distincts.</SCT>
+<ANA ID="9AA">19-01-06, 19-03-04-01        Une société A. loue des meubles destinés à meubler des locaux loués nus par une société B.. Ces deux locations font l'objet de contrats distincts qui ne sont pas nécessairement liés. Les baux sont signés par l'intermédiaire d'un agent d'affaires qui n'a pas reçu de mandat commun des deux sociétés. Le produit des loyers et la déduction des charges sont nettement indivualisés et ne font l'objet d'aucune répartition. Il n'est donc pas procédé à un partage des résultats des exploitations : c'est à tort que l'administration a considéré qu'il y avait une société de fait passible de la patente comme loueur en meublé.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS/>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270759</ID>
+<ANCIEN_ID>JTXLX1979X06X00000LYSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270759.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lyon, du 26 juin 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-06-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Vieil</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Vieil</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Lopez</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-03-01-01-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS DES CAPITAUX MOBILIERS ET ASSIMILABLES -  REVENUS DISTRIBUES - NOTION DE REVENUS DISTRIBUES -  IMPOSITION PERSONNELLE DU BENEFICIAIRE -  Notion de remboursement d'apport [art. 112-1 du CGI]</SCT>
+<ANA ID="9AA">19-04-02-03-01-01-02            Société constituée en 1967 au capital de 200000 F dont 25000 F libérés. En décembre 1971 l'assemblée générale : 1] porte le capital à 175000 F par incorporation de réserves ; 2] ramène le capital de 175000 F à 100000 F par réduction de 75000 F du capital non appelé et remet 75 F par action aux actionnaires. Cette opération s'analyse en une distribution aux actionnaires, nonobstant la circonstance que la réduction de capital aurait porté sur le capital non appelé.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 112 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

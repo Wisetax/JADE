@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287585</ID>
+<ANCIEN_ID>JTXLX1993X06X00000GRLUP</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/75/CETATEXT000008287585.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Grenoble, du 30 juin 1993, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1993-06-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Bernault</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Delandre</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Philipbert</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">15-03-01-05,RJ1 COMMUNAUTES EUROPEENNES - APPLICATION DU DROIT COMMUNAUTAIRE PAR LE JUGE ADMINISTRATIF FRANCAIS - ACTES CLAIRS - DIRECTIVES -Directive du 17 mai 1977 (sixième directive TVA) - Méconnaissance - Article 233 de l'annexe II au CGI (1).</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-02-091,RJ1 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - REMBOURSEMENT - RESTITUTION -Incompatibilité avec la 6ème directive des dispositions de l'article 233 de l'annexe II au code général des impôts (1).</SCT>
+<ANA ID="9AA">15-03-01-05, 19-06-02-091          D'une part les paragraphes 1 et 2 de l'article 17 de la 6ème directive impliquent que le droit à déduction conféré aux assujettis doit s'exercer immédiatement pour la totalité des taxes ayant grevé les opérations effectuées en amont. D'autre part les dispositions de l'article 18 de la même directive ne sauraient permettre un dispositif rendant pratiquement impossible, pour une profession donnée, l'exercice du droit à déduction de l'intégralité de la taxe d'amont. Il suit de là que les dispositions de l'article 223 de l'annexe II au code général des impôts, en interdisant toute déduction de taxe au-delà du montant de la taxe sur la valeur ajoutée brute dégagée par l'activité propre des redevables concernés, sont clairement incompatibles avec les objectifs de ladite directive.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Cf. CJCE, 1988-09-21, aff. n° 50-87&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CEE 6ème directive Conseil 1977-05-17 art. 18-4, art. 17</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 260 D, 273 bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales R197-4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 233 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 82-1126 1982-12-29 art. 23</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

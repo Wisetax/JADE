@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008271907</ID>
+<ANCIEN_ID>JTXLX1995X06X00000POBIJ</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/19/CETATEXT000008271907.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Poitiers, du 21 juin 1995, 923412, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1995-06-21</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Poitiers</JURIDICTION>
+<NUMERO>923412</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme de Bardon de Segonzac</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme de Bardon de Segonzac</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Miet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-01-03 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - BENEFICES INDUSTRIELS ET COMMERCIAUX - PERSONNES ET ACTIVITES IMPOSABLES - EXONERATION DE CERTAINES ENTREPRISES NOUVELLES (ART. 44 BIS ET SUIVANTS DU CGI) -Notion d'entreprise nouvelle - Absence - Entreprise dont le seul client est l'ancien employeur de son créateur.</SCT>
+<ANA ID="9AA">19-04-02-01-01-03          Ne constitue pas une entreprise nouvelle au sens de l'article 44 sexies du code général des impôts un cabinet d'assistance informatique créé par un ancien salarié d'une société alors que cette dernière a été le seul client de ce cabinet durant la période concernée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 44 sexies</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

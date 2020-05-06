@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008282400</ID>
+<ANCIEN_ID>JTXLX1993X11X00000ROREY</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/24/CETATEXT000008282400.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Rouen, du 10 novembre 1993, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1993-11-10</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Panazza</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Fontaine</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Aupoix</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-01 CONTRIBUTIONS ET TAXES - GENERALITES - TEXTES FISCAUX - LEGALITE DES DISPOSITIONS FISCALES -Instructions administratives - Mode de calcul de la réduction d'impôt applicable dans les départements d'outre-mer - Illégalité.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-01-02-05-03 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS - IMPOT SUR LE REVENU - ETABLISSEMENT DE L'IMPOT - DIVERS -Réductions d'impôts - Réduction d'impôt applicable dans les départements d'outre-mer.</SCT>
+<ANA ID="9AA">19-01-01-01, 19-04-01-02-05-03          La réduction d'impôt de 30 % ou 40 %, assortie d'un plafond, prévue par les dispositions des deux derniers alinéas du I de l'article 197 du code général des impôts doit être appliquée à la seule partie des droits afférents aux revenus perçus dans les départements d'outre-mer concernés. Ajoute à la loi l'instruction administrative applicable aux contribuables ayant perçu à la fois des revenus en métropole et outre-mer qui a pour conséquence de réduire ledit plafond en proportion des droits afférents aux revenus perçus outre-mer.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 197</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

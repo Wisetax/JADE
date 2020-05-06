@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272342</ID>
+<ANCIEN_ID>JTXLX1974X02X00000AMGUI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/23/CETATEXT000008272342.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Amiens, du 5 février 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-02-05</DATE_DEC>
+<JURIDICTION>Tribunal administratif Amiens</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Depouilly</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Depouilly</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Pellissier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-02 CONTRIBUTIONS ET TAXES -  ANCIENNES CONTRIBUTIONS ET TAXES ASSIMILEES - PATENTE - EXEMPTIONS ET EXONERATIONS -  Commune exploitant un cinéma dans un but non lucratif.</SCT>
+<ANA ID="9AA">19-03-04-02        Une commune a acheté la dernière salle de cinéma subsistant sur son territoire pour éviter que ses habitants ne soient privés de salle de spectacle et pallier ainsi la carence de l'initiative privée. Dans les circonstances de l'espèce l'exploitation de ce cinéma - dont les résultats sont déficitaires comme c'était prévisible - a le caractère d'un service public administratif, bien que les prix pratiqués soient comparables à ceux des cinémas exploités dans d'autres communes par des particuliers - Exonération de la patente.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1447</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1453-II 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'administration communale 355 AL. 2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

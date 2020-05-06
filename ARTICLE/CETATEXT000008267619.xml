@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267619</ID>
+<ANCIEN_ID>JTXLX1972X07X00000MASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/76/CETATEXT000008267619.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 12 juillet 1972, publié au recueil Lebon</TITRE>
+<DATE_DEC>1972-07-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Heurte</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Richard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bonifait</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-01 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX -  LEGALITE DES DISPOSITIONS FISCALES -  Article 5 du décret du 9 juillet 1963 pris pour l'application de l'article 23 de la loi du 15 mars 1963 instituant un prélèvement de 15 % sur certaines plus-values foncières.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-01-02-07 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS - IMPOT SUR LE REVENU  - PRELEVEMENT DE 15% INSTITUE PAR LA LOI DU 15 MARS 1963 [art. 235 QUATER DU C.G.I.] -  Caractère libératoire du prélèvement.</SCT>
+<ANA ID="9AA">19-01-01-01, 19-04-01-02-07        L'article 5 du décret du 9 juillet 1963 n'a pu, légalement exclure du bénéfice du prélèvement libératoire les plus-values réalisées à l'occasion de cessions qui, bien que répondant aux conditions définies par la loi, auraient toutefois, été précédées de versements d'acomptes ou d'avances.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 235 quater</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 63-678 1963-07-09 art. 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 63-254 1963-03-15 art. 28-II AL. 5 et art. 23</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

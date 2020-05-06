@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263290</ID>
+<ANCIEN_ID>JTXLX1978X03X00000LISAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263290.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Limoges, du 7 mars 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-03-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif Limoges</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lescat</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Pommies</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Stillmunkes</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -  Participation des salariés aux fruits de l'expansion des entreprises [ordonnance du 17 août 1967] - Accords de participation dérogatoires [art. 5 de l'ordonnance] - Effet de l'homologation.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-01-04-09 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - CHARGES DIVERSES -  Participation des salariés aux fruits de l'expansion des entreprises [ordonnance du 17 août 1967] - Accords de participation dérogatoires [art. 5 de l'ordonnance] - Effet de l'homologation.</SCT>
+<ANA ID="9AA">19-04-02-01-04-04, 19-04-02-01-04-09        Les entreprises qui concluent avec leur personnel un accord de participation dérogatoire ne peuvent bénéficier des avantages fiscaux prévus aux articles 7 et 8 de l'ordonnance du 17 août 1967 qu'à la condition que cet accord soit homologué par un arrêté interministériel, et donc à partir de l'exercice au cours duquel l'homologation a été prononcée. L'entreprise ne peut dès lors se plaindre de l'application qui lui a été faite d'une note de l'administration en date du 5 novembre 1969, en vertu de laquelle, dès l'exercice de répartition, elle a été autorisée, d'une part, à constituer, pour l'application de l'article 7 de l'ordonnance, une provision à hauteur du montant de la réserve spéciale de participation calculée selon les termes de l'accord qu'elle a passé avec son personnel et d'autre part, à constituer une provision pour investissement, pour l'application de l'article 8 de l'ordonnance, dans la limite des sommes correspondant à la participation calculée selon la formule prévue par l'ordonnance.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 209</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 38-2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 67-1112 1967-12-19 art. 6</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 74-482 1974-05-17</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 73-1197 1973-12-27</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 67-693 1967-08-17 art. 14, 5, 7 et 8</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

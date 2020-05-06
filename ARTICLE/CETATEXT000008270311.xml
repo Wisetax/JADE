@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270311</ID>
+<ANCIEN_ID>JTXLX1980X10X00000PACOX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/03/CETATEXT000008270311.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 16 octobre 1980, publié au recueil Lebon</TITRE>
+<DATE_DEC>1980-10-16</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Altabert</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Le Clainche</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -  Objet des provisions - Provisions sur retraites complémentaires correspondant au montant probable des sommes à verser à chaque membre du personnel à partir de sa mise à la retraite et jusqu'au jour de son décès - Provisions constatées dans le bilan de l'exercice au cours duquel a eu lieu le départ à la retraite.</SCT>
+<ANA ID="9AA">19-04-02-01-04-04          Il résulte des dispositions de l'article 39-1-5° qu'une entreprise peut valablement porter en provision au passif du bilan de clôture d'un exercice - et ainsi réduire à due concurrence les bénéfices imposables - les sommes correspondant à des pertes ou charges qui ne seront supportées qu'ultérieurement, à la condition que ces pertes ou charges soient nettement précisées quant à leur nature et puissent être évaluées avec une approximation suffisante, qu'elles apparaissent comme probables eu égard aux circonstances de fait constatées à la date de clôture de l'exercice et qu'enfin elles se rattachent aux opérations de toute nature déjà effectuées à cette date par l'entreprise.          Des provisions pour retraites complémentaires constituées à la clôture de l'exercice de mise à la retraite effective des salariés intéressés et régularisées au cours des exercices suivants correspondent à des charges nettement précisées quant à leur nature et apparaissent comme probables à la clôture de ces exercices. Elles ont été évaluées, avec une approximation suffisante par application des coefficients de capitalisation de la caisse des dépôts et consignations, au montant annuel du complément de retraite correspondant aux droits de chaque salarié. Mais dès lors que les salariés ont acquis leur droit à la retraite complémentaire année après année au cours de leur période d'activité, la dette découlant pour la société de son engagement de verser ces retraites ne peut être regardée comme se rattachant à l'exploitation normale des exercices au cours desquels les salariés ont été mis en retraite.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 1 5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008247209</ID>
+<ANCIEN_ID>JTXLX1977X02X00000AMPAU</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/72/CETATEXT000008247209.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Amiens, du 1 février 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-02-01</DATE_DEC>
+<JURIDICTION>Tribunal administratif Amiens</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Plateau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Plateau</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Courtin</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - LIQUIDATION DE LA TAXE -  ASSIETTE -  Ventes d'objet d'occasion [art. 266-1-g du C.G.I.]</SCT>
+<ANA ID="9AA">19-06-02-02-01        Il résulte des dispositions combinées des articles 266 et 267 du code que les négociants en objets d'occasion ne peuvent être légalement assujettis à la taxe sur la valeur ajoutée que sur la différence entre le prix de vente et le prix d'achat des biens calculés hors taxes. Les dispositions de l'article 232 alinéa 1 de l'annexe II du même code ne peuvent, en l'absence de toute disposition législative dérogeant à la règle fixée par l'article 266-1 g, avoir pour effet d'instituer en faveur de ces négociants une possibilité d'option pour le système de droit commun de détermination de l'assiette de la T.V.A., mais seulement de préciser que leurs droits à déduction ne peuvent s'exercer sur la taxe ayant grevé éventuellement l'achat des articles d'occasion mais s'appliquent aux seuls éléments ayant grevé le coût de l'intervention des intéressés, tels que les frais de réparation et de remise en état de ces articles.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 266-1 g</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 267</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 283-3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 223-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 232 AL. 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

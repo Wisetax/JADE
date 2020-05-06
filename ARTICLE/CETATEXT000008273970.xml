@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008273970</ID>
+<ANCIEN_ID>JTXLX1979X11X00000LLSAC</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/39/CETATEXT000008273970.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lille, du 27 novembre 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-11-27</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Portes</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Chervet</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bele</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02-03-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - LIQUIDATION DE LA TAXE -  DEDUCTIONS -  BIENS OU SERVICES OUVRANT DROIT A DEDUCTION - Travaux effectués pour les besoins de l'exploitation sur des installations ou sur un sol dont le redevable n'a pas la propriété.</SCT>
+<ANA ID="9AA">19-06-02-02-03-01          Une société qui supporte, pour les besoins exclusifs de son exploitation, le coût de travaux de transformation d'un poste de coupure du courant électrique desservant son établissement et de construction d'une dalle de béton est en droit de déduire la taxe ayant grevé le coût de ces travaux, alors même que le poste de coupure est la propriété d'EDF et que la dalle de béton l'incorpore aux constructions appartenant au bailleur de l'immeuble dans lequel elle exerce son activité. Les articles 216 bis, 216 ter et 216 quater de l'annexe II, qui ne visent que des situations particulières à portée limitée, sont sans incidence sur la solution.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 271 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 216 bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 216 quater</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 216 ter</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

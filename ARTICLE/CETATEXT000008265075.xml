@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008265075</ID>
+<ANCIEN_ID>JTXLX1979X02X00000MASRB</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/50/CETATEXT000008265075.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 15 février 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-02-15</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Nguyen Huu Kang</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Nguyen Huu Kang</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Didierjean</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-01 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - PATENTE - PROFESSIONS ET PERSONNES IMPOSABLES - Société assurant la gestion d'un immeuble en multipropriété.</SCT>
+<ANA ID="9AA">19-03-04-01          Doit être assujettie à la contribution des patentes la société qui ne se borne pas à construire un immeuble, à le diviser en lots attribués à ses associés et éventuellement à en assurer la gestion mais qui met à la disposition des associés des locaux meublés et équipés, qu'elle remet en état à l'issue de chaque séjour, et exerce cette activité dans un but lucratif.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1655 ter</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

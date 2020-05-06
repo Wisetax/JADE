@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008266364</ID>
+<ANCIEN_ID>JTXLX1998X12X00000VEDAN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/63/CETATEXT000008266364.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Versailles, du 15 décembre 1998, 926716, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-12-15</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Versailles</JURIDICTION>
+<NUMERO>926716</NUMERO>
+<SOLUTION>Non-lieu à statuer réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Felmy</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Malagies</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Le Montagner</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-04,RJ1 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - ENFANTS A CHARGE ET QUOTIENT FAMILIAL -Demi-part supplémentaire à raison de la prise en charge d'une personne titulaire d'une carte d'invalidité - Imposition de cette personne au nom du couple hébergé par le contribuable - Sans influence (1).</SCT>
+<ANA ID="9AA">19-04-01-02-04          L'imposition commune d'un couple marié et hébergé par un contribuable ne saurait faire obstacle à ce que l'un des conjoints soit à charge de ce contribuable en application de l'article 196 A bis du code général des impôts dès lors que cet article n'impose pas comme condition supplémentaire audit contribuable que la personne titulaire de la carte d'invalidité vivant sous le toit de celui-ci fasse l'objet avec son époux d'impositions distinctes.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Cf. CAA de Nancy, 1990-03-13, Mlle Beauzée, n° 89NC00423, T. p. 699&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 196 A bis</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

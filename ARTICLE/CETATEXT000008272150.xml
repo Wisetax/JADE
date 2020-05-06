@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272150</ID>
+<ANCIEN_ID>JTXLX1981X10X00000VESAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/21/CETATEXT000008272150.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Versailles, du 30 octobre 1981, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1981-10-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif Versailles</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Reinach</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Petit</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Simon</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS           [1]           Objet des provisions - Charge nettement précisée quant à          sa nature et évaluée avec une approximation suffisante -          Assignation au pénal avec constitution de parties civiles          et demande d'indemnités.           [2]           Montant des provisions - Mode de calcul.</SCT>
+<ANA ID="9AA">19-04-02-01-04-04[1]          L'assignation au pénal, avec constitution de parties civiles, d'une société en tant que civilement responsable de son dirigeant, inculpé d'homicide par imprudence ou négligence ayant entraîné la mort ou l'invalidité de plusieurs enfants [talc Morhange] est susceptible de justifier la constitution d'une provision pour le montant des indemnités auxquelles elle peut être condamnée.</ANA>
+<ANA ID="9BA">19-04-02-01-04-04[2]          Le montant d'une provision constituée pour faire face au montant des indemnités auxquelles une société peut être condamnée en raison de préjudices corporels peut être calculé avec une approximation suffisante par référence aux tables de jurisprudence de la Cour d'appel de Paris.          La société peut procéder à une sous-évaluation volontaire du montant de la provision, ses contraintes juridiques et financières ne lui permettant pas de provisionner la totalité du montant des charges prévisibles.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008289796</ID>
+<ANCIEN_ID>JTXLX1996X07X00000STBRE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/97/CETATEXT000008289796.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Strasbourg, du 2 juillet 1996, 93642 941591 951492, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-07-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Strasbourg</JURIDICTION>
+<NUMERO>93642 941591 951492</NUMERO>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Woehrling</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mlle Malvasio</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martinez</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-05 CONTRIBUTIONS ET TAXES - GENERALITES - TEXTES FISCAUX - CONVENTIONS INTERNATIONALES -Allemagne (Convention du 21 juillet 1959) - Articles 14 et 20 - Frontaliers - Situation des agents publics ayant des ressources d'origine allemande.</SCT>
+<ANA ID="9AA">19-01-01-05          Pour l'application des articles 14 et 20 de la convention franco-allemande du 21 juillet 1959, modifiée par avenants du 9 juin 1969 et du 28 septembre 1989, il y a lieu de fixer le crédit d'impôt imputable sur l'impôt français, lorsque l'impôt dû à raison des revenus étrangers est calculé par application d'un taux progressif, à un montant correspondant au produit du montant net des revenus étrangers par le taux résultant du rapport entre l'impôt qui serait dû à raison du revenu net global imposable selon la législation française et le montant de ce revenu net global. Ce mode de calcul, qui vise à permettre de préserver la progressivité de l'impôt sur le revenu acquitté en France, est conforme aux stipulations de la convention et permet effectivement d'éviter une double imposition. Toutefois, l'administration ne saurait pour procéder à ce calcul rapprocher le revenu net français et le revenu brut étranger. Les contribuables ne peuvent donc prétendre à un crédit d'impôt équivalent au produit des revenus d'origine allemande par le taux marginal d'imposition applicable aux revenus d'origine française. En effet, la fixation du crédit d'impôt prévu à l'article 20 selon un tel mode de calcul aboutirait à un résultat équivalant à l'exclusion des revenus d'origine allemande pour le calcul de l'impôt français et n'assurerait donc pas la préservation de la progressivité de cet impôt.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Convention 1959-07-21 France Allemagne art. 14, art. 20</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">avenants 1969-05-09, 1989-09-28</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

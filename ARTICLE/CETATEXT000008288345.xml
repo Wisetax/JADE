@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008288345</ID>
+<ANCIEN_ID>JTXLX1998X02X00000LLLOO</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/83/CETATEXT000008288345.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 12 février 1998, 95-1445, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-02-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-1445</NUMERO>
+<SOLUTION>Condamnation de l'Etat</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Couzinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Couzinet</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-05-02-03 CONTRIBUTIONS ET TAXES - GENERALITES - RECOUVREMENT - PAIEMENT DE L'IMPOT - AUTRES QUESTIONS RELATIVES AU PAIEMENT DE L'IMPOT -Société mise en règlement judiciaire ayant acquitté une imposition dont le fait générateur est antérieur au jugement d'ouverture - Droit à remboursement - Existence.</SCT>
+<ANA ID="9AA">19-01-05-02-03          Une société mise en règlement judiciaire qui s'acquitte, postérieurement au jugement d'ouverture et en violation de l'article 33 de la loi du 25 janvier 1985, d'une imposition dont le fait générateur est antérieur à ce jugement, est fondée à en obtenir le remboursement en vertu des dispositions du même article qui prévoient que tout paiement passé en violation de cet article "est annulé à la demande de tout intéressé, présentée dans un délai de trois ans à compter du paiement de la créance".</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 85-98 1985-01-25 art. 33</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

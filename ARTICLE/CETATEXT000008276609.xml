@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008276609</ID>
+<ANCIEN_ID>JTXLX1974X12X00000MAAPC</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/66/CETATEXT000008276609.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 11 décembre 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-12-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Incompétence Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Daumas</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Richard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bonifait</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-09 CONTRIBUTIONS ET TAXES -  PRELEVEMENTS AUTRES QUE FISCAUX ET PARAFISCALITE -  Taxes parafiscales - Prélèvement sur les ventes de poissons et produits de la mer - Légalité de la taxe - Redevable de la taxe - Recouvrement de la taxe.</SCT>
+<ANA ID="9AA">19-09        Sous le n. 108 de l'Etat annexe E des lois de Finances pour 1970 et 1971, le comité central des pêches maritimes et les comités locaux sont autorisés à effectuer un prélèvement ad valorem sur les ventes de poissons et produits de la mer - Légalité en conséquence de la taxe, pour ces deux années, au regard de l'article 4 de l'ordonnance du 2 janvier 1959.        Le paiement de la taxe incombe à l'armateur, aux marins et au premier acheteur : telle n'est pas la situation de l'association des pêcheurs et chalutiers marseillais.        L'association des pêcheurs et chalutiers marseillais est une personne morale de droit privé qui ne saurait être assimilée ni à un établissement public, ni à une collectivité gestionnaire de la halle à la mairie à Marseille ; elle ne peut donc être regardée comme chargée de recouvrer la taxe dont s'agit.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 61-960 1961-08-24 art. 4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 68-223 1968-02-29 art. 2 ET 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 59-2 1959-01-02 art. 4</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

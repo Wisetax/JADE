@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263263</ID>
+<ANCIEN_ID>JTXLX1975X07X00000MASTX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263263.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 11 juillet 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-07-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Heurté</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guérin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Vieil</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-09 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - CHARGES DIVERSES -  Charges en principe non déductibles - Dépenses étrangères à l'intérêt de l'entreprise - Avantages consentis aux actionnaires à l'occasion d'une augmentation de capital.</SCT>
+<ANA ID="9AA">19-04-02-01-04-09        L'augmentation de capital à laquelle a procédé la société requérante était assortie, d'une part, de l'obligation pour les travaux actionnaires de souscrire, en plus du montant du nominal des nouvelles actions émises, une prime d'émission et, d'autre part, de la dispense pour les anciens actionnaires de souscrire cette prime, du fait de l'attribution gratuite aux actions anciennes d'un droit de souscription préférentiel. La société a racheté en Bourse les droits de souscription préférentiels dont il s'agit aux anciens actionnaires et les a distribués gratuitement aux nouveaux souscripteurs. Le coût du rachat de ces droits ne constitue pas un élément des frais d'émission des nouvelles actions : C'est une libéralité, même si le placement de l'émission en a été facilité.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 Septies E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 59-1472 1959-12-29 art. 100</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

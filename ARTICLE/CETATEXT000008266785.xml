@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008266785</ID>
+<ANCIEN_ID>JTXLX1996X05X00000LLVIM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/67/CETATEXT000008266785.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 15 mai 1996, 95-1329 95-1342, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-05-15</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-1329 95-1342</NUMERO>
+<SOLUTION>Annulation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Fraysse</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lepers</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Célérier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-05-05 CONTRIBUTIONS ET TAXES - IMPOTS ASSIS SUR LES SALAIRES OU LES HONORAIRES VERSES - VERSEMENT DESTINE AUX TRANSPORTS EN COMMUN (LOI DU 11 JUILLET 1973) -Majoration du taux (art. L. 233-60 et L. 233-61 du code des communes) - Majoration destinée à financer l'établissement d'un avant-projet - Illégalité.</SCT>
+<ANA ID="9AA">19-05-05          Majoration en 1994 du taux du versement transport applicable à l'agglomération de Valenciennes pour financer un projet d'infrastructure routière subventionné par l'Etat. Illégalité de la reconduction en 1995 de cette majoration, dès lors qu'elle n'était pas nécessaire pour parfaire ce financement du projet susmentionné, mais devait en réalité permettre l'établissement de l'avant-projet du réseau de transports collectifs en site propre tramway, dénommé projet "Transvilles", opération qui ne constituait pas un investissement au sens des dispositions combinées des articles L. 233-60 et L. 233-61 du code des communes, n'avait fait l'objet d'aucune décision préalable de l'autorité organisatrice et n'avait pas donné lieu à une subvention de l'Etat.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des communes L233-60, L233-61</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263311</ID>
+<ANCIEN_ID>JTXLX1979X06X00000GRMRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/33/CETATEXT000008263311.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Grenoble, du 6 juin 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-06-06</DATE_DEC>
+<JURIDICTION>Tribunal administratif Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Daumas</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Chevalier</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Delcourt</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-07-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - TRAITEMENTS, SALAIRES ET RENTES VIAGERES -  PERSONNES ET REVENUS IMPOSABLES - Garantie de ressources allouées aux chômeurs de plus de 60 ans [art. 81-21. du CGI].</SCT>
+<ANA ID="9AA">19-04-02-07-01          Les personnes âgées de plus de 60 ans à la date de leur licenciement bénéficient d'une garantie de ressources à laquelle l'Etat participe en versant une contribution d'un montant égal à celui des allocations d'aide publique versées aux chômeurs mais d'une nature différente de celle de ces allocations. Le montant de la contribution versée par l'Etat n'est donc pas, entre les mains du bénéficiaire, exonéré de l'impôt en application de l'article 81-9. du CGI mais ne peut l'être, aux termes de l'article 81-21., que si le total des sommes perçues, par le bénéficiaire au titre de la garantie de ressources est inférieur à un plafond fixé à 1500 F par mois, augmenté de 500 F par personne à charge. Les sommes allouées au titre de la garantie de ressources sont assimilables à des pensions pour l'application de l'abattement de 20 % et la déduction forfaitaire pour frais professionnels.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">ACCORD 1972-03-27 national interprofessionnel</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 158 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 QUINQUIES E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 81 21</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 81 9</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 72-635 1972-07-05</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

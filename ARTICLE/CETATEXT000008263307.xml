@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263307</ID>
+<ANCIEN_ID>JTXLX1979X01X00000PUMMX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/33/CETATEXT000008263307.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Pau, du 2 janvier 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-01-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif Pau</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Darot</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Barnault</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Piedbois</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-06-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - ETABLISSEMENT DE L'IMPOT -  FORFAIT - Chiffres d'affaires limites - Entreprises distinctes exploitées par un même contribuable.</SCT>
+<ANA ID="9AA">19-04-02-01-06-02          Contribuable exploitant une officine de pharmacie et un laboratoire de fabrication de tisanes. Bien que situées à la même adresse, ces deux exploitations dont les fournisseurs et les clients sont différents, [les produits fabriqués par le laboratoire ne pouvant être commercialisés dans la pharmacie mais étant vendus à des collectivités], qui font l'objet de comptabilités séparées et d'impositions distinctes tant à la contribution des patentes qu'à l'impôt sur le revenu pour l'établissement duquel étaient établies des évaluations séparées du bénéfice forfaitaire, constituent des entreprises distinctes. Dès lors le chiffre d'affaires de la pharmacie étant inférieur à 500000 F, le contribuable peut opter pour l'imposition selon le régime simplifié et bénéficier des avantages attachés à cette option par l'article 39 octodeciès du CGI.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 302 ter</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 octodéciès [1972]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 267 quinquiès</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

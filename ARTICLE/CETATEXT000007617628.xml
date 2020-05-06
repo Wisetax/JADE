@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007617628</ID>
+<ANCIEN_ID>JFXLX1983X07X0000039012</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/61/76/CETATEXT000007617628.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 29 juillet 1983, 39012, publié au recueil Lebon</TITRE>
+<DATE_DEC>1983-07-29</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>39012</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lasry</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Turquet de Beauregard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Verny</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>   Requête, de la société X... tendant :<br/>   1° à l'annulation du jugement du 27 octobre 1981 du tribunal administratif de Caen rejetant sa demande tendant à la réduction du complément d'impôt sur les sociétés auquel elle a été assujettie au titre de l'année 1974 ;<br/>   2° à la décharge de ce complément d'impôt à concurrence de 1 845 261 F ;<br/>   3° au remboursement des frais qu'elle a exposés ;<br/>   Vu le code général des impôts ; le code des tribunaux administratifs ; l'ordonnance du 31 juillet 1945 et le décret du 30 septembre 1953 ; la loi du 30 décembre 1977 ;<br/>   Considérant qu'aux termes de l'article 39 du code général des impôts, applicable en matière d'impôt sur les sociétés en vertu de l'article 209 du même code : " 1. Le bénéfice net est établi sous déduction de toutes charges, celles-ci comprenant ... notamment : ... 5° les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables ... " ;<br/>   Cons. que la société anonyme X... a constitué, dans son bilan de clôture du 31 décembre 1974, deux provisions l'une d'un montant de 3 464 868,56 F, pour " actualisation " de créances à 60 ou 90 jours figurant à l'actif au compte " clients ", l'autre d'un montant de 225 653,11 F, pour " escompte des effets de commerce en portefeuille " ;<br/>   Cons. que, pour justifier ces provisions, la société X... ne fait état ni d'un risque de non-recouvrement de certaines de ses créances, ni d'un risque d'avoir à consentir des réductions de prix à certains clients débiteurs, ni des frais financiers qu'elle aurait à supporter au cas où elle serait contrainte de faire escompter tout ou partie des effets qu'elle détenait en portefeuille ; qu'elle soutient seulement qu'elle a voulu tenir compte, pour l'ensemble des créances sur les tiers et des effets en portefeuille, d'une manière purement comptable, de la dépréciation qui affecte la valeur nominale de ces créances ou effets en raison du délai qui doit s'écouler jusqu'à l'encaissement effectif des sommes correspondantes ; que des provisions pour dépréciation de cette nature ne sont pas au nombre de celles qui visent les dispositions précitées de l'article 39.1.5° du code général des impôts dès lors que les éléments d'actif correspondants sont des créances à court terme qui vont être recouvrées pour leur montant nominal, dont la cession avant leur date d'échéance et pour un montant moindre est improbable, pour lesquelles par conséquent rien ne permet de faire état d'une valeur probable de réalisation inférieure au nominal ; que, dès lors, la société requérante n'est pas fondée à soutenir que c'est à tort que, par le jugement attaqué, le tribunal administratif de Caen a rejeté sa demande en décharge du complément d'impôt sur les sociétés qui lui a été assigné à raison de la réintégration, dans les résultats de l'exercice 1974, des provisions dont s'agit : ...  rejet .<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -Provisions pour "actualisation" de créances à court terme et pour "escompte des effets de commerce en portefeuille".</SCT>
+<ANA ID="9AA">19-04-02-01-04-04        Des provisions ayant pour seul objet de faire face à la "dépréciation" qui affecterait la valeur de créances à 60 ou 90 jours et d'effets de commerce en portefeuille en raison du délai qui doit s'écouler jusqu'à l'encaissement effectif des sommes correspondantes ne sont pas au nombre de celles que vise l'article 39-1-5° du C.G.I. dès lors qu'il s'agit de créances à très court terme qui vont être recouvrées pour leur montant nominal, dont la cession avant la date d'échéance et pour un montant moindre est très improbable, pour lesquelles par conséquent rien ne permet de faire état d'une valeur probable de réalisation inférieure au nominal.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 209</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 1 5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

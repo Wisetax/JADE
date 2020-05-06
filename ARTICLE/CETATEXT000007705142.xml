@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007705142</ID>
+<ANCIEN_ID>JGXLX1986X01X0000049162</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/70/51/CETATEXT000007705142.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 9 SSR, du 6 janvier 1986, 49162, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-01-06</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>49162</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 9 SSR</FORMATION>
+<TYPE_REC>Plein contentieux</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Ducamin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Magniny</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Latournerie</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-02-01-02-06 CONTRIBUTIONS ET TAXES - REGLES DE PROCEDURE CONTENTIEUSE SPECIALES - QUESTIONS COMMUNES - POUVOIRS DU JUGE FISCAL - AUTRES POUVOIRS ET OBLIGATIONS -Sursis à exécution - Préjudice de nature à justifier le sursis - Cas d'une société dont le seul actif est une marque commerciale [sol. impl.].</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">54-03-03-02-02-01 PROCEDURE - PROCEDURES D'URGENCE - SURSIS A EXECUTION - CONDITIONS D'OCTROI DU SURSIS - CARACTERES DU PREJUDICE - PREJUDICE NE JUSTIFIANT PAS LE SURSIS -Divers - Redressement fiscal - Préjudice résultant de la vente d'une marque commerciale constituant le seul actif de la société.</SCT>
+<ANA ID="9AA">19-02-01-02-06, 54-03-03-02-02-01        Société alléguant que son seul actif est le nom d'un cabaret dont elle n'assure pas la gestion. En admettant même que l'exécution de l'avis de mise en recouvrement contesté l'obligerait à vendre cet actif, le préjudice qui en résulterait pour elle n'est pas de nature à justifier le sursis à exécution dudit avis [sol. impl.].</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 63-766 1963-07-30 art. 54</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

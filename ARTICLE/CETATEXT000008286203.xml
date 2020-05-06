@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286203</ID>
+<ANCIEN_ID>JTXLX1999X03X00000LLFOU</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/62/CETATEXT000008286203.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 18 mars 1999, 95-5403 96-738, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-03-18</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-5403 96-738</NUMERO>
+<SOLUTION>Non-lieu à statuer décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Martin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Brunelli</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-05 CONTRIBUTIONS ET TAXES - GENERALITES - TEXTES FISCAUX - CONVENTIONS INTERNATIONALES -Pays-Bas (convention du 16 mars 1973) - Redevances payées par une société française à une société apparentée située aux Pays-Bas pour la sous-concession d'une licence de fabrication et de distribution - Imposition aux Pays-Bas.</SCT>
+<ANA ID="9AA">19-01-01-05          Dès lors que les sommes versées par une société française à une société apparentée, implantée aux Pays-Bas, ont le caractère - non contesté - de redevances payées pour la sous-concession d'une licence de fabrication et de distribution, elles ne sont imposables, en vertu de l'article 12 de la convention fiscale franco-néerlandaise du 16 mars 1973, qu'aux Pays-Bas. La circonstance que la société néerlandaise dans le cadre d'un contrat de licence, en reverse le produit, dans une proportion de 93 à 98 %, à la société propriétaire des brevets et de la marque, laquelle est implantée aux Antilles néerlandaises, n'ôte pas à ces sommes la qualification de redevances au sens de la convention.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Convention fiscale franco-néerlandaise 1973-03-16 art. 12</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

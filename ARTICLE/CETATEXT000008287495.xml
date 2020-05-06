@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287495</ID>
+<ANCIEN_ID>JTXLX1999X06X00000PASEE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/74/CETATEXT000008287495.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Paris, du 9 juin 1999, 9510189-1, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-06-09</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Paris</JURIDICTION>
+<NUMERO>9510189-1</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Corouge</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Damay</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Magnard</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-082 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - BENEFICES INDUSTRIELS ET COMMERCIAUX - DETERMINATION DU BENEFICE NET - ACTE ANORMAL DE GESTION -Notion - Appréciation du caractère normal d'un acte de gestion pris par une société appartenant à un groupe au regard des intérêts de la société-mère.</SCT>
+<ANA ID="9AA">19-04-02-01-04-082          Dans un groupe intégré fiscalement au sens des articles 223 A à 223 Q du code général des impôts, le caractère normal d'un acte de gestion pris par une société du groupe envers une société extérieure à ce groupe s'apprécie au regard des intérêts de la société mère, seule redevable de l'impôt sur les sociétés.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 223 A à 223 Q</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

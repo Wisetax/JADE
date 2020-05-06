@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263303</ID>
+<ANCIEN_ID>JTXLX1977X12X00000ROSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/33/CETATEXT000008263303.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Rouen, du 16 décembre 1977, 08687, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-12-16</DATE_DEC>
+<JURIDICTION>Tribunal administratif Rouen</JURIDICTION>
+<NUMERO>08687</NUMERO>
+<SOLUTION>Admission partielle Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Desmarescaux</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Marlier</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Sant,</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-05-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  BENEFICES NON COMMERCIAUX - PERSONNES, PROFITS, ACTIVITES IMPOSABLES -  Gains divers - [art. 92 du C.G.I.] - Gains au tiercé.</SCT>
+<ANA ID="9AA">19-04-02-05-01          Le contribuable, salarié d'une société, a été assujetti à l'I.R.P.P. dans la catégorie des bénéfices non commerciaux, en raison des gains retirés de la pratique du tiercé. La fréquence de ces gains et leur importance par rapport au montant des salaires perçus caractérisent un comportement habituel et placent le contribuable dans le champ d'application de l'article 92 du code général des impôts. Aucune disposition législative ou réglementaire n'ayant écarté les gains provenant du tiercé des revenus entrant en compte pour la détermination du revenu imposable, assujettissement à l'impôt sur le revenu de tels gains.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 82</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 92 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

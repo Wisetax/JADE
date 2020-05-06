@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263324</ID>
+<ANCIEN_ID>JTXLX1980X12X00000PAEPX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/33/CETATEXT000008263324.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 2 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Avant dire droit SUPPLEMENT INSTRUCTION non-lieu à statuer REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Bonneau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Le Clainche</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-07-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - TRAITEMENTS, SALAIRES ET RENTES VIAGERES -  DEDUCTIONS POUR FRAIS PROFESSIONNELS - Déduction forfaitaire supplémentaire de 30 % - Journaliste - Participation à des émissions télévisées consacrées à des sujets d'actualité.</SCT>
+<ANA ID="9AA">19-04-02-07-02          Un contribuable qui se borne pas à présenter et animer des émissions télévisées consacrées à des sujets d'actualité mais qui prend part également à la conception et la préparation de ces émissions exerce des fonctions de recherche, de mise en forme et de communication d'informations d'actualités caractéristiques de l'activité de journaliste.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1955</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1956 I</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 83 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN4 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code du travail L761-2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

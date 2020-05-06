@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263329</ID>
+<ANCIEN_ID>JTXLX1980X12X00000STMRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/33/CETATEXT000008263329.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Strasbourg, du 3 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-03</DATE_DEC>
+<JURIDICTION>Tribunal administratif Strasbourg</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Varaine</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Philippoteaux</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Raymond</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-02-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS FONCIERS ET PLUS-VALUES ASSIMILABLES -  REVENUS FONCIERS - Etablissement de l'impôt - Déficit reportable - Champ d'application de l'article 3 de la loi du 29 décembre 1976.</SCT>
+<ANA ID="9AA">19-04-02-02-01          Les dispositions de l'article 3 de la loi du 29 décembre 1976 portant loi de finances pour 1977 selon lesquelles les dispositions fiscales actuellement en vigueur continuent à s'appliquer aux propriétaires d'immeubles ayant fait l'objet de travaux dans le cadre d'une opération groupée de restauration immobilière conduite en application de la loi du 4 août 1962 ne peuvent être invoquées que par les propriétaires d'immeubles qui ont entrepris des opérations de restauration immobilière autorisées conformément à l'article 4 du décret du 17 novembre 1964 pris pour application des articles 3 et 4 de la loi du 4 août 1962.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 58-1465 1958-12-31</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 64-1156 1964-11-17 ART. 2, ART. 4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 62-903 1962-08-04 ART. 3, ART. 4, ART. 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 76-1232 1976-12-29 ART. 3 finances pour 1977</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

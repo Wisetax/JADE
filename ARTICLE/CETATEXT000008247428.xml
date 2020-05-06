@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008247428</ID>
+<ANCIEN_ID>JTXLX1976X02X00000NCSAC</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/74/CETATEXT000008247428.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nancy, du 5 février 1976, publié au recueil Lebon</TITRE>
+<DATE_DEC>1976-02-05</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nancy</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delevalle</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Delevalle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Baradel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-02 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES ET TAXES ASSIMILEES - PATENTE - EXEMPTIONS ET EXONERATIONS - Opération de manipulation - Préparation du minerai de fer aggloméré.</SCT>
+<ANA ID="9AA">19-03-04-02    Les opérations d'agglomération de minerai, consistant à chauffer un mélange de minerais de compositions différentes et de diverses matières sidérurgiques, constituent des opérations de manipulation, au sens des dispositions de l'article 1454-11. du CGI et la préparation de minerai de fer aggloméré n'est, par suite, pas assujettie à la contribution de la patente.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1454-11</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1502</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN1 288</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1962-07-31 art. 37 1.</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1974-12-27 art. 6 Finances rectificative</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 1959-01-02</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

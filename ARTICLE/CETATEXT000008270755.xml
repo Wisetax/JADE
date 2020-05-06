@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270755</ID>
+<ANCIEN_ID>JTXLX1978X05X00000PADAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270755.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 26 mai 1978, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1978-05-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Admission partielle Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal Opposition</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Sauzet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Mathias</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Massiot</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LE REVENU - PERSONNES PHYSIQUES IMPOSABLES - Solidarité des époux - Incidence de la date de mariage.</SCT>
+<ANA ID="9AA">19-04-01-02-01          La solidarité entre époux établie par l'article 1685-1 de CGI s'applique quel que soit le régime matrimonial. Lorsque le mariage a été contracté pendant l'année n, la solidarité ne joue que pour les impositions établies au titre des années n + 1 et suivantes quelle que soit la date à laquelle ont été effectuées les opérations qui sont à l'origine des revenus imposés.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1685-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1846</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

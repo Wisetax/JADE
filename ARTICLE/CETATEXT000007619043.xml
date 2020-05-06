@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007619043</ID>
+<ANCIEN_ID>JFXLX1982X07X0000030825</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/61/90/CETATEXT000007619043.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 26 juillet 1982, 30825, publié au recueil Lebon</TITRE>
+<DATE_DEC>1982-07-26</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>30825</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lasry</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bérard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Verny</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>   Requête de la société anonyme X... tendant à :<br/>   1° l'annulation du jugement du 11 décembre 1980 du tribunal administratif de Paris rejetant sa demande en réduction d'une imposition supplémentaire à l'impôt sur les sociétés à laquelle elle a été assujettie au titre de l'année 1973 ;<br/>   2° la réduction de l'imposition contestée ;<br/>   Vu le code général des impôts ; l'ordonnance du 31 juillet 1945 et le décret du 30 septembre 1953 ; la loi du 30 décembre 1977 ;<br/>   Considérant que la société anonyme X... demande la réduction de l'imposition supplémentaire à l'impôt sur les sociétés à laquelle elle a été assujettie au titre de l'année 1973 à concurrence des droits correspondant à la réintégration dans les résultats de l'exercice 1973 d'une somme de 965 283 F, montant des intérêts de retard dont avait été assortie une imposition supplémentaire assignée à la société au titre d'une année antérieure et dont l'administration a refusé la déduction en se fondant sur les dispositions de l'article 39-2 du code général des impôts aux termes duquel " les pénalités de toute nature mises à la charge des contrevenants aux dispositions légales régissant ... l'assiette des impôts ... ne sont pas admises en déduction des bénéfices soumis à l'impôts " ;<br/>   Cons., d'une part, que les intérêts de retard dont la déductibilité n'a pas été admise sont ceux dont le contribuable est redevable en sus des droits éludés lorsque, selon les termes de l'article 1728 du code général des impôts, il " déclare ... une base ou des éléments d'imposition insuffisants ... ou effectue un versement insuffisant " ; qu'ainsi ils sanctionnent une infraction qui a été commise, fût-ce même de bonne foi, par le contribuable en ce qui concerne l'assiette de l'impôt et ont donc le caractère de pénalités au sens de l'article 39-2 précité, même s'ils tendent seulement, eu égard à la manière dont la loi prescrit de les calculer, à réparer le préjudice causé au trésor par le retard avec lequel les droits éludés sont mis en recouvrement ;<br/>   Cons., d'autre part, que les réponses à des parlementaires et les circulaires invoquées par la société requérante sur le fondement de l'article 1649 quinquies E du code général des impôts ne comportent aucune interprétation formelle de la loi fiscale de nature à faire obstacle à ce que les intérêts de retard soient regardés, lorsqu'ils correspondent à une infraction aux règles d'assiette de l'impôt, comme des pénalités entrant dans le champ d'application de l'article 39-2 ;<br/>   Cons. qu'il résulte de tout ce qui précède que la société anonyme X... n'est pas fondée à soutenir que c'est à tort que, par le jugement attaqué, le tribunal administratif de Paris a rejeté sa demande ;<br/>    rejet .<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-04 CONTRIBUTIONS ET TAXES -  GENERALITES - AMENDES, PENALITES, MAJORATION -  Intérêts de retard - Caractère de pénalités au sens de l'article 39-2 du C.G.I..</SCT>
+<ANA ID="9AA">19-01-04          Aux termes de l'article 39-2 du C.G.I., "les pénalités de toute nature mises à la charge des contrevenants aux dispositions légales régissant ... l'assiette des impôts ... ne sont pas admises en déduction des bénéfices soumis à l'impôt". Les intérêts de retard prévus à l'article 1728 du C.G.I. pour le cas où le contribuable "déclare une base ou des éléments d'imposition insuffisants ou effectue un versement insuffisant" sanctionnent une infraction commise, fût-ce de bonne foi, par le contribuable en ce qui concerne l'assiette de l'impôt. Ils ont donc le caractère de pénalités au sens de l'article 39-2 du C.G.I., même si, en raison de leur mode de calcul, ils tendent seulement à réparer le préjudice causé au trésor par le retard du versement de l'impôt éludé.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 quinquies E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1728</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

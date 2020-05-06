@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267825</ID>
+<ANCIEN_ID>JTXLX1972X10X00000GRSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/78/CETATEXT000008267825.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Grenoble, du 11 octobre 1972, publié au recueil Lebon</TITRE>
+<DATE_DEC>1972-10-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Courtine</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Darot</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Rieu</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-07 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS - IMPOT SUR LE REVENU  - PRELEVEMENT DE 15% INSTITUE PAR LA LOI DU 15 MARS 1963 [art. 235 QUATER DU C.G.I.] -  Caractère libératoire du prélèvement.</SCT>
+<ANA ID="9AA">19-04-01-02-07        En l'espèce le contribuable n'est pas intervenu "à d'autres titres" dans des opérations se rattachant à la construction immobilière, et les plus-values qu'il a réalisées ne peuvent être regardées comme ayant constitué la "source normale de ses revenus" au cours des années litigieuses.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 235 Quater</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

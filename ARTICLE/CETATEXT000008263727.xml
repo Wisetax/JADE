@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263727</ID>
+<ANCIEN_ID>JTXLX1974X05X00000STSIC</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/37/CETATEXT000008263727.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Strasbourg, du 24 mai 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-05-24</DATE_DEC>
+<JURIDICTION>Tribunal administratif Strasbourg</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Staub</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Grandval</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Lamberigts</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">16-05-01-02 COMMUNE - FINANCES COMMUNALES - BIENS DES COMMUNES - CONTRATS ET MARCHES -  FINANCES COMMUNALES - RECETTES -  Taxe de raccordement au réseau communal des eaux usées - Opposition à l'état exécutoire - Délais.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-09 CONTRIBUTIONS ET TAXES -  PRELEVEMENTS AUTRES QUE FISCAUX ET PARAFISCALITE -  Taxe de raccordement au réseau communal des eaux usées - Opposition à l'état exécutoire - Délais.</SCT>
+<ANA ID="9AA">16-05-01-02, 19-09        Le redevable dispose d'un délai de 2 mois courant à compter de la signification de l'état exécutoire pour se pourvoir devant le Tribunal administratif sans que sa requête ait à être précédée d'une réclamation adressée au Trésorier Payeur Général. Il peut choisir cependant de contester la redevance mise à sa charge en suivant la procédure définie aux articles 1846 et 1910 du code général des impôts mais alors les délais d'opposition à retenir sont ceux qui sont fixés auxdits articles.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1846</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1910</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la santé publique L35 6</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

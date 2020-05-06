@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008293155</ID>
+<ANCIEN_ID>JTXLX1980X12X00000PAACF</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/31/CETATEXT000008293155.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 17 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Namin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bourdet</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - CHARGES DEDUCTIBLES - Cotisations versées à une société mutualiste en vue de s'assurer contre le risque "maladie".</SCT>
+<ANA ID="9AA">19-04-01-02-03-04          Des cotisations versées à une société mutualiste en vue de s'assurer contre le risque "maladie" ne constituent pas des versements effectués à titre de cotisations de sécurité sociale déductibles du revenu global en application de l'article 156 II 4°, alors même que ces cotisations sont indispensables pour garantir au contribuable la couverture à l'étranger du risque "maladie" dans des conditions analogues à celles assurées en France par la sécurité sociale et que leur montant est comparable à celui des cotisations de sécurité sociale dont la déduction aurait été admise.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 15 II</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 156 II 4</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

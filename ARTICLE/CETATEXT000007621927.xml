@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007621927</ID>
+<ANCIEN_ID>JFXLX1986X01X0000050508</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/19/CETATEXT000007621927.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 6 janvier 1986, 50508, publié au recueil Lebon</TITRE>
+<DATE_DEC>1986-01-06</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>50508</NUMERO>
+<SOLUTION>Réformation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Videau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Magniny</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Fouquet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-01-02,RJ1 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - PERSONNES ET OPERATIONS TAXABLES - TERRITORIALITE -&lt;CA&gt;Notion d'affaires faites en France - Absence - Opérations sur les marchés financiers internationaux.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-04,RJ1 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES - TAXES ASSIMILEES AUX T.C.A. -&lt;CA&gt;Taxe spéciale sur les activités bancaires et financières (article 299 du C.G.I. en vigueur jusqu'au 1er janvier 1979) - Notion d'affaires faites en France (article 258 du C.G.I.) - Opérations sur les marchés financiers internationaux.</SCT>
+<ANA ID="9AA">19-06-02-01-02, 19-06-04        En vertu du 2 de l'article 299 du C.G.I., la définition des affaires faites en France et soumises à la taxe spéciale sur les activités bancaires et financières est celle donnée à l'article 258 (rédaction en vigueur jusqu'au 1er janvier 1979) applicable en matière de T.V.A., et aux termes duquel : "Une affaire est réputée faite en France, s'il s'agit d'une vente, lorsque celle-ci est réalisée aux conditions de livraison de la marchandise en France, s'il s'agit de toute autre affaire lorsque le service rendu, le droit cédé ou l'objet loué sont utilisés ou exploités en France".        La mission accomplie par la banque requérante comportait, dans le cas d'euro-émissions, la négociation avec des établissements financiers à l'étranger des conditions et du calendrier de l'emprunt, la recherche de l'accord des banques de divers pays étrangers appelées à assurer directement ou indirectement le placement des titres, le contrôle du déroulement de l'opération à l'étranger, les modalités de cotation sur une place étrangère et d'organisation d'un marché secondaire, la centralisation des fonds recueillis et, à la fin de la période d'émission, la remise des fonds à l'emprunteur en échange des titres représentatifs de l'emprunt sur la place étrangère. Dans le cas de demandes de crédits sur le marché bancaire international, la mission de la banque consistait à négocier les conditions des prêts, à solliciter la participation de banques, à organiser, au bénéfice des personnes morales qui l'avaient commise, les virements de fonds leur revenant ainsi que les règlements ultérieurement effectués par ces dernières à raison du remboursement ou du paiement d'intérêts dans le pays dont la devise était utilisée. Les prestations de service ainsi accomplies par la banque se sont achevées au moment de l'échange des titres émis contre les fonds recueillis, lesquels étaient versés à un compte ouvert au nom de l'emprunteur sur une place financière étrangère. Dès lors, pour la part rémunérée par la "commission de direction" et qui n'est pas dissociable de l'ensemble des opérations d'entremise exécutées à l'étranger, le service rendu à l'emprunteur a été utilisé par celui-ci hors de France au sens des dispositions de l'article 258 du code, quel que soit le lieu où seront ultérieurement employés les fonds recueillis. Ladite commission est, par suite, placée hors du champ d'application de la taxe sur les activités financières (1).</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. Plénière, 1985-12-06, Banque Franco-portugaise, n° 30661&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 258, 299 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI Livre des procédures fiscales L203</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

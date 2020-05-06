@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008185338</ID>
+<ANCIEN_ID>JTXLX1994X03X00000ROLAB</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/18/53/CETATEXT000008185338.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Rouen, du 16 mars 1994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1994-03-16</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Panazza</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Fontaine</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Aupoix</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03-02-02 CONTRIBUTIONS ET TAXES - GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - REDRESSEMENT - NOTIFICATION DE REDRESSEMENT -Obligation de motivation - Conséquences - Contribuable mis à même de présenter des observations orales (art. 8 du décret n° 83-1025 du 28 novembre 1983).</SCT>
+<ANA ID="9AA">19-01-03-02-02          Cinq jours après un entretien, qui a eu lieu à l'initiative du contribuable, entre le chef de brigade du vérificateur et le réquérant, celui-ci a adressé les documents justificatifs qu'il s'était engagé à fournir. Le jour même de cet envoi, l'inspecteur principal confirmait le redressement litigieux.          En procédant ainsi, l'administration n'a pas satisfait de manière complète à la demande d'entretien oral formulée par le requérant et a par voie de conséquence méconnu la procédure contradictoire prévue par les dispositions, dont il se prévaut, de l'article 8 du décret du 28 novembre 1983 applicable en l'espèce bien qu'une notification de redressements doive être motivée en application de l'article L. 57 du livre des procédures fiscales et non en vertu de la loi du 11 juillet 1979 comme le prévoient les dispositions dudit article 8.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales L57, L277</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN4 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 83-1025 1983-11-28 art. 8</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

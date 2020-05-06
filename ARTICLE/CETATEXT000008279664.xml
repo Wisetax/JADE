@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008279664</ID>
+<ANCIEN_ID>JTXLX1978X07X00000LYMAI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/96/CETATEXT000008279664.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lyon, du 4 juillet 1978, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1978-07-04</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Vieil</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Vieil</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Chabanol</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-02-03 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - CONTRIBUTION FONCIERE - CONTRIBUTION FONCIERE DES PROPRIETES NON BATIES - Dégrèvement en cas de perte de récoltes sur pied - Délai pour présenter la réclamation.</SCT>
+<ANA ID="9AA">19-03-02-03          La réclamation doit être présentée soit quinze jours au moins avant la date où commence habituellement l'enlèvement des récoltes soit dans les quinze jours du sinistre [art. 1932-4 du CGI]. L'arrêté préfectoral classant une commune comme commune sinistrée ne rouvre pas ce délai.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1398</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1932 4</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

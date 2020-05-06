@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286332</ID>
+<ANCIEN_ID>JTXLX1996X04X00000LLLEF</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/63/CETATEXT000008286332.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 11 avril 1996, 91-670, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-04-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>91-670</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rivaux</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Looten</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Boulay</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-04 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - CHARGES DEDUCTIBLES -Absence - Contribution d'un époux aux charges du ménage (article 214 du code civil) - Autorisation de résidence séparée non prononcée.</SCT>
+<ANA ID="9AA">19-04-01-02-03-04          Un contribuable a été condamné, par jugement du tribunal d'instance, à payer à son épouse une somme mensuelle au titre de la contribution aux charges du ménage sur le fondement, notamment, de l'article 214 du code civil, sans qu'une autorisation de résidence séparée, emportant imposition séparée des époux en application de l'article 6 4 b du code général des impôts, ait été prononcée ; dans ces conditions, si le contribuable ne se trouve en outre dans aucune des situations visées par les dispositions de l'article 156 II-2 de ce code relatives à la déduction des pensions alimentaires, les sommes versées en application des condamnations sus-mentionnées ne sont pas des charges déductibles de l'impôt sur le revenu au sens de l'article 156 II-2°.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 6, 156</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil 214</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

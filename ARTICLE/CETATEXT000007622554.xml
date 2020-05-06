@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007622554</ID>
+<ANCIEN_ID>JFXLX1986X01X0000042795</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/25/CETATEXT000007622554.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 6 janvier 1986, 42795, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-01-06</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>42795</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Videau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Magniny</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Fouquet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-083 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - BENEFICES INDUSTRIELS ET COMMERCIAUX - DETERMINATION DU BENEFICE NET - RELATIONS ENTRE SOCIETES D'UN MEME GROUPE -Autres avantages accordés à une entreprise du groupe - Charge déductible - Frais facturés par une société à une filiale - Frais d'immobilisation de stocks - Charges d'exploitation de la filiale.</SCT>
+<ANA ID="9AA">19-04-02-01-04-083        Une société déposait chez sa filiale des stocks de fil de cuivre nécessaires à l'activité de négoce de cette dernière, laquelle avait l'entière maîtrise de la gestion de ces stocks qu'elle ne payait à sa société-mère qu'au moment de leur vente à ses clients et à concurrence des quantités vendues. La société-mère facturait à sa filiale les frais financiers supportés par elle à raison de l'immobilisation des stocks. Les concours ainsi apportés et facturés à la filiale présentaient pour celle-ci le caractère de charges d'exploitation exposées dans son intérêt et étaient par suite déductibles de son bénéfice imposable, alors même qu'aucune convention écrite n'avait été signée entre la société-mère et sa filiale, et que cette dernière n'était pas propriétaire des stocks de fil de cuivre mis à sa disposition.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

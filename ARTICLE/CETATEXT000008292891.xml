@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008292891</ID>
+<ANCIEN_ID>JTXLX1975X11X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/28/CETATEXT000008292891.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 17 novembre 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-11-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lappanne-Joinville</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Serre</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-02-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS FONCIERS ET PLUS-VALUES ASSIMILABLES -  PLUS-VALUES ASSIMILABLES [art. 150 TER DU C.G.I.] - Calcul de la plus-value - Prise de cession - Avantage accordé par l'acquéreur au cédant postérieurement à l'année d'imposition.</SCT>
+<ANA ID="9AA">19-04-02-02-02        Une contribuable a fait apport d'un terrain à bâtir à une société de construction pour une valeur de 2.715.000 F comprenant 1.400.000 F en espèces et bons du trésor, 670.000 parts sociales de 1 F chacune [sur les 10.000.000 de parts que comporte la société] et une reconnaissance de dette de 645.000 F. Postérieurement à l'année d'imposition, la société a effectué des appels de fonds et s'est abstenue de toute demande au contribuable. A supposer qu'un avantage ait ainsi été accordé par la société, il ne peut entrer dans la détermination du prix de cession du terrain à bâtir.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 12</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 13</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 150 TER</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 156</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1728</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1734</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 721-1 AL. 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 62</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

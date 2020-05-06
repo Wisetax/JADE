@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267877</ID>
+<ANCIEN_ID>JTXLX1973X04X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/78/CETATEXT000008267877.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 26 avril 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-04-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Eudier</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bulle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Meyer</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-05 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS - IMPOT SUR LE REVENU  - DETERMINATION DU REVENU IMPOSABLE - EVALUATION FORFAITAIRE DU REVENU -  Eléments du train de vie [art. 168 du C.G.I.] - Déduction du montant des revenus expressément exonérés de l'Impôt [art. 168-3] - Ressources n'ayant pas le caractère de revenus : primes à la construction.</SCT>
+<ANA ID="9AA">19-04-01-02-03-05        Présentant le caractère, non de revenus fonciers, mais de gains en capital, des primes à la construction n'entrent pas dans les prévisions de l'article 168-3.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 168-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 168-3</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

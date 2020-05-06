@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008292866</ID>
+<ANCIEN_ID>JTXLX1975X11X00000PASTX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/28/CETATEXT000008292866.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 12 novembre 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-11-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. de Malafosse</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Meyer</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -  Objet des provisions - Dépréciation du portefeuille - Notion de titres en portefeuille - Champ d'application du régime des moins-values à long terme.</SCT>
+<ANA ID="9AA">19-04-02-01-04-04        Un groupement de fait a été constitué par dix-neuf banques pour régulariser les cours boursiers de trois valeurs mobilières, ayant la fusion des sociétés émettrices, en vue de maintenir les parités prévues pour l'échange des titres. En raison de l'objet de groupement et de ses moyens d'intervention, les opérations effectuées par ses participants en exécution de leur engagement n'entraient pas dans le champ d'application de l'alinéa 8 de l'article 39-I-5 du code général des impôts [issu de la loi du 12 juill. 1965], et les provisions constituées par eux en raison de la baisse des actions concernées n'étaient par suite pas soumises au régime des moins-values à long terme.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1965-07-12</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270764</ID>
+<ANCIEN_ID>JTXLX1979X06X00000PUMRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270764.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Pau, du 26 juin 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-06-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif Pau</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Darot</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Melle Villetorte</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Piedbois</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - MONTANT GLOBAL DU REVENU BRUT - Déduction d'un déficit dans la catégorie des revenus des capitaux mobiliers.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-03-03 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS DES CAPITAUX MOBILIERS ET ASSIMILABLES -  PRODUITS DES PLACEMENTS A REVENUS FIXES - Perte de revenus des capitaux mobiliers.</SCT>
+<ANA ID="9AA">19-04-01-02-03-02, 19-04-02-03-03          Un contribuable qui a acheté, au cours d'une année n, des bons de caisse et a perçu à cette occasion un précompte d'intérêts imposables et qui, en portant ces bons à l'escompte au cours de l'année n + 1, voit la banque reprendre une partie des intérêts qu'il avait perçus d'avance, constate, au titre de l'année n + 1, une perte dans la catégorie des revenus des capitaux mobiliers. Le déficit que la perte peut causer dans cette catégorie de revenus, est déductible du revenu global en application de l'article 156 du CGI.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 12</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 156</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

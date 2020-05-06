@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008266921</ID>
+<ANCIEN_ID>JTXLX1996X04X00000LYVER</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/69/CETATEXT000008266921.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lyon, du 3 avril 1996, 8710829, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-04-03</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lyon</JURIDICTION>
+<NUMERO>8710829</NUMERO>
+<SOLUTION>Réformation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Chevalier</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Besle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bourrachot</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-04-03 CONTRIBUTIONS ET TAXES - GENERALITES - AMENDES, PENALITES, MAJORATIONS - PENALITES POUR MAUVAISE FOI -Portée de l'article 42-II de la loi de finances rectificative n° 86-1318 du 30 décembre 1986 - Pénalités infligées avant l'entrée en vigueur de ce texte - Motivation obligatoire - Motivation pouvant être mentionnée dans une notification de redressements ou dans la réponse aux observations du contribuable.</SCT>
+<ANA ID="9AA">19-01-04-03          L'article 42-II de la loi n° 86-1318 du 30 décembre 1986 portant loi de finances rectificative pour 1986, dont le 1° est repris au 1er alinéa de l'article L. 80 D du livre des procédures fiscales, dispose : "1° Les décisions mettant à la charge des contribuables des sanctions fiscales sont motivées au sens de la loi n° 79-587 du 11 juillet 1979 ... quand un document ou une décision adressé au plus tard lors de la notification du titre exécutoire ou de son extrait a porté la motivation à la connaissance du contribuable ; 2° Les décisions notifiées antérieurement à la publication de la présente loi dans les conditions prévues au paragraphe I sont réputées régulièrement motivées". Il résulte de ces dispositions que la motivation des pénalités, qui doit comporter les éléments de droit et de fait qui les fondent, peut être régulièrement portée à la connaissance du contribuable, en cas de procédure de redressement contradictoire, à l'occasion soit de la notification de redressements soit de la réponse de l'administration aux observations du contribuable à ladite notification ou en cas d'imposition d'office, lors de la notification précisant les modalités de calcul des bases ou des éléments servant au calcul des impositions. Si le 2° précité de l'article 42-II de la loi n° 86-1318 du 30 décembre 1986, éclairé par les travaux parlementaires, a conféré un caractère rétroactif au I des dispositions codifiées à l'article L. 80 D du livre des procédures fiscales, il n'a toutefois pas entendu régulariser les décisions infligeant des sanctions intervenues antérieurement à son entrée en vigueur et dépourvues de toute motivation.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales L80 D</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 86-1318 1986-12-30 art. 42 II finances rectificative</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264259</ID>
+<ANCIEN_ID>JTXLX1974X11X00000PASFP</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/42/CETATEXT000008264259.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 27 novembre 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-11-27</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. de Malafosse</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Meyer</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-02 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  EXEMPTIONS ET EXONERATIONS - Travaux d'études nécessaires à la réalisation de constructions immobilières et de travaux publics [art. 8 de la loi du 22 décembre 1966] - Définition.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-02-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - PERSONNES ET AFFAIRES TAXABLES -  Exemptions - Travaux d'études nécessaires à la réalisation de constructions immobilières et de travaux publics [art. 8 de la loi du 22 décembre 1966] - Définition.</SCT>
+<ANA ID="9AA">19-06-01-02, 19-06-02-01        Le contribuable effectue des études en vue de mettre au point des plans types de constructions proposés aux acheteurs et vendus par dossiers "prêts à construire". Il adapte le cas échéant ses plans types selon les dessins des clients, sans pour autant prendre part à la réalisation des constructions. L'ensemble de son activité est la suite normale de ses travaux de recherche et d'études et doit par suite être exonéré des taxes sur le chiffre d'affaires.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 66-948 1966-12-22 art. 8</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 67-1172 1967-12-22 art. 8</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

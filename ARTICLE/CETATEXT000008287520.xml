@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287520</ID>
+<ANCIEN_ID>JTXLX1999X02X00000LLLEF</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/75/CETATEXT000008287520.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 4 février 1999, 95-994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-02-04</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-994</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Vettraino</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Looten</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Michel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-04 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE PROFESSIONNELLE - ASSIETTE -Calcul de la réduction pour embauche et investissement (article 1469 A bis du CGI).</SCT>
+<ANA ID="9AA">19-03-04-04          Pour calculer la réduction pour embauche et investissement prévue par l'article 1469 A bis du CGI, la base d'imposition de l'année n doit être comparée à la base d'imposition de l'année précédente, n-1, telle que cette dernière a été éventuellement redressée par l'administration fiscale, dès lors que ce redressement n'est pas utilement contesté, et nonobstant la circonstance que l'année n-1 serait prescrite.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1469 A bis</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

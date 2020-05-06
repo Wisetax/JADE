@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008271018</ID>
+<ANCIEN_ID>JTXLX1977X07X00000PUCAL</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/10/CETATEXT000008271018.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Pau, du 5 juillet 1977, 00429, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-07-05</DATE_DEC>
+<JURIDICTION>Tribunal administratif Pau</JURIDICTION>
+<NUMERO>00429</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Darot</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Darot</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Piedbois</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02-03-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - LIQUIDATION DE LA TAXE -  DEDUCTIONS -  BIENS OU SERVICES OUVRANT DROIT A DEDUCTION - Véhicules - [art. 237 de l'annexe II du C.G.I.].</SCT>
+<ANA ID="9AA">8AA          Les véhicules acquis par une association de commerçants en vue de constituer les lots d'une tombola organisée dans le cadre d'une quinzaine commerciale n'ouvrent pas droit à déduction dès lors qu'ils ne peuvent être regardés comme destinés a être revendus à l'état de neuf au sens de l'article 237 de l'annexe II du code général des impôts.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 271</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 273</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 237</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

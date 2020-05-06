@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284339</ID>
+<ANCIEN_ID>JTXLX1995X06X00000LYOPH</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/43/CETATEXT000008284339.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lyon, du 14 juin 1995, 9301119, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1995-06-14</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lyon</JURIDICTION>
+<NUMERO>9301119</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Chevalier</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Chevalier</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Helmlinger</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-031,RJ1,RJ2 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE D'HABITATION -Exonération des bureaux des fonctionnaires publics (article 1407-II-4° du C.G.I.) - Siège administratif d'un office public d'H.L.M. (1) (2).</SCT>
+<ANA ID="9AA">19-03-031          L'exonération des bureaux des fonctionnaires publics prévue par le paragraphe II-4° de l'article 1407 du C.G.I. concerne les locaux occupés par des fonctionnaires des administrations de l'Etat, des régions, des départements, des communes et de leurs établissements publics, hormis les services et établissements publics à caractère industriel ou commercial.          Les locaux du siège administratif d'un office public d'H.L.M. qui, en application des dispositions du code de la construction et de l'habitation, est un établissement public administratif, et dont les emplois sont occupés, conformément à la loi n° 83-634 du 13 juillet 1983, par des fonctionnaires, ne sont donc pas imposables à la taxe d'habitation, en application du paragraphe II-4° de l'article 1407 du code général des impôts.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. CAA de Nancy, 1994-01-27, Chambre de commerce et d'industrie de Gray-Vesoul, p. 611. 2. Comp. CE, Section, 1975-02-07, Ordre des avocats au barreau de Lille, p. 96&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1407</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 83-634 1983-07-13</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

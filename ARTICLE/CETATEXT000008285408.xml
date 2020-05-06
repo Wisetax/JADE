@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008285408</ID>
+<ANCIEN_ID>JTXLX1995X02X00000CMBUR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/54/CETATEXT000008285408.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Châlons-sur-Marne, du 28 février 1995, 93-1556, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1995-02-28</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Châlons-sur-Marne</JURIDICTION>
+<NUMERO>93-1556</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Philippoteaux</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Evgenas</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Monbrun</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-04 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - CHARGES DEDUCTIBLES -Cotisations de retraite supplémentaire - Caractère obligatoire de l'affiliation du salarié dans le cadre d'un contrat inter-entreprises dit "ouvert" dans lequel les entreprises peuvent cotiser à un taux différent.</SCT>
+<ANA ID="9AA">19-04-01-02-03-04          Dans le cadre d'un contrat inter-entreprises dit "ouvert" le caractère obligatoire de l'affiliation du salarié, au sens de l'article 83-2 du code général des impôts, s'apprécie au niveau de l'entreprise souscriptrice et peut donc être admis même si parmi l'ensemble des entreprises adhérentes à un tel type de contrat, les taux de cotisation sont différents.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 83 2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

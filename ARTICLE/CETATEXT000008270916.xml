@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270916</ID>
+<ANCIEN_ID>JTXLX1973X03X00000GRTCF</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/09/CETATEXT000008270916.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Grenoble, du 14 mars 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-03-14</DATE_DEC>
+<JURIDICTION>Tribunal administratif Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Courtine</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Ravat</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Rieux</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-01 CONTRIBUTIONS ET TAXES -  ANCIENNES CONTRIBUTIONS ET TAXES ASSIMILEES - PATENTE - PROFESSIONS ET PERSONNES IMPOSABLES - Personnes non imposables - Association qui gère un refuge de montagne dans un but totalement désintéressé.</SCT>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1447</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1901-07-01</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

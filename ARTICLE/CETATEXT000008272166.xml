@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272166</ID>
+<ANCIEN_ID>JTXLX1980X10X00000ORSAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/21/CETATEXT000008272166.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Orléans, du 7 octobre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-10-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif Orléans</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction REJET SURPLUS</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Ynden</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Rossinot</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-03-03 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - EVALUATION DE L'ACTIF - PLUS ET MOINS-VALUES DE CESSION - Plus-value à long terme - Expropriation pour cause d'utilité publique - Indemnité d'expropriation fixée de manière amiable et globale - Fraction de l'indemnité à prendre en compte dans le calcul de la plus-value.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-01-03-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - EVALUATION DE L'ACTIF - PROFITS DE TOUTE NATURE - Expropriation pour cause d'utilité publique - Indemnité d'expropriation fixée de manière amiable et globale - Détermination de la fraction de l'indemnité qui doit être rapportée aux bénéfices imposables.</SCT>
+<ANA ID="9AA">19-04-02-01-03-03, 19-04-02-01-03-04          Expropriation d'un immeuble appartenant à une société. Fixation amiable de l'indemnité à un montant global sans ventilation entre l'indemnité principale et les indemnités de remploi.          Cette présentation formelle de l'indemnité versée à l'exproprié ne fait pas obstacle à ce que soient distraites de son montant et rapportées au bénéfice de l'exercice au taux de droit commun les sommes destinées à indemniser des préjudices susceptibles de donner lieu à des indemnités accessoires, et notamment le manque à gagner résultant d'une part des frais à exposer pour l'acquisition d'un bien de même nature et d'autre part de la cessation temporaire d'activité résultant de la procédure d'expropriation. Seul le surplus de l'indemnité peut être soumis au régime des plus-values à long terme.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 duodecies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 59-1335 1959-11-20 ART. 22</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 58-997 1958-10-23 ART. 11</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

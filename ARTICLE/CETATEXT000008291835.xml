@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291835</ID>
+<ANCIEN_ID>JTXLX1980X12X00000VEMFE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/18/CETATEXT000008291835.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Versailles, du 12 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif Versailles</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Pipien</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Peeters</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Cochème</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03-01 CONTRIBUTIONS ET TAXES -  GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - CONTROLE FISCAL - Notion de vérification de comptabilité - Vérification comptable et droit de communication - Saisie des factures fournisseurs et des journaux d'achats intéressant quatre années d'imposition.</SCT>
+<ANA ID="9AA">19-01-03-01          Vérificateur ayant emporté hors du siège de l'entreprise et sans autorisation écrite ni remise d'un reçu détaillé des pièces, la totalité des factures fournisseurs et les journaux d'achats se rapportant à quatre années d'imposition. Le dépouillement de ces documents a permis de conclure à la dissimulation des 2/3 des achats totaux.          Le vérificateur n'ayant pu parvenir à une telle conclusion sans contrôler l'exactitude et la sincérité des écritures comptables du contribuable, le contrôle litigieux constituait une vérification de comptabilité et non une modalité de l'exercice du droit de communication prévu à l'article 1991 du CGI.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 septies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1991</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

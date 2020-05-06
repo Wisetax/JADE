@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007616291</ID>
+<ANCIEN_ID>JFXLX1978X01X0000085263</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/61/62/CETATEXT000007616291.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 4 janvier 1978, 85263, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1978-01-04</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>85263</NUMERO>
+<SOLUTION>Avant dire droit</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rain</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Schmeltz</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Fabre</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-01,RJ1 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - PERSONNES ET AFFAIRES TAXABLES -  Entreprises dépendantes - Critère de la dépendance - Article 016 Z quaterdecies de l'annexe II au C.G.I.</SCT>
+<ANA ID="9AA">19-06-02-01          Communauté d'intérêt établie dès lors que la société requérante assurait l'essentiel de la publicité des produits fabriqués par la société A. [RJ1]. En revanche, si cette société bénéficiait de la part de la société B. de remises très supérieures à celles pratiquées normalement dans la profession, il n'est pas établi que ces remises aient constitué la contrepartie de services particuliers rendus par la requérante à sa cocontractante au sens des dispositions de l'article 016 Z quaterdecies de l'annexe II au C.G.I. Absence de communauté d'intérêt.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Cf. 96300, S.A. "Kavo-France", du même jour&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 quinquies E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 263 [1965]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 16 Z quaterdecies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 16 Z terdecies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1964-03-11</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

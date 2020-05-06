@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267897</ID>
+<ANCIEN_ID>JTXLX1973X06X00000LYSTX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/78/CETATEXT000008267897.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lyon, du 13 juin 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-06-13</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Guinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lopez</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Teulières</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-05 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX - CONVENTIONS INTERNATIONALES - Convention franco-canadienne du 15 juin 1953 - Imposition, dans l'Etat sur le territoire duquel elles possèdent un établissement stable, des revenus des entreprises industrielles, minières, commerciales, financières et d'assurance [art. 4 de la convention] - Application aux profits immobiliers assimilés à des bénéfices industriels et commerciaux par les articles 35 et 35 A du C.G.I.</SCT>
+<ANA ID="9AA">19-01-01-05        Le prélèvement de 50 %, dont la perception est prévue à l'article 244 bis du C.G.I., sur les profits visés aux articles 35 et 35 A lorsqu'ils sont réalisés par des personnes qui n'ont pas d'établissement en France, ne peut être imposé à une société dont le seul établissement se trouve au Canada.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 244 Bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35 A</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Convention 1953-06-15 FRANCO-CANADIENNE art. 4 et 3</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

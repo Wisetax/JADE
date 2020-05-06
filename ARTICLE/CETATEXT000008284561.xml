@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284561</ID>
+<ANCIEN_ID>JTXLX1998X10X00000LLTER</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/45/CETATEXT000008284561.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 1 octobre 1998, 95-2965 97-2245, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-10-01</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-2965 97-2245</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Martin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Brunelli</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-05,RJ1 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOTS ET PRELEVEMENTS DIVERS SUR LES BENEFICES -Imposition forfaitaire annuelle - Base imposable - Exclusion - Produits des participations (1).</SCT>
+<ANA ID="9AA">19-04-01-05          Les dividendes perçus par une société dont l'objet consiste uniquement à gérer un portefeuille de titres, ne peuvent être regardés comme des éléments constitutifs du chiffre d'affaires, au sens des dispositions de l'article 223 septies du code général des impôts définissant les différentes tranches d'imposition à l'imposition forfaitaire annuelle, même si ces produits d'exploitation représentent les recettes de la société.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. CE, 1990-03-07, Ministre du budget c/ Société Canny Bowen Inc., p. 60&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 223 septies</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

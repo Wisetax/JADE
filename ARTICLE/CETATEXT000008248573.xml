@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008248573</ID>
+<ANCIEN_ID>JTXLX1977X03X00000MODAM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/85/CETATEXT000008248573.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Montpellier, du 10 mars 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-03-10</DATE_DEC>
+<JURIDICTION>Tribunal administratif Montpellier</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Gibert</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Cathala</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Meyerhoeffer</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-02-01-02 CONTRIBUTIONS ET TAXES -  PROCEDURE CONTENTIEUSE -  QUESTIONS COMMUNES -  POUVOIRS DU JUGE FISCAL - Autorité de la chose jugée - Chose jugée par le juge administratif - Autorité à l'égard de chacun des époux vivant sous le même toit et ne faisant pas l'objet d'une imposition distincte.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-02-03-01-06 CONTRIBUTIONS ET TAXES -  PROCEDURE CONTENTIEUSE -  DEMANDES ET OPPOSITIONS DEVANT LE TRIBUNAL ADMINISTRATIF -  FORMES -  CONTENU DE LA DEMANDE - Motivation nouvelle - Epoux d'un contribuable qui présente devant un Tribunal administratif une requête dirigée contre les impositions déjà contestées par son époux devant un autre tribunal.</SCT>
+<ANA ID="9AA">19-02-01-02, 19-02-03-01-06        Le tribunal de T. a statué par des jugements devenus définitifs sur les mérites de la requête du sieur X. concernant certaines impositions. L'autorité de chose jugée qui s'attache à ces jugements à l'égard des époux X., s'oppose à ce que la requérante invoque utilement dans la requête dirigée contre les mêmes impôts qu'elle présente devant le tribunal de M., devenu depuis compétent territorialement, les mêmes moyens que ceux que son mari a fait valoir devant le tribunal de T.. En revanche, la dame X. est recevable à formuler des prétentions nouvelles fondées sur une cause juridique distincte.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 155</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 QUINQUIES E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 SEPTIES E</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

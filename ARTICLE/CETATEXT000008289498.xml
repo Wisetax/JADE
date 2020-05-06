@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008289498</ID>
+<ANCIEN_ID>JTXLX1994X06X00000LLCHA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/94/CETATEXT000008289498.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 9 juin 1994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1994-06-09</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Annulation partielle</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Fraysse</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Mulsant</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Laugier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">16-04-01-02-01-02 COMMUNE - FINANCES, BIENS, CONTRATS ET MARCHES - FINANCES COMMUNALES - RECETTES - TAXES, REDEVANCES, CONTRIBUTIONS - REDEVANCES -Redevance d'assainissement - Financement de réseaux d'assainissement avant leur mise en service - Illégalité.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-03-06-04 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - AUTRES TAXES OU REDEVANCES - REDEVANCES D'ASSAINISSEMENT -Financement de réseaux d'assainissement avant leur mise en service - Illégalité.</SCT>
+<ANA ID="9AA">16-04-01-02-01-02, 19-03-06-04          Aucune disposition législative ou réglementaire n'autorise les collectivités locales à financer, avant leur mise en service, la construction des réseaux d'assainissement, en prélevant sur les futurs usagers une redevance ou une somme équivalente. Annulation d'une délibération assujettissant les abonnés compris dans le périmètre d'une tranche de travaux de construction du réseau d'assainissement dont la réalisation a été votée, nonobstant la circonstance qu'en contrepartie de la redevance ainsi perçue, les personnes concernées par les travaux bénéficieraient de l'entretien de leur installation individuelle d'assainissement.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des communes L372-6, R372-8</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

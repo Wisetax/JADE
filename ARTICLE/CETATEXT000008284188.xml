@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284188</ID>
+<ANCIEN_ID>JTXLX1998X05X00000STTRA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/41/CETATEXT000008284188.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Strasbourg, du 12 mai 1998, 96290 à 96296 96685 à 96689 971285 à 971291, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-05-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Strasbourg</JURIDICTION>
+<NUMERO>96290 à 96296 96685 à 96689 971285 à 971291</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Woehrling</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Raisson</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martinez</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE PROFESSIONNELLE -Taxe additionnelle à la taxe professionnelle pour frais de chambre de commerce - Champ d'application - Inclusion - Concessionnaire de transports publics de voyageurs.</SCT>
+<ANA ID="9AA">19-03-04          L'article 1600 du code général des impôts exonère de taxe additionnelle pour frais de chambre de commerce les assujettis à la taxe professionnelle qui exercent exclusivement une profession non commerciale.          L'article 632 du code de commerce répute acte de commerce toute activité de transport par terre ou par eau.          Est en conséquence assujettie à cette taxe additionnelle en raison de la réputation commerciale de son activité au regard dudit article 632 une compagnie concessionnaire de transports publics de voyageurs bien qu'elle exerce une mission de service public dans des conditions qui excluent toute éventualité de profit et qui sont étrangères aux formes usuelles de l'activité commerciale.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1600</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de commerce 632</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

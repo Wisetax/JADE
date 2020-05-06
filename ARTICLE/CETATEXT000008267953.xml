@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267953</ID>
+<ANCIEN_ID>JTXLX1978X04X00000ROSAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/79/CETATEXT000008267953.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Rouen, du 18 avril 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-04-18</DATE_DEC>
+<JURIDICTION>Tribunal administratif Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Desmarescaux</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Ballouhey</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Sant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -  Provision pour investissements à raison des sommes portées à la réserve spéciale de participation des travailleurs aux fruits de l'expansion - Conditions de forme.</SCT>
+<ANA ID="9AA">19-04-02-01-04-04          L'article 8 de l'ordonnance du 17 Août 1967, codifié à l'article 237 bis A III du CGI, n'ayant pas dérogé aux dispositions de l'article 39-1-5 du Code, les conditions de forme relatives aux provisions sont applicables à la provision que peuvent constituer les entreprises qui affectent des sommes à la réserve spéciale de participation. Légalité de l'article 171 bis de l'annexe II du Code.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 237 BIS A III</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39-1 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 171 BIS</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 67-1112 1967-12-19 ART. 30</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 67-693 1967-08-17 ART. 8</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

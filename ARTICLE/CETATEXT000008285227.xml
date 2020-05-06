@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008285227</ID>
+<ANCIEN_ID>JTXLX1998X05X00000LLDUS</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/52/CETATEXT000008285227.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 28 mai 1998, 94-3525, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-05-28</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>94-3525</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Couzinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Mielnik-Meddah</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - EXEMPTIONS ET EXONERATIONS -Assujettissement des prestations de formation professionnelle continue assurées par des organismes de formation privés (art. 256 et 261-4-4° du CGI dans leur rédaction antérieure à la loi du 30 décembre 1993) - Incompatibilité avec l'article 13-A-1-i de la sixième directive.</SCT>
+<ANA ID="9AA">19-06-02-02          Les articles 256 et 261-4-4° du code général des impôts, en tant qu'ils prévoient l'assujettissement à la taxe sur la valeur ajoutée des prestations de formation professionnelle continue assurées par tout organisme privé ne sont pas conformes aux objectifs des dispositions du i) de l'article 13-A de la sixième directive qui prévoit que l'exonération concerne non seulement les organismes de droit public de même objet mais également les autres organismes reconnus comme ayant des fins comparables par l'Etat membre concerné.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 256, 261</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

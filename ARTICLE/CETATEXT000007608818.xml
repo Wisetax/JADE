@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007608818</ID>
+<ANCIEN_ID>JFXLX1965X07X0000038804</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/60/88/CETATEXT000007608818.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, Assemblée, du 2 juillet 1965, 38804 49394, publié au recueil Lebon</TITRE>
+<DATE_DEC>1965-07-02</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>38804 49394</NUMERO>
+<SOLUTION>Annulation totale</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>ASSEMBLEE</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT/>
+<AVOCATS/>
+<RAPPORTEUR>M. Pepy</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Poussière</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - QUESTIONS COMMUNES -Champ d'applicatio des TCA - Cabinets dentaires créés par des sociétés mutualistes.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">54-05-03-01 PROCEDURE - INCIDENTS - INTERVENTION - RECEVABILITE -Plein contentieux.</SCT>
+<ANA ID="9AA">19-06-01        Les taxes sur le chiffre d'affaires sont dues à l'occasion de tous les actes qui, par leur nature, relèvent des professions assujetties à l'impôt sur les bénéfices industriels et commerciaux. Le statut de la mutualité ne fait pas échapper à l'imposition les affaires réalisées par le cabinet dentaire créé par une société mutualiste. Les actes accomplis au sein de ce cabinet par les praticiens ne relèvent plus d'une activité non commerciale. Les circonstances de fonctionnement de l'établissement ne permettant pas de les admettre à la franchise d'impôt. L'article 8 de la loi du 3 février 1953 exemptant des taxes sur le chiffre d'affaires les établissements hospitaliers fondés notamment par les groupements mutualistes ne s'applique pas aux cabinets dentaires.</ANA>
+<ANA ID="9BA">54-05-03-01        Dans les litiges de plein contentieux, sont seules recevables à former une intervention, les personnes qui se prévalent d'un droit auquel la décision à rendre est susceptible de préjudicier.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 256, 286, 1573</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1953-02-03 art. 8</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 45-2456 1945-10-10</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

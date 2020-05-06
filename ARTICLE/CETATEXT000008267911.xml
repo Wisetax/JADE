@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267911</ID>
+<ANCIEN_ID>JTXLX1973X07X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/79/CETATEXT000008267911.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 10 juillet 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-07-10</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Desmarescaux</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Crochet-Damais</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-02-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS FONCIERS ET PLUS-VALUES ASSIMILABLES -  PLUS-VALUES ASSIMILABLES [art. 150 TER DU C.G.I]. -  Notion de terrain non bâti - Terrain qui, au moment de la cession, supporte un bâtiment de construction légère, à usage d'atelier de réparation, propriété du locataire.</SCT>
+<ANA ID="9AA">19-04-02-02-02        L'existence d'un tel bâtiment n'est pas, en l'espèce, de nature à retirer au terrain, vendu nu, le caractère de terrain "non bâti" au sens de l'article 150 ter.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 150 TER</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

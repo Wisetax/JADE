@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007611806</ID>
+<ANCIEN_ID>JFXLX1976X02X0000097157</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/61/18/CETATEXT000007611806.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 9 / 8 SSR, du 25 février 1976, 97157, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1976-02-25</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>97157</NUMERO>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>9 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. RAIN</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. GRANGE CABANE</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. SCHMELTZ</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>   Vu la requete presentee par le sieur albert guilbert, demeurant a bayeux  calvados , ..., cette requete ayant ete enregistree au secretariat du contentieux du conseil d'etat le 2 octobre 1974 et tendant a l'annulation d'un jugement en date du 9 juillet 1974 par lequel le tribunal administratif de caen a rejete sa demande en decharge des impositions supplementaires de taxe sur la valeur ajoutee qui ont ete mises a sa charge pour la periode 1969-1970 par un avis de mise en recouvrement du 17 mars 1971;<br/>   Vu le code general des impots;    Vu l'ordonnance du 31 juillet 1945 et le decret du 30 septembre 1953;<br/>   Considerant qu'aux termes de l'article 280-2 du code general des impots relatif a la taxe sur la valeur ajoutee:"le taux intermediaire est egalement applicable : b  aux prestations ... faites par les redevables inscrits au repertoire des metiers, a l'exception des operations dont les caracteristiques ne justifient pas l'immatriculation audit repertoire des personnes qui y procedent"; qu'il resulte de ces dispositions que les redevables inscrits au registre des metiers ne peuvent beneficier du taux intermediaire que pour les prestations qui requierent leur participation personnelle et habituelle, ou celle de leurs salaries; que cette condition exclut notamment les prestations qu'un redevable inscrit au registre des metiers fournit a ses clients en ayant recours a un sous-traitant ;<br/>   Considerant qu'il resulte de l'instruction que les travaux de tolerie et de peinture qui font l'objet du litige ont ete confies par le requerant a des sous-traitants ; que c'est donc a bon droit que les prestations de services ainsi fournies par le sieur guilbert a ses clients ont ete soumises a la taxe sur la valeur ajoutee au taux normal ; que par suite, et sans qu'il soit besoin de statuer sur la recevabilite de la demande au tribu nal administratif contestee par le ministre, le requerant n'est pas fonde a soutenir que c'est a tort que, par le jugement attaque, le tribunal administratif a rejete sa demande en decharge ;<br/>   Decide :    Article 1er.- la requete susvisee du sieur guilbert est rejetee.    Article 2 .- expedition de la presente decision sera transmise au ministre de l'economie et des finances.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-06,RJ1 CONTRIBUTIONS ET TAXES - GENERALITES - DIVERS -Artisan fiscal - Prépondérance du travail personnel - Sous-traitance.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-02-03-01,RJ1 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET  ASSIMILES - T.V.A. - CALCUL DE LA TAXE - TAUX -Taux réduit - Artisans [art. 280-2 B du C.G.I.] - Opérations de sous-traitance.</SCT>
+<ANA ID="9AA">19-01-06, 19-06-02-03-01    Il résulte des dispositions de l'article 280-2 b du C.G.I. que les redevables inscrits au registre des métiers ne peuvent bénéficier du taux intermédiaire de la T.V.A. que pour les prestations qui requièrent leur participation personnelle et habituelle, ou celle de leurs salariés. Cette condition exclut notamment les prestations qu'ils fournissent à leurs clients en ayant recours à un sous-traitant [1].</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. CONF. pour l'application de la législation antérieure à 1968 : Conseil d'Etat 1971-11-03 ROGER MABILAT N. 75 898 Recueil Lebon T. P. 990&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 280-2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

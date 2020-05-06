@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008290441</ID>
+<ANCIEN_ID>JTXLX1980X12X00000AMCSC</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/04/CETATEXT000008290441.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Amiens, du 30 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif Amiens</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Pouget</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Pouget</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Jérôme</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02-03-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - LIQUIDATION DE LA TAXE -  DEDUCTIONS -  BIENS OU SERVICES OUVRANT DROIT A DEDUCTION - Biens ou services utilisés pour les besoins de l'exploitation - Equipement du bloc opératoire d'une clinique chirurgicale - Bloc opératoire mis gratuitement à la disposition des chirurgiens.</SCT>
+<ANA ID="9AA">19-06-02-02-03-01          L'équipement du bloc opératoire d'une clinique chirurgicale est indispensable au fonctionnement de l'entreprise et il est d'ailleurs exigé par les dispositions législatives et réglementaires régissant les maisons de santé agréées. Par suite, la taxe ayant grevé ces dépenses d'équipement est déductible de la taxe due par la clinique, sans qu'y fasse obstacle le fait que la salle d'opérations est mise gratuitement à la disposition des chirurgiens.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 271</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 273</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 230</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décision 1977-11-02 Directeur régional des impôts d'Amiens</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

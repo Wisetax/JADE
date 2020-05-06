@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008250800</ID>
+<ANCIEN_ID>JTXLX1980X11X00000STSOL</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/25/08/CETATEXT000008250800.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Strasbourg, du 27 novembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-11-27</DATE_DEC>
+<JURIDICTION>Tribunal administratif Strasbourg</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delevallé</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Kintz</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-041 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - TAXE PROFESSIONNELLE -  Assiette - Valeur locative des biens passibles de la taxe professionnelle - Prix de revient des immobilisations - Prise en compte de la réévaluation légale des bilans résultant de la loi n° 59-1472 du 28 décembre 1959.</SCT>
+<ANA ID="9AA">19-03-041          Il résulte de l'article 4-III de la loi du 29 juillet 1975 supprimant la patente et instituant une taxe professionnelle ainsi que des travaux préparatoires de cette loi que le prix de revient des immobilisations servant de base à la détermination de la valeur locative utilisée pour le calcul de la taxe doit être calculé dans tous les cas compte tenu des incidences de la réévaluation légale des bilans de 1959. Par suite, légalité de l'article 4 du décret du 23 octobre 1975 qui se réfère aux modalités de calcul des amortissements pour fixer le mode de détermination du prix de revient des immobilisations.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décision 1978-06-27 Directeur des services fiscaux de la Moselle</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 75-975 1975-10-23 ART. 4 II</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 59-1472 1959-12-28 ART. 39</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 75-678 1975-07-29 ART. 4 III, ART. 17 VIII</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

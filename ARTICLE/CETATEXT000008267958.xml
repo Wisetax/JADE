@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267958</ID>
+<ANCIEN_ID>JTXLX1978X07X00000ORSAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/79/CETATEXT000008267958.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Orléans, du 7 juillet 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-07-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif Orléans</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Ambacher</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Leger</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Ynden</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-06-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LE REVENU - COTISATIONS D'I.R.P.P. MISES A LA CHARGE DE PERSONNES MORALES OU DE TIERS - IMPOSITION DES BENEFICES OCCULTES DES SOCIETES - Déclaration de la société - Indication suffisante.</SCT>
+<ANA ID="9AA">19-04-01-02-06-02          L'administration ayant demandé à la société l'identité et l'adresse des bénéficiaires d'une somme révélée à l'occasion d'une vérification de comptabilité, la société a fourni le renseignement demandé. La circonstance que le bénéficiaire ainsi désigné a ultérieurement soutenu que la somme litigieuse ne présentait pas le caractère de revenu imposable n'est pas de nature à autoriser l'administration à écarter la réponse de la société.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 117</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 9</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270794</ID>
+<ANCIEN_ID>JTXLX1979X01X00000VEMRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270794.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Versailles, du 31 janvier 1979, publié au recueil Lebon</TITRE>
+<DATE_DEC>1979-01-31</DATE_DEC>
+<JURIDICTION>Tribunal administratif Versailles</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Pipien</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Pipien</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Petit</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-04-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES -  PERSONNES MORALES ET BENEFICES IMPOSABLES - Société civile immobilière exerçant une activité commerciale.</SCT>
+<ANA ID="9AA">19-04-01-04-01          Une société civile immobilière qui exerce l'activité commerciale de loueur en meublé est passible de l'impôt sur les sociétés et ne peut bénéficier du régime de la transparence fiscale prévu à l'article 1655 ter du CGI.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 quinquiès E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1655 ter</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1938-3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 206-2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 34</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1963-03-15</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

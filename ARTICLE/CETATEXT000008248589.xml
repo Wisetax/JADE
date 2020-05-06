@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008248589</ID>
+<ANCIEN_ID>JTXLX1977X03X00000NTSGA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/85/CETATEXT000008248589.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nantes, du 23 mars 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-03-23</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nantes</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rousseau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Martin Saint Léon</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bouvet de la Maisonneuve</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-09 CONTRIBUTIONS ET TAXES -  PRELEVEMENTS AUTRES QUE FISCAUX ET PARAFISCALITE -  Taxes parafiscales - Objet et bénéficiaire - Taxe instituée au profit de l'Institut scientifique et technique des pêches.</SCT>
+<ANA ID="9AA">19-09        Le saumon fumé est une "semi conserve" au sens du décret du 10 février 1955. Il entre donc dans le champ d'application de l'ordonnance du 27 décembre 1958 modifiée dont l'article 2 institue une taxe parafiscale au profit de l'Institut scientifique et technique des pêches maritimes.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Constitution 1958-10-04 art. 21 ET 22</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1955-02-10 art. 2, 4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1960-12-30 art. 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 72-1161 1972-12-20</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi  1970-12-31 art. 8</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi  1971-12-29 art. 71</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 58-1357 1958-12-27 art. 2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

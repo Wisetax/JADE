@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008288132</ID>
+<ANCIEN_ID>JTXLX1999X03X00000RNGIR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/81/CETATEXT000008288132.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Saint-Denis de la Réunion, du 3 mars 1999, 9600749, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-03-03</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Saint-Denis de la Réunion</JURIDICTION>
+<NUMERO>9600749</NUMERO>
+<SOLUTION>Décharge partielle</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Carbonnel</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bouchier</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Louis</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03-01-02-03 CONTRIBUTIONS ET TAXES - GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - CONTROLE FISCAL - VERIFICATION DE COMPTABILITE - GARANTIES ACCORDEES AU CONTRIBUABLE -Avis de vérification - Connaissance par l'administration de l'existence d'activités distinctes exercées par le contribuable - Nécessité de préciser pour l'administration dans l'avis de vérification les activités concernées par les opérations de contrôle.</SCT>
+<ANA ID="9AA">19-01-03-01-02-03          L'administration, qui a connaissance de la double activité d'un contribuable, lui adresse un avis de vérification mentionnant seulement la première activité mais opère une vérification de comptabilité des deux activités. Irrégularité de la procédure en ce qui concerne la deuxième activité.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI Livre des procédures fiscales L47</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

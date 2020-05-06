@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008251213</ID>
+<ANCIEN_ID>JTXLX1980X11X00000BOLEB</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/25/12/CETATEXT000008251213.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Bordeaux, du 28 novembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-11-28</DATE_DEC>
+<JURIDICTION>Tribunal administratif Bordeaux</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Annulation totale</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal REFERE</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Guiu</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Gouardes</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mlle Villetorte</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-05 CONTRIBUTIONS ET TAXES -  GENERALITES - RECOUVREMENT -  Paiement de l'impôt - Sursis de paiement - Litige sur les garanties - Recevabilité de la demande présentée au juge du référé administratif [art. 1952 du C.G.I.] - Absence de consignation auprès du comptable public d'une somme égale au quart des impôts contestés - irrecevabilité susceptible d'être couverte en cours d'instance.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-02-05 CONTRIBUTIONS ET TAXES -  PROCEDURE CONTENTIEUSE -  CONTENTIEUX DU RECOUVREMENT - Paiement de l'impôt - Sursis de paiement - Litige sur les garanties - Recevabilité de la demande présentée au juge du référé administratif [art. 1952 du CGI] - Absence de consignation auprès du comptable public d'une somme égale au quart des impôts contestés - Irrecevabilité susceptible d'être couverte en cours d'instance.</SCT>
+<ANA ID="9AA">19-01-05, 19-02-05          L'article 1952 du CGI dispose que la requête au juge du référé n'est recevable que si le contribuable justifie qu'il a consigné auprès du compable à un compte d'attente une somme égale au quart des impôts contestés. Cependant l'irrecevabilité édictée par cet article est susceptible d'être couverte en cours d'instance.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1952 par. 2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

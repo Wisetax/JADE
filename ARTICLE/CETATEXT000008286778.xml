@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286778</ID>
+<ANCIEN_ID>JTXLX1995X02X00000PODOM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/67/CETATEXT000008286778.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Poitiers, du 7 février 1995, 911123 931519, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1995-02-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Poitiers</JURIDICTION>
+<NUMERO>911123 931519</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme de Bardon de Segonzac</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme de Bardon de Segonzac</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Miet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - EXEMPTIONS ET EXONERATIONS -Exploitants agricoles (art. 298 bis du C.G.I.) - Application à une S.A.R.L..</SCT>
+<ANA ID="9AA">19-06-02-02          Une S.A.R.L. qui a une activité d'exploitant agricole entre, pour ses opérations agricoles, dans le champ d'application de l'article 298 bis du code général des impôts et ne saurait par suite être regardée comme assujettie de plein droit à la taxe sur la valeur ajoutée sur le fondement des dispositions de l'article 256 A du code général des impôts alors même que ses bénéfices sont en principe soumis à l'impôt sur les sociétés sur le fondement de l'article 206 du code général des impôts et imposés, quelle que soit la nature de son activité, en vertu de l'article 209-I du même code, en tant que bénéfices industriels et commerciaux.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 298 bis, 256 A, 206, 209 I</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272565</ID>
+<ANCIEN_ID>JTXLX1979X11X00000LIASS</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/25/CETATEXT000008272565.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Limoges, du 20 novembre 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-11-20</DATE_DEC>
+<JURIDICTION>Tribunal administratif Limoges</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lescat</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lescat</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Pommies</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-05-05 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - TAXES ASSIMILEES -  TAXE LOCALE D'EQUIPEMENT [LOI DU 30 DECEMBRE 1967] -  Champ d'application - Exclusion des constructions destinées à recevoir une affectation d'assistance ou de bienfaisance [art. 317 bis de l'annexe II].</SCT>
+<ANA ID="9AA">19-03-05-05          Un immeuble destiné à héberger les services locaux d'une ASSEDIC même  s'ils sont à usage administratif entre dans le champ de l'exclusion édictée à l'article 317 bis de l'annexe II.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 317 BIS</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 77-591 1977-06-09</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1901-07-01</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1933-01-14 ART. 35</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 67-580 1967-07-13 ART. 8</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

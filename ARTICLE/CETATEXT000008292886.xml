@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008292886</ID>
+<ANCIEN_ID>JTXLX1974X07X00000NISRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/28/CETATEXT000008292886.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nice, du 18 juillet 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-07-18</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nice</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Romeuf</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Maillet</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Chanel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-07-01,RJ1 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - TRAITEMENTS, SALAIRES ET RENTES VIAGERES -  PERSONNES ET REVENUS IMPOSABLES - Salaire de congédiement.</SCT>
+<ANA ID="9AA">19-04-02-07-01        Le contribuable employé à Nice a préféré donner sa démission plutôt que d'accepter sa nomination à Narbonne. Son départ n'ayant pas eu le caractère ni d'un licenciement abusif, ni d'une mise à la retraite, l'indemnité qui lui a été versée constituait un salaire de congédiement entièrement passible de l'impôt sur le revenu [RJ1].</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. COMP. Conseil d'Etat 1974-03-20 N. 92010 Recueil Lebon p.196&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 163</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

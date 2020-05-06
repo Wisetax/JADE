@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284053</ID>
+<ANCIEN_ID>JTXLX1998X02X00000VESON</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/40/CETATEXT000008284053.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Versailles, du 27 février 1998, 89425, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-02-27</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Versailles</JURIDICTION>
+<NUMERO>89425</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Sichler-Ghestin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bresse</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Pruvost</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-01-01 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - PERSONNES ET OPERATIONS TAXABLES - OPERATIONS TAXABLES -Existence - Activité d'importateur et de concessionnaire automobile - a) Livraison à soi-même - Prélèvement de véhicules sur les stocks pour affectation à l'usage des cadres - b) Revente desdits véhicules - Droit à déduction de la taxe résultant de la constatation d'une livraison à soi-même.</SCT>
+<ANA ID="9AA">19-06-02-01-01          Une société qui exerce l'activité d'importateur et de concessionnaire automobile est tenue par application des articles 257-8° du code général des impôts et 237 de l'annexe II au même code de constater une livraison à soi-même lorsqu'elle prélève des véhicules destinés au transport de personnes sur son stock pour les affecter à l'usage de ses cadres et dirigeants, lesdits véhicules ne pouvant bénéficier de la doctrine applicable aux véhicules de démonstration. Toutefois, ladite société doit être regardée comme exerçant l'activité de vendeur de biens d'occasion lorsqu'elle revend ces véhicules et peut en application de l'article 232 de l'annexe II au code général des impôts, déduire la T.V.A. résultant de la constatation d'une livraison à soi-même lors de la revente desdits véhicules.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 257</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 237, 232</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

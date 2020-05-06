@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286013</ID>
+<ANCIEN_ID>JTXLX1998X11X00000LLVAN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/60/CETATEXT000008286013.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 12 novembre 1998, 95-4189, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-11-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-4189</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Cartal</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Dalle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Michel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-04,RJ1 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - CHARGES DEDUCTIBLES -Cotisations à des régimes conventionnels de retraite "surcomplémentaires" (art. 83-2° du CGI dans sa rédaction issue de la loi du 11 juillet 1985) - Notion de régime "surcomplémentaire de retraite" - Existence - Accord prévoyant le versement d'allocations à partir de l'âge de 55 ans (1).</SCT>
+<ANA ID="9AA">19-04-01-02-03-04          Accord en vertu duquel une entreprise verse à un organisme privé de prévoyance des cotisations destinées à financer un régime obligatoire "surcomplémentaire" de retraite, institué en faveur des cadres de l'entreprise. La circonstance que ledit accord ait prévu le versement, de façon anticipée, d'allocations à partir de l'âge de 55 ans n'est pas de nature à le priver de son caractère de régime de retraite (1).</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. CE, 1984-11-26, Ministre du budget c/ Gautier, p. 392&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 83-2°</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 85-695 1985-07-11</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

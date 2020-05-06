@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263905</ID>
+<ANCIEN_ID>JTXLX1996X10X00000BXMAR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/39/CETATEXT000008263905.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Bordeaux, du 17 octobre 1996, 9101301F, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-10-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Bordeaux</JURIDICTION>
+<NUMERO>9101301F</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Leplat</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Leplat</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Jayat</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">17-03-01-02-03-01 COMPETENCE - REPARTITION DES COMPETENCES ENTRE LES DEUX ORDRES DE JURIDICTION - COMPETENCE DETERMINEE PAR DES TEXTES SPECIAUX - ATTRIBUTIONS LEGALES DE COMPETENCE AU PROFIT DES JURIDICTIONS JUDICIAIRES - COMPETENCE DES JURIDICTIONS JUDICIAIRES EN MATIERE FISCALE ET PARAFISCALE - EN MATIERE FISCALE -Contentieux de l'ordonnance autorisant une visite domiciliaire (art. L. 16-B du livre des procédures fiscales) - Conséquence - Inopérance devant le juge administratif du moyen tiré de son irrégularité.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-01-03-01,RJ1 CONTRIBUTIONS ET TAXES - GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - CONTROLE FISCAL -Visites et saisies domiciliaires (article L. 16-B du livre des procédures fiscales) - Contestation de la procédure d'imposition - Moyen tiré de l'irrégularité de l'ordonnance autorisant la visite - Moyen inopérant.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-02-01-01,RJ1 CONTRIBUTIONS ET TAXES - REGLES DE PROCEDURE CONTENTIEUSE SPECIALES - QUESTIONS COMMUNES - COMPETENCE JURIDICTIONNELLE -Visites et saisies domiciliaires (article L. 16-B du livre des procédures fiscales) - Contestation de la régularité de l'ordonnance autorisant la visite - Moyen inopérant devant le juge administratif.</SCT>
+<ANA ID="9AA">17-03-01-02-03-01, 19-01-03-01, 19-02-01-01          Si les visites domiciliaires effectuées par l'administration fiscale en application de l'article L. 16-B du livre des procédures fiscales constituent un élément de la procédure d'imposition et si l'irrégularité de la visite entache la régularité de la procédure d'imposition, il résulte des dispositions de l'article L. 16-B, qui soumettent l'ordonnance du magistrat de l'ordre judiciaire autorisant la visite au contrôle de la Cour de cassation, que cette ordonnance ne peut pas être utilement contestée devant le juge de l'impôt.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Cf. CE, Avis, Section, 1996-03-01, Egot, p. 64 ; CE, Avis, Section, 1996-03-01, S.A.R.L. France Finibéton, p. 63&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales L16-B</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

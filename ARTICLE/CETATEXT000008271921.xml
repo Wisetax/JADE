@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008271921</ID>
+<ANCIEN_ID>JTXLX1995X06X00000POTAB</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/19/CETATEXT000008271921.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Poitiers, du 21 juin 1995, 93687, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1995-06-21</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Poitiers</JURIDICTION>
+<NUMERO>93687</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme de Bardon de Segonzac</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Gazio</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Miet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-05-03 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - ETABLISSEMENT DE L'IMPOT - REDUCTIONS D'IMPOT -Sommes versées pour l'emploi d'une aide à domicile (art. 199 quaterdecies I du C.G.I.) - Notion de domicile - Existence - Jardin afférent à l'habitation.</SCT>
+<ANA ID="9AA">19-04-01-02-05-03          Dès lors que le domicile comprend non seulement l'habitat mais aussi le jardin qui l'entoure éventuellement, les sommes versées à un jardinier sont des sommes versées pour l'emploi d'une aide à domicile au sens des dispositions de l'article 199 quaterdecies du code général des impôts, éclairé par les travaux préparatoires de la loi n° 86-1317 du 30 décembre 1986 dont il est issu. Dès lors, elles ouvrent droit à la réduction d'impôt prévue par cet article.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 199 quaterdecies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 86-1317 1986-12-30</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

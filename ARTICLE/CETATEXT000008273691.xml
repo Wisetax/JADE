@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008273691</ID>
+<ANCIEN_ID>JTXLX1974X01X00000PORIE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/36/CETATEXT000008273691.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Poitiers, du 23 janvier 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-01-23</DATE_DEC>
+<JURIDICTION>Tribunal administratif Poitiers</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Triaud</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Beaucarne</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Clavier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-02 CONTRIBUTIONS ET TAXES -  ANCIENNES CONTRIBUTIONS ET TAXES ASSIMILEES - PATENTE - EXEMPTIONS ET EXONERATIONS -  Etablissement public n'effectuant pas les mêmes opérations qu'une entreprise privée.</SCT>
+<ANA ID="9AA">19-03-04-02        Il résulte de la combinaison des articles 1453 et 1654 du Code Général des Impôts et de l'article 355 du Code d'administration Communale qu'un établissement public n'est soumis à la patente que s'il effectue les mêmes opérations qu'une entreprise privée. Exemption d'un syndicat mixte regroupant des collectivités locales et des établissements publics pour la "conservation, l'aménagement et la mise en valeur de marais", mission qui, par sa nature et son importance, ne peut constituer une exploitation susceptible d'être gérée par une entreprise privée. Caractère inopérant de la double circonstance que l'activité de l'établissement ne profiterait qu'aux personnes qu'il regroupe et que certains des travaux qu'il exécute pourraient être réalisés par des entreprises privées.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1453</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1454</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1654</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de l'administration communale 355</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263235</ID>
+<ANCIEN_ID>JTXLX1974X05X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263235.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 31 mai 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-05-31</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guérin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Gibert</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-05-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  BENEFICES NON COMMERCIAUX - DETERMINATION DU BENEFICE IMPOSABLE - Dépenses nécessitées par l'exercice de la profession - Notion.</SCT>
+<ANA ID="9AA">19-04-02-05-02        Un notaire acceptait de recevoir des chèques tirés à son ordre par des clients et de leur remettre en contrepartie des chèques tirés par lui pour un montant égal : cette pratique permettait auxdits clients de profiter de l'avantage consenti par les banques aux bénéficiaires de chèques tirés par les notaires d'en être crédités sans délai. Certains chèques s'étant révélés être sans provision, il en est résulté pour le notaire une perte.        Cet échange de chèques n'étant pas nécessaire pour l'exercice de la profession de notaire et lui faisant courir un risque anormal, non déductibilité de la perte.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 93-I</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

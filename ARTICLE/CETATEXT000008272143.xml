@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272143</ID>
+<ANCIEN_ID>JTXLX1980X11X00000PASTX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/21/CETATEXT000008272143.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 13 novembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-11-13</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mlle Jousselin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mlle Jousselin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Dorel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-03-05 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - EVALUATION DE L'ACTIF - STOCKS -  Evaluation des stocks - Frais accessoires d'achats - Commission versée par une entreprise de distribution à une centrale d'achats et calculée d'après le montant des achats.</SCT>
+<ANA ID="9AA">19-04-02-01-03-05          En admettant même que cette commission ne rémunère pas uniquement la fonction d'intermédiaire entre l'acheteur et le vendeur remplie par la centrale d'achats mais aussi des services distincts de cette fonction, tels que l'étude des marchés ou des produits, elle ne doit pas moins être regardée en raison de son objet et de son mode de calcul comme faisant partie des frais accessoires d'achats dont il doit, en application de l'article 38 nonies de l'annexe III au CGI dans sa rédaction applicable aux années 1971 à 1974, être tenu compte pour l'évaluation des stocks.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Arrêté 1971-06-24 ART. 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 quinquies E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 38 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 54</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 38 bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 38 nonies [1974]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 38 quater</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286633</ID>
+<ANCIEN_ID>JTXLX1998X07X00000STMJH</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/66/CETATEXT000008286633.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Strasbourg, du 7 juillet 1998, 952087 971520 98103, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-07-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Strasbourg</JURIDICTION>
+<NUMERO>952087 971520 98103</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Woehrling</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Woehrling</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Devillers</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-03-02 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES FONCIERES - TAXE FONCIERE SUR LES PROPRIETES NON BATIES -Déclassement d'un terrain à bâtir - Justification - Notion - Absence - Disparition des perspectives de gains initialement escomptées de la construction.</SCT>
+<ANA ID="9AA">19-03-03-02          En application de l'article 1509-I du code général des impôts, un terrain non bâti qui est destiné par la volonté de son propriétaire à supporter des constructions doit être classé dans la catégorie des "terrains à bâtir" sauf si le propriétaire se trouve pour des raisons tirées de règles relatives au droit de construire ou pour d'autres raisons indépendantes de sa volonté dans l'impossibilité d'y édifier des constructions ou si la volonté du propriétaire de renoncer de manière durable à affecter lesdits terrains à la construction s'exprime à travers des actes juridiques formels. La seule circonstance que l'édification de constructions ne comporte plus, notamment en raison de l'évolution de la conjoncture, les perspectives de gains initialement escomptées ne constitue pas une impossiblité indépendante de la volonté du propriétaire de construire ou de vendre. En tout état de cause, seuls les changements de nature qui n'ont pas un caractère temporaire peuvent être constatés, soit d'office, soit sur déclaration du contribuable.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1509</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

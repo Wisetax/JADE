@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008252687</ID>
+<ANCIEN_ID>JTXLX1971X07X00000ROSTE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/25/26/CETATEXT000008252687.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Rouen, du 2 juillet 1971, publié au recueil Lebon</TITRE>
+<DATE_DEC>1971-07-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Incompétence</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Clos</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Nolde</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. de Bieville</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">16-05-03 COMMUNE - FINANCES COMMUNALES - BIENS DES COMMUNES - CONTRATS ET MARCHES -  CONTRATS ET MARCHES - Concessions - Concession d'eau - Caractère de contrat de droit privé.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">17-03-02-03-01 COMPETENCE -  REPARTITION DES COMPETENCES ENTRE LES DEUX ORDRES DE JURIDICTION -  COMPETENCE DETERMINEE PAR UN CRITERE JURISPRUDENTIEL -  CONTRATS -  CONTRATS DE DROIT PRIVE - Litiges relatifs aux conditions d'exécution d'un contrat de droit privé - Compétence judiciaire.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">17-03-02-07-02 COMPETENCE -  REPARTITION DES COMPETENCES ENTRE LES DEUX ORDRES DE JURIDICTION -  COMPETENCE DETERMINEE PAR UN CRITERE JURISPRUDENTIEL -  PROBLEMES PARTICULIERS POSES PAR CERTAINES CATEGORIES DE SERVICES PUBLICS - SERVICE PUBLIC INDUSTRIEL ET COMMERCIAL - Réseaux d'assainissement et installations d'épuration publics - Article 75 de la loi du 29 novembre 1965 et décret du 24 octobre 1967 - Litiges relatifs à l'établissement et à la perception de la redevance d'assainissement - Compétence judiciaire.</SCT>
+<SCT ID="8DA" TYPE="PRINCIPAL">19-01-02 CONTRIBUTIONS ET TAXES -  GENERALITES - TAXES OU REDEVANCES [CRITERE DE DISTINCTION ET CONSEQUENCES] -  Redevance d'assainissement - Article 75 de la loi du 29 novembre 1965 - Absence de caractère fiscal - Compétence judiciaire.</SCT>
+<ANA ID="9AA">16-05-03, 17-03-02-03-01        Les contrats par lesquels les communes consentent des concessions d'eau sont des contrats de droit privé et la contestation relative à la somme réclamée, pour la fourniture de l'eau pendant une période déterminée se rattache aux conditions d'exécution d'un contrat de droit privé et ressortit à la compétence judiciaire.</ANA>
+<ANA ID="9BA">17-03-02-03-01        Les règles de compétence étant d'ordre public, elles ne sauraient être tenues en échec par les clauses d'un réglement prévoyant que toutes les difficultés seront du ressort de la compétence administrative.</ANA>
+<ANA ID="9CA">17-03-02-07-02, 19-01-02        L'article 75 de la loi du 29 novembre 1965 a supprimé la taxe de déversement à l'égout et institué la redevance d'assainissement. Il résulte du décret du 24 octobre 1967 pris pour son application, que les réseaux d'assainissement et les installations d'épuration publics sont financièrement gérés comme des services à caractère industriel et commercial à compter du 1er janvier 1968 et qu'ainsi le taux de la redevance d'assainissement devra être suffisant pour assurer l'équilibre du service ; A l'inverse de la taxe de déversement à l'égout, la redevance n'a pas un caractère fiscal, Cette redevance se trouvant calculée à partir de la consommation d'eau, les litiges que soulèvent sont établissement et sa perception ressortissent à la juridiction judiciaire.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1967-10-24</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1965-11-29 art. 75</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

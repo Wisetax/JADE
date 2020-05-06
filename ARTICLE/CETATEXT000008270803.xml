@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270803</ID>
+<ANCIEN_ID>JTXLX1979X07X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/08/CETATEXT000008270803.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 5 juillet 1979, publié au recueil Lebon</TITRE>
+<DATE_DEC>1979-07-05</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Avant dire droit SUPPLEMENT D'INSTRUCTION</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Altabert</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Lefoulon</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Dorel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-05-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  BENEFICES NON COMMERCIAUX - DETERMINATION DU BENEFICE IMPOSABLE - Déduction de frais professionnels réels par un auteur-compositeur dont les bénéfices sont intégralement déclarés par des tiers et qui exerce une activité salariée connexe ouvrant droit à déduction forfaitaire.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-07-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - TRAITEMENTS, SALAIRES ET RENTES VIAGERES -  PERSONNES ET REVENUS IMPOSABLES - Coexistence du droit à la déduction forfaitaire au titre d'une activité salariée et de la déduction de frais professionnels réels par un auteur compositeur dont les bénéfices non commerciaux sont intégralement déclarés par des tiers.</SCT>
+<ANA ID="9AA">19-04-02-05-02, 19-04-02-07-01          Contribuable exerçant d'une part l'activité non commerciale d'auteur-compositeur et d'autre part l'activité salariée de réalisateur d'arrangements musicaux. En application de l'article 93-1 quater au CGI, ce contribuable peut déterminer ses dépenses professionnelles dans la catégorie des BNC, soit de manière forfaitaire, soit selon leur montant réel, sans être tenu d'opter pour la même formule que celle qu'il retient par ailleurs pour le calcul des frais professionnel déductibles de ses revenus salariaux. En revanche, dès lors qu'il a opté au titre de l'une des autres catégories de revenus pour le système de la déduction forfaitaire, il doit, s'il opte au titre de l'autre catégorie pour la déduction des frais professionnels réels, apporter la preuve de la réalité et de la spécificité desdits frais ainsi que de l'absence de confusion avec les frais forfaitairement déduits au titre de la première activité.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 92</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 93 I quater [1973]</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

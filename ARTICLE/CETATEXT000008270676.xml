@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270676</ID>
+<ANCIEN_ID>JTXLX1975X03X00000LYSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/06/CETATEXT000008270676.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lyon, du 4 mars 1975, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1975-03-04</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Guinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Loppez</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Chabanol</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-05-02,RJ1,RJ2 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  BENEFICES NON COMMERCIAUX - DETERMINATION DU BENEFICE IMPOSABLE - Plus-values de cession de biens d'actif - Transfert du patrimoine professionnel au patrimoine civil.</SCT>
+<ANA ID="9AA">19-04-02-05-02        Un notaire a transféré son étude dans un immeuble neuf et a alors réuni à son habitation personnelle les locaux dans lesquels ladite étude était précédemment installée. Les opérations aboutissant à faire sortir de l'actif professionnelle un bien qui était affecté à l'exercice de la profession doivent être regardées comme entraînant la réalisation de ce bien. Assujettissement à l'impôt de la plus-value égale à la différence entre la valeur vénale des locaux et leur valeur comptable [RJ1,RJ2]</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. RAPPR. 1971-11-26, 76358, Recueil Dupont 1972 p. 46. 2. Extension aux B.N.C. de la jurisprudence en matière de B.I.C., 1974-07-10, 84702, p. 419&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 93-1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007617185</ID>
+<ANCIEN_ID>JFXLX1982X11X0000034765</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/61/71/CETATEXT000007617185.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 8 / 7 SSR, du 29 novembre 1982, 34765, publié au recueil Lebon</TITRE>
+<DATE_DEC>1982-11-29</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>34765</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>8 / 7 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lasry</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. de Vulpillières</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Léger</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>   Requête de M. X..., tendant à :<br/>   1° l'annulation du jugement du 13 mars 1981 du tribunal administratif de Grenoble rejetant sa demande tendant à la décharge de la taxe foncière sur les propriétés bâties à laquelle il a été assujetti au titre de l'année 1978 ;<br/>   2° la décharge de l'imposition contestée ;<br/>   Vu le code général des impôts ; l'ordonnance du 31 juillet 1945 et le décret du 30 septembre 1953 ; la loi du 30 décembre 1977 ; le code des tribunaux administratifs ;<br/>   Considérant que M. X... conteste la taxe foncière sur les propriétés bâties mise à sa charge au titre de l'année 1978 à raison de la maison qu'il possède dans la commune de Sainte-Euphémie-sur-Ouvèze, en soutenant qu'il devait bénéficier d'une exonération de 15 ans de ladite imposition ;<br/>   Cons. qu'il résulte de l'instruction que la maison dont s'agit, dont la construction n'a commencé qu'en novembre 1973, ne constituait pas la résidence principale de l'intéressé, celui-ci étant domicilié à Lyon où il exerçait sa profession d'enseignant ; que, par suite, M. X... ne pouvait prétendre ni au bénéfice de l'exonération de longue durée de la taxe foncière sur les propriétés bâties prévue à l'article 1385-1 du code général des impôts, laquelle ne s'applique qu'aux constructions achevées avant le 1er janvier 1973, ni au bénéfice de l'exonération de même nature prévue à l'article 1384 du même code, laquelle est réservée aux logements qui entrent dans la catégorie des habitations à loyer modéré et qui sont affectés, conformément aux intentions du législateur, à l'habitation principale ; qu'ainsi, M. X... n'est pas fondé à soutenir que c'est à tort que, par le jugement attaqué, lequel n'est entaché d'aucune erreur de fait ayant pu influer sur la solution du litige, le tribunal administratif de Grenoble a rejeté sa demande ;<br/>
+<br/>  rejet .<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-021 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - TAXES FONCIERES - Exonération de 15 ans [article 1384-I du CGI] - Conditions.</SCT>
+<ANA ID="9AA">19-03-021          L'exonération de 15 ans prévue à l'article 1384 du CGI est réservée aux logements entrant dans la catégorie des habitations à loyer modéré et qui, conformément à l'intention du législateur, sont affectés à l'habitation principale.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1384</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1385 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

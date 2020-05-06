@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284798</ID>
+<ANCIEN_ID>JTXLX1998X05X00000LLALH</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/47/CETATEXT000008284798.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 28 mai 1998, 94-3533, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-05-28</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>94-3533</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Couzinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Brunelli</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-03 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - BENEFICES INDUSTRIELS ET COMMERCIAUX - DETERMINATION DU BENEFICE NET - AMORTISSEMENT -Régime de l'amortissement exceptionnel des éléments financés applicable aux salles de spectacles cinématographiques publics (article 39 sexies du CGI) - Champ d'application - Inclusion - Reliquat de subventions versées par le Centre national de cinématographie et non encore imposées, y compris à raison de travaux financés par crédit-bail.</SCT>
+<ANA ID="9AA">19-04-02-01-04-03          Un exploitant de salles de cinéma peut affecter à l'amortissement exceptionnel prévu à l'article 39 sexies du code général des impôts un reliquat de subventions versées par le Centre national de cinématographie et non encore imposées, même si les travaux ont été financés dans le cadre d'une opération de crédit-bail.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 sexies</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291546</ID>
+<ANCIEN_ID>JTXLX1972X03X00000DICHA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/15/CETATEXT000008291546.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Dijon, du 13 mars 1972, publié au recueil Lebon</TITRE>
+<DATE_DEC>1972-03-13</DATE_DEC>
+<JURIDICTION>Tribunal administratif Dijon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Avant dire droit Expertise</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Granger</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Rousseau</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Namin</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-02-03 CONTRIBUTIONS ET TAXES -  ANCIENNES CONTRIBUTIONS ET TAXES ASSIMILEES - CONTRIBUTION FONCIERE - CONTRIBUTION FONCIERE DES PROPRIETES NON BATIES - Evaluations foncières - Fixité des évaluations.</SCT>
+<ANA ID="9AA">19-03-02-03        Hypothèse où des opérations de remembrement ont modifié le découpage parcellaire.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1943, 1419</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code rural 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

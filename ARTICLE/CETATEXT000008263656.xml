@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263656</ID>
+<ANCIEN_ID>JTXLX1981X10X00000VEMRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/36/CETATEXT000008263656.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Versailles, du 30 octobre 1981, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1981-10-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif Versailles</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Reinach</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Petit</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Simon</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-03-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - EVALUATION DE L'ACTIF - PROFITS DE TOUTE NATURE - Indemnité de fin de gérance des locataires gérants de stations-service.</SCT>
+<ANA ID="9AA">19-04-02-01-03-04          La qualité de commerçant conférée aux gérants libres de stations-service entraîne normalement pour les intéressés l'application des règles d'imposition propres à la catégorie des B.I.C. ; l'indemnité de fin de gérance qui leur est versée par les compagnies pétrolières indifféremment en cas d'expiration ou lors de la résiliation de leur contrat ne saurait donc être assimilée à l'indemnité de rupture de contrat allouée aux salariés ; les locataires gérants de stations-service se trouvant placés, vis-à-vis des compagnies pétrolières dont ils commercialisent les produits, dans une situation de dépendance économique trop étroite pour pouvoir être regardés comme acquérant en cours de contrat une clientèle propre qu'ils seraient susceptibles de transférer à leur bailleur à l'expiration du contrat, l'indemnité de fin de gérance ne saurait davantage être regardée comme la contrepartie d'une cession d'un élément d'actif ; elle constitue l'un des éléments de la rémunération stipulée en faveur du locataire-gérant qui doit être pris en compte pour la détermination du bénéfice imposable de l'exercice au cours duquel elle est acquise au bénéficiaire.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 152</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 163</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1932</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 200</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 38</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 42</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008280785</ID>
+<ANCIEN_ID>JTXLX1994X11X00000LYPIN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/07/CETATEXT000008280785.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lyon, du 30 novembre 1994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1994-11-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Annulation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lanz</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Besle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martin</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-02-01-02-01 CONTRIBUTIONS ET TAXES - REGLES DE PROCEDURE CONTENTIEUSE SPECIALES - QUESTIONS COMMUNES - POUVOIRS DU JUGE FISCAL - RECOURS POUR EXCES DE POUVOIR -Retraits d'agrément - Agrément ouvrant droit à la réduction des droits de mutation prévue à l'article 721 du CGI - Conditions du retrait.</SCT>
+<ANA ID="9AA">19-02-01-02-01          Dès lors qu'une entreprise remplit les conditions pour obtenir l'agrément lui permettant de bénéficier d'une réduction des droits de mutation à l'occasion de la reprise d'un établissement industriel en difficulté, en application des articles 721 du code général des impôts et 265 de l'annexe III audit code, le ministre ne peut subordonner son agrément à la condition supplémentaire que les biens supportant les droits réduits de mutation soient directement affectés à l'exploitation de l'activité du repreneur. Par suite, est illégal le retrait d'agrément fondé sur une telle absence d'affectation à l'activité du repreneur.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 721</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI Livre des procédures fiscales L199</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 265</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN4 265, 266, 155 O, 121 quinquies DB, 121 quinquies DB sexies</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

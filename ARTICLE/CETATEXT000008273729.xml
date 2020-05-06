@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008273729</ID>
+<ANCIEN_ID>JTXLX1974X05X00000PASPR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/37/CETATEXT000008273729.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 2 mai 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-05-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Eudier</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>MME Portes</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Meyer</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-03-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - CALCUL DE LA TAXE - TAUX -  Taux réduit - Fourniture des repas dans les cantines d'entreprise. [art. 5 de la loi du 30 juillet 1968 codifie sous l'article 85 bis de l'annexe III au C.G.I.]</SCT>
+<ANA ID="9AA">19-06-02-03-01        Aucune disposition du décret n. 68.736 du 8 août 1968 n'impose aux fournisseurs de repas aux cantines d'entreprises l'obligation de faire servir lesdits repas au consommateurs par une personne spécialisée. En refusant le bénéfice du taux réduit par le seul motif que le contribuable n'assurait pas le service à table des repas qu'il livrait, l'administration a donc fait une fausse application de la loi.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 85 BIS</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 68-736 1968-08-08</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 68-687 1968-07-30 art. 5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

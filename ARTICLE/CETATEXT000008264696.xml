@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264696</ID>
+<ANCIEN_ID>JTXLX1975X04X00000CFBOU</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/46/CETATEXT000008264696.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Clermont-Ferrand, du 25 avril 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-04-25</DATE_DEC>
+<JURIDICTION>Tribunal administratif Clermont-Ferrand</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Expertise</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Berme</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guihal</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Marillia</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-05-05 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES ET TAXES ASSIMILEES - TAXES ASSIMILEES -  TAXE LOCALE D'EQUIPEMENT [LOI DU 30 DECEMBRE 1967] -  Calcul de la taxe - Déduction dans le cas où le terrain faisant l'objet d'une autorisation de construire est issu d'un lotissement autorisé avant le 1er octobre 1968 [art. 328 D ter de l'annexe III du CGI].</SCT>
+<ANA ID="9AA">19-03-05-05        Pour l'application de l'article 328 D ter de l'annexe III au code général des impôts, les "équipements publics" comprennent, dans la mesure où ils ont été imposés au lotisseur par l'arrêté préfectoral ayant approuvé le cahier des charges du lotissement, tous les équipements collectifs, inclus ou non dans le périmètre du lotissement, que la commune aurait été conduite, en toute hypothèse, à faire exécuter pour assurer une desserte normale des constructions édifiées sur le lotissement, qu'elle a effectivement réalisées et dont elle a répercuté le coût sur les acheteurs des lots, dès lors que ces équipements sont restés ou sont devenus la propriété de la commune et qu'ils constituent des ouvrages publics communaux, que celle-ci les ait ou non explicitement incorporés à son domaine public.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 328 D TER</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 68-836 1968-09-24</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 68-838 1968-09-24 art. 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1967-12-30</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

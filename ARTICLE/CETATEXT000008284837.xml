@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284837</ID>
+<ANCIEN_ID>JTXLX1993X12X00000LYBON</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/48/CETATEXT000008284837.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lyon, du 7 décembre 1993, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1993-12-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rouvière</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Levasseur</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bourrachot</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03-01-02 CONTRIBUTIONS ET TAXES - GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - CONTROLE FISCAL - VERIFICATION DE COMPTABILITE -Compétence du vérificateur - Compétence territoriale - Agent compétent pour recevoir les déclarations.</SCT>
+<ANA ID="9AA">19-01-03-01-02          Seuls les agents appartenant au service des impôts compétent pour recevoir les déclarations du contribuable ont qualité pour procéder aux vérifications. La circonstance que le contribuable ait par erreur adressé sa déclaration de bénéfices non commerciaux au service des impôts d'un département distinct de celui où il exerce sa profession n'a pas pour effet de donner audit service qualité pour effectuer la vérification.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 55, 101</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 376</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

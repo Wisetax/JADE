@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286028</ID>
+<ANCIEN_ID>JTXLX1998X12X00000LLBAN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/60/CETATEXT000008286028.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 10 décembre 1998, 95-1031, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-12-10</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>95-1031</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Martin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Brunelli</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-08-03-06 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - LIQUIDATION DE LA TAXE - DEDUCTIONS - REMBOURSEMENTS DE TVA -Notification de cession à une banque d'une créance constituée par un crédit de TVA - Applicabilité de l'article 36 du décret du 29 décembre 1962 - Existence - Conséquence - Caractère libératoire du paiement de la créance par le comptable public entre les mains du cédant à défaut de notification régulière.</SCT>
+<ANA ID="9AA">19-06-02-08-03-06          Les dispositions de l'article 36 du décret du 29 décembre 1962 portant règlement général sur la comptabilité publique, en vertu desquelles "toutes oppositions ou autres significations ayant pour objet d'arrêter un paiement doivent être faites entre les mains du comptable public assignataire de la dépense", trouvent à s'appliquer en cas de notification de cession de créances effectuée dans le cadre de la loi du 2 janvier 1981, y compris lorsque la créance est constituée par un crédit de taxe sur la valeur ajoutée. Même en cas de notification de la cession par l'établissement de crédit à une autre administration, le paiement par le comptable de sa dette au cédant de la créance est libératoire et exclut un second paiement au cessionnaire.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 62-1587 1962-12-29 art. 36</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 81-1 1981-01-02</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

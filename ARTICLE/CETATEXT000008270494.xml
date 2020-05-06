@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270494</ID>
+<ANCIEN_ID>JTXLX1998X01X00000STGHE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/04/CETATEXT000008270494.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Strasbourg, du 23 janvier 1998, 942278, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-01-23</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Strasbourg</JURIDICTION>
+<NUMERO>942278</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Woehrling</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Woehrling</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Miet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-04 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - CHARGES DEDUCTIBLES -Pensions alimentaires - Pension versée à des collatéraux à raison d'une obligation naturelle novée en obligation civile - Condition - Bénéficiaire placé dans l'état de besoin visé par l'article 205 du code civil.</SCT>
+<ANA ID="9AA">19-04-01-02-03-04          Les dispositions des articles 205 à 207 du code civil énumèrent limitativement celles des personnes qui sont créancières de l'obligation alimentaire instaurée par l'article 205. Les collatéraux ne sont pas au nombre de celles-ci. Toutefois une obligation naturelle, susceptible d'être novée en obligation civile, existe entre eux. Cette novation s'opère dès lors que celui qui s'y estimait moralement tenu a commencé volontairement à exécuter ladite obligation. L'obligation civile née de cette obligation naturelle, dès lors contraignante, est soumise au régime des obligations alimentaires légales instauré par les dispositions précitées des articles 205 à 211 du code civil. Une telle obligation peut faire partie des charges pouvant être déduites de l'impôt sur le revenu en application de l'article 156 du code général des impôts. Toutefois, cette obligation alimentaire entre collatéraux, ne subsiste que dans la seule mesure où le bénéficiaire se trouve dans l'état de besoin, visé par l'article 205 du code civil, lequel s'apprécie dans des conditions identiques à celui du titulaire de l'obligation alimentaire légale.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 156</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code civil 205, 206, 207 à 211</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

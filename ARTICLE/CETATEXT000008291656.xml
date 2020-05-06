@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291656</ID>
+<ANCIEN_ID>JTXLX1977X06X00000NAPAR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/16/CETATEXT000008291656.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nancy, du 9 juin 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-06-09</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nancy</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delevalle</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lefoulon</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Baradel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-02-03-01-02 CONTRIBUTIONS ET TAXES -  PROCEDURE CONTENTIEUSE -  DEMANDES ET OPPOSITIONS DEVANT LE TRIBUNAL ADMINISTRATIF -  FORMES -  QUALITE DU DEMANDEUR -  Nécessité d'un mandat préalablement enregistré - Taxe d'habitation - Cas du propriétaire qui a mis un appartement à la disposition de son fils.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-03-03 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - CONTRIBUTION MOBILIERE -  Contribution mobilière devenue taxe d'habitation - Qualité pour contester l'impôt - Cas du propriétaire qui a mis un appartement à la disposition de son fils.</SCT>
+<ANA ID="9AA">19-02-03-01-02, 19-03-03        La taxe d'habitation a été établie en application des dispositions de l'article 1408, alinéa 1 du C.G.I. au nom du fils du contribuable qui avait la disposition effective de l'appartement appartenant à son père au 1er janvier. Ce dernier qui ne justifie pas d'un mandat régulier et n'a pas été personnellement mis en demeure d'acquitter l'imposition en cause n'est pas recevable à présenter une requête au nom de son fils majeur.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1408 al. 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1934 par. 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1940 par. 1 al. 2</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

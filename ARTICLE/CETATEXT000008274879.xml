@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008274879</ID>
+<ANCIEN_ID>JTXLX1994X11X00000LYASP</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/48/CETATEXT000008274879.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lyon, du 21 novembre 1994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1994-11-21</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Annulation</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Référé fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Lanz</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lanz</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martin</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-05-02-02 CONTRIBUTIONS ET TAXES - GENERALITES - RECOUVREMENT - PAIEMENT DE L'IMPOT - SURSIS DE PAIEMENT -Garanties propres à assurer le recouvrement - Existence - Logiciels.</SCT>
+<ANA ID="9AA">19-01-05-02-02          Des logiciels d'exploitation industrielle créés par une société d'assistance informatique et exploités par elle dans de bonnes conditions de rentabilité, peuvent être rangés parmi les droits de propriété industrielle composant le fonds de commerce, et comptés parmi les valeurs offertes en garantie d'une créance fiscale.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales L277, L279, R277-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1909-03-17 art. 9</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

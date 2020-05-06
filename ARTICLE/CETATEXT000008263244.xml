@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263244</ID>
+<ANCIEN_ID>JTXLX1974X10X00000LLSAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263244.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lille, du 29 octobre 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-10-29</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Guinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Jarno</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Brunel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-03-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - EVALUATION DE L'ACTIF - CREANCES -  Notion - Créance vis-à-vis d'un dépositaire livreur du contribuable - Facturation interne à l'entreprise.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-01-04-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -  Provision pour créance douteuse - Notion de créance - Facturation interne à l'entreprise.</SCT>
+<ANA ID="9AA">19-04-02-01-03-02, 19-04-02-01-04-04        Pour retracer dans sa comptabilité ses relations avec un de ses employés, dépositaire livreur, l'entreprise le débitait de la valeur des marchandises qu'elle lui confiait et le créditait du montant des ventes qu'il effectuait. Mais en réalité les marchandises ne cessaient d'appartenir à l'entreprise qu'au moment de leur vente à la clientèle et leur livraison au dépositaire ne constituait pas une transaction commerciale. Les "créances" ainsi inscrites en comptabilité ne pouvaient donner lieu à la constitution de provisions pour créances douteuses.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39-1 5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

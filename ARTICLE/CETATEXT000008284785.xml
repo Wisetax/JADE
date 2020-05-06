@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008284785</ID>
+<ANCIEN_ID>JTXLX1998X04X00000STCHO</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/47/CETATEXT000008284785.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Strasbourg, du 21 avril 1998, 941426, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-04-21</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Strasbourg</JURIDICTION>
+<NUMERO>941426</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Woehrling</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bonifaci</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martinez</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-09-01 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - CALCUL DE LA TAXE - TAUX -Taux réduit applicable aux produits répondant à la définition du chocolat (articles 278 bis et 280-1 du CGI) - Champ d'application - Inclusion - Tablettes s'apparentant au chocolat de couverture mais composées exclusivement de chocolat à fort taux de cacao dégraissé et de beurre de cacao.</SCT>
+<ANA ID="9AA">19-06-02-09-01          Il résulte de la combinaison des articles 278 bis et 280-1 du code général des impôts que les produits répondant à la définition du chocolat relèvent du taux réduit de T.V.A. alors que le taux normal s'applique aux "chocolats composés" c'est-à-dire à des produits ne comportant pas exclusivement du chocolat, sauf le cas du chocolat au lait. En application du décret du 13 juillet 1976, qui définit le chocolat, le chocolat de couverture est une catégorie de chocolat caractérisée par un taux minimal en beurre de cacao et de cacao dégraissé et non un produit distinct du chocolat. Par conséquent, les tablettes composées exclusivement de chocolat à fort taux de cacao dégraissé et de beurre de cacao sont soumises au taux réduit de la T.V.A., alors même que leur teneur en beurre de cacao permettrait de les qualifier de chocolat de couverture.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 278 bis, 280-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 76-692 1976-07-13</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

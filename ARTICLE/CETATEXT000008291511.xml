@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291511</ID>
+<ANCIEN_ID>JTXLX1974X01X00000TOSAX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/15/CETATEXT000008291511.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Toulouse, du 18 janvier 1974, publié au recueil Lebon</TITRE>
+<DATE_DEC>1974-01-18</DATE_DEC>
+<JURIDICTION>Tribunal administratif Toulouse</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Pestourie</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Lescat</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Zaouche</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-05 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX - CONVENTIONS INTERNATIONALES - Convention franco-suisse du 9 septembre 1966 - Notion d'établissement stable" en France.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-01-04-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LES BENEFICES DES SOCIETES ET AUTRES PERSONNES MORALES -  TERRITORIALITE DE L'IMPOT - Convention franco-suisse du 9 septembre 1966 - Notion d'établissement stable" en France.</SCT>
+<ANA ID="9AA">19-01-01-05, 19-04-01-04-02        Le sieur X, a, à de nombreuses reprises et tout au long des exercices en cours, conclu en France, pour le compte d'une société suisse dont il est l'unique actionnaire, des contrats d'achats, de façonnage et de vente de laine. Le fait qu'il ne dispose en France ni de résidence stable ni de moyens matériels soutenant son activité d'agent d'affaires est sans influence sur le caractère de permanence de son activité de représentant de la société suisse en France. Il constitue un "établissement stable" au sens de l'article 5-4 de la convention Franco-suisse du 9 septembre 1966. Imposabilité en France de la société.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Convention 1966-09-09 France Suisse art. 5-4, art. 7</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

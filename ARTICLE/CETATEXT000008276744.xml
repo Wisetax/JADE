@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008276744</ID>
+<ANCIEN_ID>JTXLX1978X04X00000PABLY</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/67/CETATEXT000008276744.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 3 avril 1978, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1978-04-03</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Pichard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Massiot</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  CHAMP D'APPLICATION DES T.C.A. - Notion d'affaires faites en France - Prospections financières.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-04 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  TAXES ASSIMILEES AUX T.C.A. -  Champ d'application - Affaires faites en France - Prospections financières.</SCT>
+<ANA ID="9AA">19-06-01-01, 19-06-04          Sont, au regard des articles 299 et 258 du CGI, des opérations financières faites en France, et entrant dès lors dans le champ d'application de la taxe spéciale sur les activités financières, la prospection en France de vendeurs et d'acheteurs de valeurs mobilières destinées à être négociées sur une place étrangère, et la négociation en France d'un emprunt pour une société étrangère.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 258 [1968]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 259 [1967]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 299 AL. 1 AL. 6</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN1 24</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN1 26 quater</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

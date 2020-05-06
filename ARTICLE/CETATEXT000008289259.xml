@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008289259</ID>
+<ANCIEN_ID>JTXLX1996X10X00000LLMAN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/92/CETATEXT000008289259.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 30 octobre 1996, 96-3113, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-10-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>96-3113</NUMERO>
+<SOLUTION>Rejet incompétence</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Couzinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR/>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-02-01-01 CONTRIBUTIONS ET TAXES - REGLES DE PROCEDURE CONTENTIEUSE SPECIALES - QUESTIONS COMMUNES - COMPETENCE JURIDICTIONNELLE -Compétence judiciaire - Contestation d'une lettre des services fiscaux relative à une transaction sur des pénalités afférentes à des droits d'enregistrement.</SCT>
+<ANA ID="9AA">19-02-01-01          Incompétence du juge administratif pour connaître d'un recours dirigé contre la lettre par laquelle le directeur régional des impôts fait part au contribuable de son intention de déclarer caduque une transaction en matière de pénalités afférentes à des droits d'enregistrement si certaines conditions ne sont pas satisfaites, une telle lettre n'étant pas détachable de la procédure de recouvrement d'une imposition dont le contentieux ressortit à la compétence du tribunal de grande instance.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des tribunaux administratifs et des cours administratives d'appel L9</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

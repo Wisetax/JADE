@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272557</ID>
+<ANCIEN_ID>JTXLX1979X11X00000GRSCV</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/25/CETATEXT000008272557.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Grenoble, du 14 novembre 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-11-14</DATE_DEC>
+<JURIDICTION>Tribunal administratif Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Daumas</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Delcourt</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Jacquin-Pentillon</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03-01 CONTRIBUTIONS ET TAXES -  GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - CONTROLE FISCAL - Formes de la vérification - Information sur le droit de se faire assister par un conseil - Syndic du règlement judiciaire.</SCT>
+<ANA ID="9AA">19-01-03-01          L'administration a régulièrement averti le contribuable de la possibilité de se faire assister par un Conseil mais n'a pas averti, dans les mêmes conditions, le syndic du règlement judiciaire. Régularité de la procédure ainsi suivie, dès lors que la mise en état de règlement judiciaire n'emporte aucun transfert de propriété au profit de la masse des créanciers et que la décision de se faire assister par un conseil au cours d'une vérification constitue un acte conservatoire que le contribuable en règlement judiciaire peut accomplir sans l'assistance du syndic.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 septiès</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1938 5</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1959 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1940-10-22 ART. 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1948-09-26 ART. 93</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 67-563 1967-07-13 ART. 17</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

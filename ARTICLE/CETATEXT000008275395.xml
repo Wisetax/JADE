@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008275395</ID>
+<ANCIEN_ID>JTXLX1979X12X00000LLSFS</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/53/CETATEXT000008275395.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lille, du 14 décembre 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-12-14</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Annulation totale</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Boissonnet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Alluin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bolle</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-05-05 CONTRIBUTIONS ET TAXES -  IMPOTS ASSIS SUR LES SALAIRES OU LES HONORAIRES VERSES -  VERSEMENT DESTINE AUX TRANSPORTS EN COMMUN [LOI DU 11 JUILLET 1973] - Remboursement du versement.</SCT>
+<ANA ID="9AA">19-05-05          Le remboursement du versement destiné aux transports en commun aux entreprises qui effectuent intégralement le transport collectif de leurs salariés n'est pas subordonné à la condition que ce transport soit assuré gratuitement.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1973-07-11 ART. 5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

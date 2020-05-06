@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008271027</ID>
+<ANCIEN_ID>JTXLX1977X07X00000REMAL</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/10/CETATEXT000008271027.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Rennes, du 6 juillet 1977, publié au recueil Lebon</TITRE>
+<DATE_DEC>1977-07-06</DATE_DEC>
+<JURIDICTION>Tribunal administratif Rennes</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Chenet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guirriec</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Robert</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-02 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  EXEMPTIONS ET EXONERATIONS - Opérations réalisées par les régies municipales et départementales de services publics - [art. 261-6-3' au C.G.I.] - Intervention d'une fusion de communes.</SCT>
+<ANA ID="9AA">8AA          Assujettissement à la taxe sur la valeur ajoutée des opérations relatives à l'exploitation de terrains de camping réalisées par la régie de la nouvelle commune de St Malo dès lors qu'il n'est pas contesté que dans le ressort de la nouvelle collectivité locale la régie municipale assure l'exploitation des terrains de camping en concurrence avec celle de terrains privés et nonobstant la circonstance que la fusion a préservé l'autonomie des domaines privés des anciennes communes et que l'article 4 du décret du 26 octobre 1967 prononçant la fusion prévoit que celle-ci aura lieu "sans préjudice des droits d'usage ou autres qui peuvent avoir été acquis".</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 261-6 Al. 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1967-10-26 Art. 4</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

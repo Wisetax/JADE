@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263257</ID>
+<ANCIEN_ID>JTXLX1975X06X00000STSTX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263257.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Strasbourg, du 27 juin 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-06-27</DATE_DEC>
+<JURIDICTION>Tribunal administratif Strasbourg</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Epitalbra</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Grandval</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Lamberigts</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-04,RJ1 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - DETERMINATION DU BENEFICE NET - PROVISIONS -  Objet de provisions - Travaux d'entretien ou réparations.</SCT>
+<ANA ID="9AA">19-04-02-01-04-04        Le caractère de charge normale d'un exercice futur qu'ont les travaux de réparation [de bateaux en l'espèce]ne peut être opposé à la constitution de provisions dès lors que, pour des raisons de gestion indiscutables, les frais de réparation peuvent être différés sans que la probabilité de leur engagement en soit affectée [RJ1].</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. Conseil d'Etat 1972-07-21, p. 575&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39-5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007659525</ID>
+<ANCIEN_ID>JGXLX1978X07X0000008278</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/65/95/CETATEXT000007659525.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 9 SSR, du 12 juillet 1978, 08278, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1978-07-12</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>08278</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 9 SSR</FORMATION>
+<TYPE_REC>Plein contentieux</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rain</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Belorgey</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martin Laprade</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>        Vu la requête présentée par le sieur X... demeurant lotissement Plassonneau, à la Barre-de-Monts (Vendée), ladite requête enregistrée au secrétariat du Contentieux du Conseil d'Etat le 27 juin 1977 et tendant à ce qu'il plaise au Conseil annuler un jugement, en date du 25 avril 1977 par lequel le Tribunal administratif de Nantes a rejeté sa demande de remboursement de la taxe sur la valeur ajoutée qui a été acquittée pour son compte à raison de l'achat d'un terrain, aux termes d'un acte du 25 septembre 1969, à la Barre-de-Monts (Vendée).         Vu l'ordonnance du 31 juillet 1945 et le décret du 30 septembre 1953 ;         Vu le code général des impôts ;         Vu la loi du 30 décembre 1977 ;<br/>        Considérant qu'aux termes de l'article 1931-1 du Code général de Impôts, "le redevable qui entend contester la créance du Trésor, en totalité ou en partie, doit adresser une réclamation à l'administration" et qu'en vertu de l'article 1939-1 du même code, il ne peut saisir le tribunal administratif qu'à la suite du rejet exprès ou implicite de cette réclamation ;<br/>        Considérant qu'il résulte de l'instruction que, si le sieur X... soutient avoir accompli cette formalité en adressant au directeur des services fiscaux, le 30 décembre 1970, une demande tendant à obtenir le remboursement de la taxe sur la valeur ajoutée, qu'il estimait avoir été indûment acquittée pour son compte le 27 octobre 1970 il n'apporte pas la preuve que l'envoi recommandé, non assorti d'une demande d'accusé de réception, dont il a conservé le récépissé, ait été reçu par l'Administration, ni que l'Administration ait été en mesure, au reçu de ce pli, d'identifier l'expéditeur comme étant le sieur X... ; que dès lors la requête qu'il a introduite auprès du Tribunal administratif de Nantes le 28 décembre 1973 était irrecevable ;<br/>        Considérant qu'il résulte de ce qui précède que le sieur X... n'est pas fondé à se plaindre que le Tribunal administratif de Nantes ait, par le jugement attaqué, rejeté sa demande tendant au remboursement de ladite taxe.<br/>        DECIDE :         Article 1er - La requête susvisée du sieur X... est rejetée.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-02-02-01 CONTRIBUTIONS ET TAXES -  PROCEDURE CONTENTIEUSE -  RECLAMATIONS AU DIRECTEUR - FORMES -  Preuve de la réception de la réclamation par le directeur.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">54-01-02-01 PROCEDURE - INTRODUCTION DE L'INSTANCE -  LIAISON DE L'INSTANCE - RECOURS ADMINISTRATIF PREALABLE - Preuve de la réception par l'administration d'une réclamation en matière fiscale.</SCT>
+<ANA ID="9AA">19-02-02-01, 54-01-02-01          Le contribuable qui a adressé sa réclamation par envoi recommandé et en produit le récépissé, mais n'avait pas assorti cet envoi d'une demande d'accusé de réception n'apporte la preuve ni que l'administration ait reçu son envoi, ni qu'elle ait été en mesure, au reçu du pli, d'identifier l'expéditeur. Il est donc irrecevable à saisir le juge de l'impôt.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1931-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1939-1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007621991</ID>
+<ANCIEN_ID>JFXLX1986X01X0000042182</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/19/CETATEXT000007621991.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 7 / 8 SSR, du 6 janvier 1986, 42182, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-01-06</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>42182</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>7 / 8 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Videau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Magniny</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Fouquet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-07-02 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - PROCEDURE DE TAXATION - REGIME REEL -Déclaration des recettes [article 287 du C.G.I.] - Caractère mensuel de cette déclaration - Taxation d'office en cas d'absence de déclaration au titre de certains mois.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-02-07-04 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - PROCEDURE DE TAXATION - TAXATION, EVALUATION OU RECTIFICATION D'OFFICE -Rectification d'office - Conditions de mise en oeuvre - Vérification de comptabilité non nécessaire [sol. impl.].</SCT>
+<ANA ID="9AA">19-06-02-07-02        En vertu de l'article 287 du C.G.I., un contribuable redevable de la T.V.A. selon le régime réel est tenu de déclarer chaque mois le montant total des affaires réalisées et le détail des opérations taxables. A défaut de déclaration dans le délai légal, il est taxé d'office en application des dispositions combinées des articles 288 et 179 du même code [rédaction applicable en 1974]. Une société n'ayant satisfait à ses obligations que pour une partie seulement de la période en litige pouvait être taxée d'office au titre de chacun des mois au titre desquels elle n'a pas déposé de déclaration dans les délais légaux.</ANA>
+<ANA ID="9BA">19-06-02-07-04        Une rectification d'office n'a pas à être nécessairement précédée d'une vérification de comptabilité [sol. impl.] mais peut trouver son origine dans les renseignements recueillis par l'administration dans le cadre de son droit de communication.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1930 2 30, 1965 H, 287, 288, 179, 1649 quinquiès E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Note administrative 1964-01-30 direction générale des impôts</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 45-1483 1945-06-30</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

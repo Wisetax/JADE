@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008247591</ID>
+<ANCIEN_ID>JTXLX1978X11X00000VEVAU</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/75/CETATEXT000008247591.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Versailles, du 29 novembre 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-11-29</DATE_DEC>
+<JURIDICTION>Tribunal administratif Versailles</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Pipien</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Cochème</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Petit</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-02 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX -  TEXTE APPLICABLE [DANS LE TEMPS ET DANS L'ESPACE] - Rétroactivité - Rétroactivité d'une délibération de conseil municipal fixant le taux de la participation aux frais d'installation des égouts.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-09 CONTRIBUTIONS ET TAXES -  PRELEVEMENTS AUTRES QUE FISCAUX ET PARAFISCALITE -  Participation des propriétaires aux frais d'installations des égouts - Fait générateur - Immeuble raccordé avant la délibération du conseil municipal fixant le taux de la participation.</SCT>
+<ANA ID="9AA">19-01-01-02, 19-09          Les délibérations du conseil municipal fixant le taux de la participation étant postérieures au raccordement de l'immeuble au réseau d'égout, la participation ne peut être légalement exigée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code de la santé publique L35-4</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008185327</ID>
+<ANCIEN_ID>JTXLX1994X03X00000ROBON</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/18/53/CETATEXT000008185327.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Rouen, du 2 mars 1994, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1994-03-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Panazza</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Fontaine</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Aupoix</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03-02-02 CONTRIBUTIONS ET TAXES - GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - REDRESSEMENT - NOTIFICATION DE REDRESSEMENT -Destinataire - Notification à celui des époux qui est titulaire des revenus (art. L. 54 du livre des procédures fiscales) - Absence - Effets - Irrégularité de la procédure d'imposition.</SCT>
+<ANA ID="9AA">19-01-03-02-02          Le service a évalué d'office les profits réalisés en bourse de marchandises par le contribuable d'une part, son épouse d'autre part sans que celle-ci ait été rendue destinataire d'une notification portant sur les opérations la concernant personnellement ainsi que le prévoient les dispositions de l'article 155 B du code général des impôts reprises à l'article L. 54 du livre des procédures fiscales. Par suite, la procédure d'imposition est irrégulière en ce qui concerne cette catégorie de revenu.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 155 B</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI livre des procédures fiscales L54, L277</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

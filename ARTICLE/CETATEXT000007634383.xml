@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007634383</ID>
+<ANCIEN_ID>JGXLX1965X06X0000058749</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/63/43/CETATEXT000007634383.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, Section, du 18 juin 1965, 58749, publié au recueil Lebon</TITRE>
+<DATE_DEC>1965-06-18</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>58749</NUMERO>
+<SOLUTION>Annulation rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>SECTION</FORMATION>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT/>
+<AVOCATS/>
+<RAPPORTEUR>M. Ligen</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Dutheillet de Lamothe</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">135-02-02-08 COLLECTIVITES TERRITORIALES - COMMUNE - BIENS DE LA COMMUNE - DISPOSITIONS PARTICULIERES -&lt;CA&gt;Renonciation au profit de la commune par des propriétaires privés, à la propriété de certains terrains en application de l'article 1425 du code général des impôts. Litige relatif au refus par la commune d'accepter ce transfert.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">17-03-02-02-01 COMPETENCE - REPARTITION DES COMPETENCES ENTRE LES DEUX ORDRES DE JURIDICTION - COMPETENCE DETERMINEE PAR UN CRITERE JURISPRUDENTIEL - DOMAINE - DOMAINE PRIVE -&lt;CA&gt;Domaine privé communal. Litige relatif au refus d'acceptation du transfert de propriété à la suite d'un abandon de terrains par des propriétaires se prévalant de l'article 1425 du Code général des impôts.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-03-03-02 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES FONCIERES - TAXE FONCIERE SUR LES PROPRIETES NON BATIES -&lt;CA&gt;Exonération - Article 1425 du code général des impôts - Champ d'application.</SCT>
+<SCT ID="8DA" TYPE="PRINCIPAL">54-01-03 PROCEDURE - INTRODUCTION DE L'INSTANCE - EXCEPTION DE RECOURS PARALLELE -&lt;CA&gt;Absence d'exception de recours parallèle devant le juge de l'impôt bien que l'acte administratif attaqué mette en cause l'application de l'article 1425 du Code général des impôts.</SCT>
+<ANA ID="9AA">135-02-02-08, 17-03-02-02-01, 19-03-03-02, 54-01-03          Il résulte des termes de l'article 66 de la loi du 3 frimaire an VII, repris à l'article 1425 du Code général des impôts permettant aux contribuables de s'affranchir de l'imposition sur certains terrains, en renonçant à leur propriété au profit de la commune dans laquelle ils sont situés, que ce texte n'est applicable qu'aux terrains ne comportant aucun aménagement particulier de nature à les rendre propres à un usage agricole, industriel, commercial, ou à des fins d'habitation. En l'espèce, les biens dont les propriétaires voulaient faire abandon comportant principalement un canal et les ruines d'un moulin et ne rentrant pas, bien que les terrains attenants étaient parfois envahis par les eaux par suite du mauvais entretien de ces ouvrages, dans la catégorie de biens prévus par l'article 1425, impossibilité pour les propriétaires d'user légalement de la faculté de renonciation ouverte par cet article, et régularité de la délibération du Conseil municipal s'opposant au transfert de propriété de ces terrains, et de la décision du préfet refusant de déclarer cette délibération nulle de droit.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1425</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

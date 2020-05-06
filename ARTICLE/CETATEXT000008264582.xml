@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264582</ID>
+<ANCIEN_ID>JTXLX1978X11X00000NIMFI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/45/CETATEXT000008264582.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nice, du 22 novembre 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-11-22</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nice</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Romeuf</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Jean</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bernhardt</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-02-04 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - LIQUIDATION DE LA TAXE -  CIRCUITS DE FRAUDE -  Mention de la taxe sur une facture qui ne correspond pas à l'exécution d'une prestation de services [art. 283-4 du CGI].</SCT>
+<ANA ID="9AA">19-06-02-02-04          La société qui a facturé à un client un service non rendu et mentionné la TVA sur sa facture, reste redevable de ladite taxe alors même qu'elle est amenée à rembourser au client les sommes indûment acquises.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1729</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1731</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 283-4</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

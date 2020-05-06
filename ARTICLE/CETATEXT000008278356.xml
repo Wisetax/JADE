@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008278356</ID>
+<ANCIEN_ID>JTXLX1981X07X00000CALEV</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/83/CETATEXT000008278356.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Caen, du 7 juillet 1981, publié au recueil Lebon</TITRE>
+<DATE_DEC>1981-07-07</DATE_DEC>
+<JURIDICTION>Tribunal administratif Caen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delbeque</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Roth</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - Revenu acquis par un contribuable avant son décès [notion].</SCT>
+<ANA ID="9AA">19-04-01-02-03          Une indemnité d'expropriation ayant été définitivement fixée par le juge compétent avant le décès d'un contribuable, la plus-value en résultant constitue un revenu acquis au sens de l'article 204-1 du CGI et l'administration est en droit de l'imposer au titre de l'année du décès et au nom de la succession du contribuable défunt.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 150 ter I 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 150 ter V</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 204 1 [1975]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décision 1980-02-22 Directeur des Services Fiscaux de l'Orne</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 76-660 1976-07-19</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

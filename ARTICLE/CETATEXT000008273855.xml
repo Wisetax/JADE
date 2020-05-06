@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008273855</ID>
+<ANCIEN_ID>JTXLX1977X12X00000CMCGR</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/38/CETATEXT000008273855.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Châlons-sur-Marne, du 13 décembre 1977, 03200, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-12-13</DATE_DEC>
+<JURIDICTION>Tribunal administratif Châlons-sur-Marne</JURIDICTION>
+<NUMERO>03200</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. David</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Giltard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Jabin</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-03 CONTRIBUTIONS ET TAXES -  GENERALITES - REGLES GENERALES D'ETABLISSEMENT DE L'IMPOT - Centre de gestion agréé - Conditions de l'agrément.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-02-01-02 CONTRIBUTIONS ET TAXES -  PROCEDURE CONTENTIEUSE -  QUESTIONS COMMUNES -  POUVOIRS DU JUGE FISCAL - Recours pour excès de pouvoir - Décision du directeur régional des impôts refusant l'agrément prévu par le décret du 6 octobre 1975 relatif aux centres de gestion agréés.</SCT>
+<ANA ID="9AA">19-01-03, 19-02-01-02          Les dispositions de l'article 7, alinéa premier, du décret du 6 octobre 1975 ne peuvent être interprétées que comme impliquant la participation de tous les membres fondateurs à la gestion du centre dans les conditions que doivent préciser les statuts. L'article 12 du même décret qui confère au directeur régional des impôts un pouvoir discrétionnaire, ne fait pas obstacle à ce que celui-ci se réfère dans la décision d'agrément à l'avis émis par la commission créée par ce même article. La conformité des statuts du centre aux prescriptions de l'article 7, alinéa 1er, du décret du 6 octobre 1975 doit s'apprécier en tenant compte de la composition définitive des organes de gestion dudit centre et non de leur organisation provisoire.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 75-911 1975-10-06 ART. 7 AL. 1, ART. 12</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

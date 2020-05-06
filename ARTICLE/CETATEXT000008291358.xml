@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291358</ID>
+<ANCIEN_ID>JTXLX1977X12X00000AMSIC</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/13/CETATEXT000008291358.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Amiens, du 20 décembre 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-12-20</DATE_DEC>
+<JURIDICTION>Tribunal administratif Amiens</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Plateau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Delabrousse</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Lukaszewicz</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04 CONTRIBUTIONS ET TAXES -  IMPOSITIONS LOCALES ET TAXES ASSIMILEES - PATENTE - Taxe spéciale instituée sur les sociétés d'intérêt collectif agricole par la loi du 24 décembre 1971.</SCT>
+<ANA ID="9AA">19-03-04          Il ressort des dispositions de la loi du 24 décembre 1971 que les SICA ne sont exonérées de la taxe spéciale que si elles emploient moins de trois salariés - le décompte doit être opéré conformément aux prescriptions de l'article 1456 du C.G.I. c'est-à-dire tenir compte des effectifs du personnel employé et qui concourt directement ou indirectement à la marche de l'entreprise pendant la phase active des travaux et quel que soit son mode de rémunération.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1456</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1975-10-23</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 1975-07-29 taxe professionnelle</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 71-1025 1971-12-24 ART. 15</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

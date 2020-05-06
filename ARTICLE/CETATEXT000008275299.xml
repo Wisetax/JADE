@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008275299</ID>
+<ANCIEN_ID>JTXLX1978X02X00000NIDEV</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/52/CETATEXT000008275299.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nice, du 15 février 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-02-15</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nice</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Monod</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Daussin-Charpantier</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bernhard</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-06 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  PROCEDURE DE TAXATION [REGLES GENERALES] -  Régime du forfait - Délai de trente jours imparti au redevable pour accepter ou refuser la proposition de l'administration.</SCT>
+<ANA ID="9AA">19-06-01-06        Le contribuable qui accepte sur le champ la proposition de forfait présentée par l'administration ne renonce pas, de ce fait, au délai de trente jours dont il dispose légalement. Il peut revenir sur la première acceptation tant que le délai de trente jours n'est pas expiré.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 51</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008248594</ID>
+<ANCIEN_ID>JTXLX1977X03X00000PABRA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/85/CETATEXT000008248594.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 17 mars 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-03-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Nolde</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Massiot</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-05 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX - CONVENTIONS INTERNATIONALES - Convention franco-suisse du 9 septembre 1966 [art 4-5]</SCT>
+<ANA ID="9AA">8AA          Le contribuable qui, aux termes de la convention Franco-Suisse du 9 septembre 1966, était imposable en France, pouvait, en l'absence de déclarations de ses revenus, être taxé d'office. Faute de renseignement sur les revenus réels de l'intéressé, l'administration a procédé à une taxation d'office de l'ensemble des revenus en appliquant le barême de l'article 168 aux éléments connus du train de vie du contribuable. Ce faisant, elle n'a pas méconnu les dispositions de l'article 4-5 de la convention précitée qui précisent que ... "ne sont pas considérées comme résident d'un Etat contractant ... les personnes physiques qui ne sont imposables dans cet Etat que sur une base forfaitaire déterminée d'après la valeur locative de la ou des résidences qu'elles possèdent sur le territoire de cet Etat."</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 168</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 170 et 170 BIS</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 179</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 4 Par. 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Convention 1966-09-09 Fiscale France-Suisse Art. 4 Al. 5</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

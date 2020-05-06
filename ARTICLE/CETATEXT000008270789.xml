@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270789</ID>
+<ANCIEN_ID>JTXLX1978X12X00000NCSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270789.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nancy, du 14 décembre 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-12-14</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nancy</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Cureau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Laporte</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Baradel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-02-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS FONCIERS ET PLUS-VALUES ASSIMILABLES -  PLUS-VALUES ASSIMILABLES [ART. 150 TER DU C.G.I.]. -  Champ d'application de l'article 150 ter - Notion de terrain à usage agricole.</SCT>
+<ANA ID="9AA">19-04-02-02-02          Bien que cédé pour un prix supérieur aux plafonds prévus à l'article 150 ter I - 3. du CGI et à l'article 41 novodécies de l'annexe III, un terrain est regardé comme à usage agricole dès lors qu'il est effectivement affecté à cet usage, se trouve dans une zone rurale frappée d'une servitude "non aedificandi" et que l'administration a, à plusieurs reprises, refusé la délivrance d'un certificat d'urbanisme.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 150 ter I 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 41 novodecies</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

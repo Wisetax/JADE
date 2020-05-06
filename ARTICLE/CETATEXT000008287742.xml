@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287742</ID>
+<ANCIEN_ID>JTXLX1996X06X00000STLEM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/77/CETATEXT000008287742.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Strasbourg, du 20 juin 1996, 891871, publié au recueil Lebon</TITRE>
+<DATE_DEC>1996-06-20</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Strasbourg</JURIDICTION>
+<NUMERO>891871</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Kintz</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Rousselle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Martinez</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>
+<br/>    Vu la requête enregistrée le 21 septembre 1989, sous le n° 891871 par la société Lemfoerder Metal France, qui demande au tribunal administratif la réduction, à concurrence de 438.793 F de l'impôt sur les sociétés auquel elle a été assujettie au titre de l'année 1987 ;<br/>    Vu le code général des impôts, livre des procédures fiscales et le code des tribunaux administratifs et des cours administratives d'appel ;<br/>    Le tribunal a entendu à l'audience publique :<br/>    - le rapport de Mme ROUSSELLE, conseiller,<br/>    - les conclusions de M. MARTINEZ, commissaire du gouvernement ;<br/>
+<br/>    Considérant qu'aux termes de l'article L. 209 du livre des procédures fiscales : "Lorsqu'une juridiction rejette totalement ou partiellement la demande d'un contribuable tendant à obtenir l'annulation ou la réduction d'une imposition établie en matière d'impôts directs à la suite d'un redressement ou d'une taxation d'office, les cotisations ou fractions de cotisations maintenues à la charge du contribuable et pour lesquelles celui-ci avait obtenu un sursis de paiement donnent lieu au paiement d'intérêts moratoires au taux de l'intérêt légal" ;<br/>    Considérant qu'aux termes de l'article 39 du code général des impôts : "I. Le bénéfice net est établi sous déduction de toutes charges" ; que l'article 213 du même code dispose que "l'impôt sur les sociétés et l'impôt sur le revenu ne sont pas admis dans les charges déductibles pour l'établissement de l'impôt" ;<br/>    Considérant que la société Lemfoerder Metal France a fait l'objet, au titre de l'exercice 1980, d'une vérification de comptabilité ayant donné lieu à notification de redressements ; que la société, après avoir contesté l'imposition en litige, a obtenu, le 15 juin 1983, le sursis de paiement ; que, par jugement rendu le 6 janvier 1987, le tribunal de céans rejetait la requête de la société Lemfoerder Metal ; qu'en conséquence, le 18 novembre 1987, la société requérante a acquitté l'imposition réclamée, majorée des intérêts moratoires prévus par l'article L. 209 du code général des impôts précité ; qu'elle estime que lesdits intérêts constituent une charge financière déductible pour l'assiette de l'impôt ;<br/>    Considérant que, contrairement à ce que soutient la société requérante, les intérêts moratoires versés en application de l'article L. 209 du livre des procédures fiscales ne présentent pas le caractère de charges financières exposées dans l'intérêt de l'entreprise mais ne sont que l'accessoire de l'imposition principale ; que, dès lors qu'en application des dispositions susrappelées de l'article 213 du code général des impôts l'impôt sur les sociétés n'est pas admis en déduction du résultat imposable d'une entreprise, les intérêts moratoires acquittés ne peuvent davantage être déduits dudit résultat ;<br/>    Considérant qu'il résulte de ce qui précède que la requête de la société Lemfoerder Metal France doit être rejetée ;<br/>Article Ier : La requête susvisée de la SA Lemfoerder Metal France est rejetée.<br/>Article 2 : Le présent jugement sera notifié à la SA Lemfoerder Metal France et au directeur des services fiscaux de la Moselle.<br/>
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-04-081,RJ1 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - BENEFICES INDUSTRIELS ET COMMERCIAUX - DETERMINATION DU BENEFICE NET - CHARGES FINANCIERES -Intérêts moratoires acquittés en application de l'article L. 209 du livre des procédures fiscales - Absence (1).</SCT>
+<ANA ID="9AA">19-04-02-01-04-081          Une société avait obtenu le sursis de paiement. Ayant vu sa requête rejetée, elle avait payé l'impôt, majoré des intérêts moratoires institués par l'article L. 209 du livre des procédures fiscales dont elle demandait la déductibilité, les assimilant à des charges financières. Les intérêts moratoires étant l'accessoire de l'imposition principale et celle-ci n'étant pas déductible, refus de déductibilité des intérêts afférents.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. CE, Section, 1992-12-04, Brossard, p. 435&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39, 213</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI Livre des procédures fiscales L209</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

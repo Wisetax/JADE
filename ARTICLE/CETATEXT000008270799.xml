@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270799</ID>
+<ANCIEN_ID>JTXLX1979X05X00000MAMRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270799.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 3 mai 1979, publié au recueil Lebon</TITRE>
+<DATE_DEC>1979-05-03</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Nguyen Huu</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Richard</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Didierjean</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-06-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - ETABLISSEMENT DE L'IMPOT -  FORFAIT - Caducité du forfait établi au vu de document inexact.</SCT>
+<ANA ID="9AA">19-04-02-01-06-02          N'est pas caduc le forfait établi au titre d'une année n et notifié dès le mois de Mars de cette année n dès lors que le document dont l'inexactitude est alléguée par l'administration n'a été produit par le contribuable qu'au cours de l'année n + I.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 302 ter 5 [1969]</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

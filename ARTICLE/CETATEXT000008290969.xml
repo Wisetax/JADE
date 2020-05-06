@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008290969</ID>
+<ANCIEN_ID>JTXLX1996X12X00000LLCGI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/09/CETATEXT000008290969.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 19 décembre 1996, 90-157, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-12-19</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>90-157</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Couzinet</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Couzinet</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-05-01 CONTRIBUTIONS ET TAXES - IMPOTS ASSIS SUR LES SALAIRES OU LES HONORAIRES VERSES - VERSEMENT FORFAITAIRE DE 5 % SUR LES SALAIRES ET TAXE SUR LES SALAIRES -Assujettissement à la taxe sur les salaires - Incidence de la constitution de secteurs distincts pour la TVA - Absence.</SCT>
+<ANA ID="9AA">19-05-01          Il résulte des dispositions de l'article 231-1 du code général des impôts dans sa rédaction issue du I de l'article 18 de la loi n° 93-1353 du 30 décembre 1993, dont les dispositions "ont un caractère interprétatif et s'appliquent aux instances en cours sous réserve des décisions de justice passées en force de chose jugée" en vertu du II du même article, que la constitution éventuelle de secteurs distincts en matière de taxe sur la valeur ajoutée demeure sans incidence sur l'assujettissement à la taxe sur les salaires qui, en tout état de cause, ne peut être envisagé séparément au regard des rémunérations taxées dans chacun desdits secteurs.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 231</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 93-1353 1993-12-30 art. 18</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

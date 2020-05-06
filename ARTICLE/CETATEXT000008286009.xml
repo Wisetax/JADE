@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008286009</ID>
+<ANCIEN_ID>JTXLX1998X11X00000LLROU</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/60/CETATEXT000008286009.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 23 novembre 1998, 98-3627, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1998-11-23</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>98-3627</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Référé</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Brunelli, juge des référés</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR/>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-08-03-06 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - LIQUIDATION DE LA TAXE - DEDUCTIONS - REMBOURSEMENTS DE TVA -Compétence du juge du référé - Provision - Absence.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">54-03-015-02 PROCEDURE - PROCEDURES D'URGENCE - REFERE-PROVISION - RECEVABILITE -Absence - Litige relatif au remboursement d'un crédit de TVA.</SCT>
+<ANA ID="9AA">19-06-02-08-03-06, 54-03-015-02          Le juge du référé ne peut être saisi d'une demande tendant à l'allocation d'une provision que lorsque la demande au fond présente des conclusions indemnitaires. Une demande au fond tendant à ce que le tribunal prononce le remboursement d'un crédit de taxe sur la valeur ajoutée ne présente pas ce caractère. Irrecevabilité de la requête tendant à l'allocation d'une provision lorsque la demande au fond tend au remboursement d'un crédit de taxe sur la valeur ajoutée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS/>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008266987</ID>
+<ANCIEN_ID>JTXLX1999X05X00000LLDEM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/69/CETATEXT000008266987.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 27 mai 1999, 97-3163, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-05-27</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>97-3163</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Martin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>Mme Martin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-08-01 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - PLUS-VALUES DES PARTICULIERS - PLUS-VALUES MOBILIERES -Report d'imposition - Invocation de la directive du 23 juillet 1990 inopérante en cas d'opération effectuée entre sociétés françaises.</SCT>
+<ANA ID="9AA">19-04-02-08-01          La circonstance que le législateur ait entendu, par la rédaction du 4 du I ter de l'article 160 du code général des impôts, aligner les dispositions du droit interne sur celles prévues par la directive du 23 juillet 1990 des communautés européennes concernant le régime fiscal commun applicable notamment aux apports d'actifs et échanges d'actions intéressant des sociétés membres d'Etats différents ne saurait conduire à rendre opérant le moyen tiré de la non-conformité du 4 du I ter de l'article 160 avec l'article 8 de la directive lorsqu'il est invoqué à l'occasion d'un litige portant sur une opération effectuée entre des sociétés françaises.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CEE directive 1990-07-23 Conseil des Communautés européennes art. 8</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 160</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264536</ID>
+<ANCIEN_ID>JTXLX1975X02X00000PASRU</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/45/CETATEXT000008264536.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 25 février 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-02-25</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Laussel</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Serre</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-08 CONTRIBUTIONS ET TAXES -  REDEVANCE SUR LES LOCAUX PROFESSIONNELS DE LA REGION PARISIENNE           [1]           Champ d'application - Bureaux faisant partie d'un local à           usage d'habitation.           [2]           Montant de la redevance - Taux - Construction sans permis.           [3]           Etablissement de la redevance - Prescription - Fait           générateur - Transformation de locaux à usage de bureaux.</SCT>
+<ANA ID="9AA">19-08[1]        Les dispositions de l'article 7 de la loi du 2 août 1960, excluant du champ d'application de cette loi "les bureaux qui font partie d'un local à usage principal d'habitation" ne visent que les bureaux inclus dans un appartement servant principalement à l'habitation et ne sauraient s'appliquer au cas où une partie de l'immeuble est destinée à l'habitation.</ANA>
+<ANA ID="9BA">19-08[2]        Dès lors qu'une construction a fait l'objet d'une déclaration, la redevance y afférant ne peut être calculée d'office en fonction du taux double, même si la construction a été irrégulièrement entreprise sans permis de construire.</ANA>
+<ANA ID="9CA">19-08[3]        Un permis de construire qui ne comporte aucune indication sur la destination des superficies commerciales et sur la création éventuelle de bureaux ne peut faire courir le délai de prescription institué par l'article 2 de la loi du 2 août 1960. La "transformation" en bureaux [au sens de l'article 9 de ladite loi] de locaux affectés à un autre usage ne nécessite pas que les locaux aient déjà été utilisés conformément à leur affectation initiale.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 1960-09-05 art. 12</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 1960-08-02 art. 2, 9 et 7</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

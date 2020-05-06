@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263295</ID>
+<ANCIEN_ID>JTXLX1977X10X00000BESRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263295.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Besançon, du 19 octobre 1977, 08396, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-10-19</DATE_DEC>
+<JURIDICTION>Tribunal administratif Besançon</JURIDICTION>
+<NUMERO>08396</NUMERO>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Clatin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Megier</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Guerinet</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-04 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  BENEFICES AGRICOLES - Bénéfice agricole forfaitaire - Notion de viticulteurs vendant leurs vendanges.</SCT>
+<ANA ID="9AA">19-04-02-04          Le requérant n'a pas procédé personnellement à la vinification de sa récolte mais en fait apport à une société coopérative agricole de laquelle il a reçu une rémunération déterminée en fonction du degré du moût de ses apports, de la qualité et des possibilités de vente des vins produits par la société coopérative ainsi que des résultats nets de l'exercice. Cette coopérative n'exerce pas une activité lucrative et prolonge l'activité agricole de ses adhérents ; par ailleurs, il résulte clairement du pacte social que les adhérents conservent la propriété des récoltes apportées mais que le revenu perçu par chacun d'eux comprend outre la valeur des récoltes apportées à la coopérative, la plus-value résultant de la vinification du raisin. Dans ces conditions, les bénéfices forfaitaires du requérant ont été à bon droit déterminé sur la base du tarif applicable aux viticulteurs autres que ceux vendant leurs vendanges.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 64</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 66</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270739</ID>
+<ANCIEN_ID>JTXLX1977X01X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270739.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 4 janvier 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-01-04</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Niel</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Jousselin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Serre</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-04 CONTRIBUTIONS ET TAXES -  GENERALITES - AMENDES, PENALITES, MAJORATION -  Sanction de l'insuffisance de déclaration - Bonne foi du contribuable.</SCT>
+<ANA ID="9AA">19-01-04        Il résulte des articles 1728 et suivants du C.G.I. dans leur rédaction issue de la loi du 27 décembre 1963 qu'il appartient à l'administration d'établir séparément pour chaque chef d'insuffisance l'absence de bonne foi du contribuable.        De plus, la bonne foi doit être admise lorsque les infractions sont involontaires ou imputables soit à l'erreur, soit à l'ignorance, soit à de simples négligences exclusives de toute intention frauduleuse. Application à un contribuable médecin pour la répartition qu'il avait faite entre la partie privée et la partie professionnelle de certains frais et qui était légèrement différente de celle retenue par l'administration.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1728 et suivants</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1729</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1734</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi  1963-12-27 art. 37 A 40</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi  1963-12-27 art. 38-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi  1963-12-27 art. 43</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

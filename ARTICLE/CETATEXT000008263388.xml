@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263388</ID>
+<ANCIEN_ID>JTXLX1973X08X00000MAFRA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/33/CETATEXT000008263388.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Marseille, du 14 août 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-08-14</DATE_DEC>
+<JURIDICTION>Tribunal administratif Marseille</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Heurte</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Guerin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Vieil</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-04-04 CONTRIBUTIONS ET TAXES -  ANCIENNES CONTRIBUTIONS ET TAXES ASSIMILEES - PATENTE - DROIT FIXE -  Etablissements distincts - Société exploitant une usine de teinture et de dégraissage, et disposant en ville de magasins dépôts dont les propriétaires ont conclu avec elle des contrats d'exclusivité révélant un lien de subordination.</SCT>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1459</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1463</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

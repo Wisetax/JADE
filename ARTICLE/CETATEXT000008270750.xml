@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270750</ID>
+<ANCIEN_ID>JTXLX1977X05X00000ORSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270750.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Orléans, du 6 mai 1977, 01209, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-05-06</DATE_DEC>
+<JURIDICTION>Tribunal administratif Orléans</JURIDICTION>
+<NUMERO>01209</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Kraft</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Léger</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Vidal</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-06 CONTRIBUTIONS ET TAXES -  GENERALITES - DIVERS -  Société de fait - Critères - Cas d'une indivision successorale.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-01-01-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - PERSONNES ET ACTIVITES IMPOSABLES - ENUMERATION DES PERSONNES ET ACTIVITES -  Exploitation dans le cadre d'une indivision successorale - Absence de société de fait.</SCT>
+<ANA ID="9AA">8AA,8BA          Garage en indivision entre la dame A. et sa mère la dame B.. L'exploitation en a été poursuivie par cette dernière jusqu'en 1964 dans des conditions excluant toute participation de la dame A. au contrôle de l'affaire et aux bénéfices et pertes. L'administration n'établit ni qu'en demandant à compter de 1964 la nomination d'un administrateur du fonds de commerce, la dame A. ait entendu poursuivre un autre but que celui de préserver un élément de son patrimoine, ni que la nomination de cet administrateur ait eu en lui-même pour effet de faire participer la dame A. à la direction, à la gestion ou au contrôle de l'affaire. Quant à la circonstance que celle-ci a accepté de désintéresser une partie des créanciers de l'entreprise et qu'elle a opéré des prélèvements d'un montant d'ailleurs modeste, elle ne suffit pas non plus à caractériser l'existence d'une société de fait.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 39 septdecies</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 50</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

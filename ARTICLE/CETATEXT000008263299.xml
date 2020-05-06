@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263299</ID>
+<ANCIEN_ID>JTXLX1977X11X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/32/CETATEXT000008263299.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 4 novembre 1977, 00241, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-11-04</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO>00241</NUMERO>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Eudier</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bulle</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Guilbot</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-02-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS FONCIERS ET PLUS-VALUES ASSIMILABLES -  REVENUS FONCIERS -  Notion.</SCT>
+<ANA ID="9AA">19-04-02-02-01          Il résulte des dispositions des articles 12 et 29 du C.G.I. que toute somme versée par un locataire au cours d'une année déterminée et demeurée à la disposition du propriétaire jusqu'au 31 décembre constitue une recette brute incluse dans les revenus fonciers, alors même que tout ou partie de ces sommes devra être restitué au locataire au cours d'une année ultérieure. Application aux dépôts de garantie versés par les locataires au moment de la signature du bail.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1941, 12, 29</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

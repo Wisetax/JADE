@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008278176</ID>
+<ANCIEN_ID>JTXLX1978X06X00000NTERO</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/81/CETATEXT000008278176.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nantes, du 12 juin 1978, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1978-06-12</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nantes</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Rousseau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Jego</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Thomas</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  CHAMP D'APPLICATION DES T.C.A. - Remboursement de frais.</SCT>
+<ANA ID="9AA">19-06-01-01          Bien que facturés distinctement en sus des tarifs horaires de location, les frais de déplacement, qu'une entreprise de location de main-d"oeuvre rembourse à son personnel lorsque celui-ci se rend sur les lieux du travail, sont indissociables de l'exercice de la profession de loueur de main-d"oeuvre et doivent être inclus dans le champ d'application de la taxe sur la valeur ajoutée.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1649 quinquies E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 256-1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

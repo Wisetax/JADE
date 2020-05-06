@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287882</ID>
+<ANCIEN_ID>JTXLX1996X06X00000LLRIE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/78/CETATEXT000008287882.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 10 juin 1996, 94-1068 95-1586, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1996-06-10</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>94-1068 95-1586</NUMERO>
+<SOLUTION>Non-lieu à statuer décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Looten</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Looten</RAPPORTEUR>
+<COMMISSAIRE_GVT>Mme Boulay</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">01-07-02 ACTES LEGISLATIFS ET ADMINISTRATIFS - PROMULGATION - PUBLICATION - NOTIFICATION - PUBLICATION -Publication le 5 janvier 1993 de la loi n° 92-1476 du 31 décembre 1992 - Application de son article 67 aux exonérations de taxes foncières dues au titre de l'année 1993 - Absence, faute de dispositions prévoyant son entrée en vigueur au 1er janvier 1993.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">01-08-03 ACTES LEGISLATIFS ET ADMINISTRATIFS - APPLICATION DANS LE TEMPS - TEXTE APPLICABLE -Exonérations de taxe foncière sur les propriétés bâties - Application à la taxe due au titre de l'année 1993 de l'article 67 de la loi n° 92-1476 du 31 décembre 1992 - Absence, faute de dispositions prévoyant son entrée en vigueur au 1er janvier 1993.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-03-03-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES FONCIERES - TAXE FONCIERE SUR LES PROPRIETES BATIES -Exonérations - Application à la taxe due au titre de l'année 1993 de l'article 67 de la loi n° 92-1476 du 31 décembre 1992 - Absence, faute de dispositions prévoyant son entrée en vigueur au 1er janvier 1993.</SCT>
+<ANA ID="9AA">01-07-02, 01-08-03, 19-03-03-01          Au 1er janvier 1993, date du fait générateur de la taxe foncière sur les propriétés bâties à laquelle a été assujetti le contribuable au titre de l'année 1993, en raison de l'immeuble dont il est propriétaire, la loi du 31 décembre 1992 n'était pas entrée en vigueur, dans les conditions prévues par l'article 2 du décret du 5 novembre 1870 qui dispose : "Les lois et décrets seront obligatoires, à Paris, un jour franc après la promulgation, et partout ailleurs, dans l'étendue de chaque arrondissement, un jour franc après que le Journal officiel qui les contient sera parvenu au chef-lieu de cet arrondissement", la loi du 31 décembre 1992 n'ayant été publiée au Journal officiel que le 5 janvier 1993, et aucune disposition de cette loi ne prévoyant que son article 67 entrerait en vigueur le 1er janvier 1993. C'est dès lors à tort que l'administration a cru pouvoir se fonder sur ladite loi du 31 décembre 1992 pour refuser au contribuable le bénéfice de l'exonération de la taxe foncière sur les propriétés bâties prévue par l'article 1383 du code général des impôts au motif que l'article 67 de cette loi remplacerait la référence à l'article 1639 A du code général des impôts faite à l'article 1383 V de ce code par la référence à l'article 1639 A bis du même code. Dans ces conditions, la demande du contribuable ne peut être appréciée qu'au regard des dispositions, seules applicables, de l'article 1383 V du code général des impôts, dans sa rédaction issue de l'article 129 de la loi n° 91-1322 du 30 décembre 1991.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1639 A, 1383 V</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 91-1322 1991-12-30 art. 129</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 92-1476 1992-12-31 art. 67</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

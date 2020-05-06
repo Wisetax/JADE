@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008283657</ID>
+<ANCIEN_ID>JTXLX1976X04X00000POLUN</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/36/CETATEXT000008283657.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Poitiers, du 28 avril 1976, publié au recueil Lebon</TITRE>
+<DATE_DEC>1976-04-28</DATE_DEC>
+<JURIDICTION>Tribunal administratif Poitiers</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Annulation totale</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Recours pour excès de pouvoir</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Triaud</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Le Bellec</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Clavier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">14-02-02 COMMERCE, INDUSTRIE, INTERVENTION ECONOMIQUE DE LA PUISSANCE PUBLIQUE - REGLEMENTATION ADMINISTRATIVE DES ACTIVITES ECONOMIQUES - ACTIVITES SOUMISES A UNE REGLEMENTATION - Pêches maritimes.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-09 CONTRIBUTIONS ET TAXES -  PRELEVEMENTS AUTRES QUE FISCAUX ET PARAFISCALITE -  Taxes parafiscales.</SCT>
+<ANA ID="9AA">14-02-02, 19-09        Taxe instituée par décision de la section régionale Marennes Gléron du comité interprofessionnel de la conchyliculture au profit d'un fond budgétaire de publicité et à la charge des expéditeurs de colis de coquillages. Cette taxe n'ayant été ni établie, dans les conditions prévues par les dispositions de l'article 4 de l'ordonnance du 2 janvier 1959, par décret en Conseil d'Etat sur le rapport du ministre des Finances et du ministre intéressé, ni autorisée, conformément aux dispositions de l'article 4 du décret 61-960 du 24 août 1960 par inscription sur la liste qui fait objet d'un état annexé à la loi de finances, mais ayant été instituée par une autorité incompétente, sa perception était irrégulière et le refus de son paiement ne pouvait donner lieu à l'application des sanctions administratives prévues par l'article 17 de l'ordonnance du 14 août 1945 sur l'organisation des pêches maritimes modifié par le décret du 9 mai 1961.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 57-1364 1957-12-30</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 60-960 1960-08-24 art. 4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 61-459 1961-05-09</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 69-1072 1969-11-27</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 71-751 1971-09-09</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 74-1074 1974-12-13</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 73-1150 1973-12-27 art. 50</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 45-1813 1945-08-14 art. 17</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 59-2 1959-01-02 art. 4 AL. 3</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

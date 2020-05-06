@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270785</ID>
+<ANCIEN_ID>JTXLX1979X12X00000LYSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270785.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Lyon, du 18 décembre 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-12-18</DATE_DEC>
+<JURIDICTION>Tribunal administratif Lyon</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Réduction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Vieil</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Roux</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mégier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-03 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS -  IMPOT SUR LE REVENU - DETERMINATION DU REVENU IMPOSABLE - ETALEMENT DES REVENUS - Distribution de réserves par une société.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-04-02-02-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS FONCIERS ET PLUS-VALUES ASSIMILABLES -  REVENUS FONCIERS -  Revenu imposable - Dépenses incombant normalement au propriétaire et supportés par le locataire.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-04-02-03-01-01-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  REVENUS DES CAPITAUX MOBILIERS ET ASSIMILABLES -  REVENUS DISTRIBUES - NOTION DE REVENUS DISTRIBUES -  IMPOSITION PERSONNELLE DU BENEFICIAIRE -  Distribution  de réserve - Droit à l'étalement.</SCT>
+<ANA ID="9AA">19-04-02-02-01          Lorsque le locataire supporte des charges pour le compte du propriétaire sans y être tenu par les stipulations du bail, les sommes correspondantes ne peuvent être regardées comme un supplément de loyer.</ANA>
+<ANA ID="9BA">19-04-01-02-03-03, 19-04-02-03-01-01-02          Au regard de l'article 163 qui donne la qualification de revenu exceptionnel aux distributions de réserves, il y a lieu de réputer provenir au premier chef des bénéfices de l'exercice préalablement incorporés aux postes des réserves la part des réserves distribuées qui n'excède pas le montant du bénéfice de l'exercice et de ne regarder comme revenu exceptionnel que la part des réserves distribuées qui excède ce montant.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 163</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 29</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 31 I 1 E</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

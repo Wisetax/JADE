@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008247746</ID>
+<ANCIEN_ID>JTXLX1980X09X00000VESOM</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/24/77/CETATEXT000008247746.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Versailles, du 11 septembre 1980, publié au recueil Lebon</TITRE>
+<DATE_DEC>1980-09-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif Versailles</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Berthelot</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Abraham</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Bastion</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  CHAMP D'APPLICATION DES T.C.A. - Location - Location de locaux nus à une société qui a pour objet la production de mycelium - Activité de nature agricole et non pas industrielle et commerciale - Assujettissement à la TVA impossible, même par voie d'option - Absence de droit à déduction.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-02-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - PERSONNES ET AFFAIRES TAXABLES -  Location - Location de locaux nus à une société qui a pour objet la production de mycelium - Activité de nature agricole et non pas industrielle et commerciale - Assujettissement à la T.V.A. impossible, même par voie d'option - Absence de droit à déduction.</SCT>
+<ANA ID="9AA">19-06-01-01, 19-06-02-01          La production de mycelium est une activité de nature agricole. Par suite la location de locaux nus à une société ayant un tel objet ne peut, même à la suite d'une option, entrer dans le champ d'application de la T.V.A. en application de l'article 260-2° du CGI. Par suite, absence de droit à déduction de la T.V.A. ayant grevé le loyer.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1959 3</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 260 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 223 1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

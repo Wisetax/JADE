@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264775</ID>
+<ANCIEN_ID>JTXLX1975X07X00000ROSHO</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/47/CETATEXT000008264775.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Rouen, du 4 juillet 1975, publié au recueil Lebon</TITRE>
+<DATE_DEC>1975-07-04</DATE_DEC>
+<JURIDICTION>Tribunal administratif Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Pipien</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Nolde</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Cantais</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-01-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  CHAMP D'APPLICATION DES T.C.A. - Notion d'affaires faites en France - Opérations effectuées et prestations fournies pour les besoins des navires à destination ou en provenance de l'étranger [art. 259-4 du C.G.I].</SCT>
+<ANA ID="9AA">19-06-01-01        L'exonération de la location de matériel de déchargement de bateaux, prévue par l'article 70 de l'annexe III du code général des impôts, ne bénéficie qu'à la seule entreprise manutentionnaire procédant au chargement ou au déchargement, mais non à l'entreprise tierce qui a mis à la disposition de ladite entreprise manutentionnaire du matériel par voie de location.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 259-4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 70</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008267821</ID>
+<ANCIEN_ID>JTXLX1973X10X00000POSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/78/CETATEXT000008267821.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Poitiers, du 17 octobre 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-10-17</DATE_DEC>
+<JURIDICTION>Tribunal administratif Poitiers</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Triaud</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bousiges</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Clavier</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-03-05 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES PROPRES AUX DIVERS IMPOTS - IMPOT SUR LE REVENU  - DETERMINATION DU REVENU IMPOSABLE - EVALUATION FORFAITAIRE DU REVENU -  Eléments du train de vie [art. 168 du C.G.I.] - Application du barême - Chevaux de course.</SCT>
+<ANA ID="9AA">19-04-01-02-03-05        Il n'y a pas lieu de prendre en compte au nombre des éléments de son train de vie les chevaux de course dont un éleveur-entraîneur de chevaux devient propriétaire à l'occasion de l'exercice de sa profession.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 168-1</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007624728</ID>
+<ANCIEN_ID>JFXLX1986X12X0000059556</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/47/CETATEXT000007624728.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 8 / 7 SSR, du 10 décembre 1986, 59556, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-12-10</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>59556</NUMERO>
+<SOLUTION>Annulation totale évocation supplément d'instruction</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>8 / 7 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. M. Bernard</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. de Vulpillières</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. de Guillenchmidt</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - QUESTIONS COMMUNES -Bases des impôts directs locaux - Evaluation de la valeur locative des biens - Valeur locative d'un immeuble - Détermination par comparaison - Application des article 1498-3° du C.G.I. et 324 AB et 324 AC de l'annexe III au C.G.I. - Nécessité de plusieurs termes de comparaison.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-03-03-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES FONCIERES - TAXE FONCIERE SUR LES PROPRIETES BATIES -Détermination de la valeur locative - Valeur vénale d'un immeuble exceptionnel - Date de référence.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-03-031 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXE D'HABITATION -Calcul des bases d'imposition - Evaluation directe de la valeur vénale d'un immeuble exceptionnel - Date à laquelle cette valeur doit être appréciée.</SCT>
+<ANA ID="9AA">19-03-01, 19-03-03-01, 19-03-031        Lorsque l'administration doit mettre en oeuvre la méthode d'évaluation directe de la valeur locative d'un immeuble présentant un caractère exceptionnel pour lequel il n'a pu être trouvé de termes de comparaison au sens de l'article 1498-2° et qu'elle doit faire application des dispositions des articles 324-A B et 324 A C de l'annexe III au C.G.I. qui prescrivent l'évaluation directe de l'immeuble en appliquant un taux d'intérêt à sa valeur vénale, elle est tenue pour ce faire d'apprécier la valeur vénale du bien en se fondant soit sur la valeur vénale d'autres immeubles d'une nature comparable ayant fait l'objet de transactions récentes, soit sur la valeur vénale du terrain estimé par comparaison avec celles qui ressortaient de transactions récentes, augmentées de la valeur de reconstruction au 1er janvier 1970 dudit immeuble, corrigée elle-même en fonction de divers éléments mentionnés à l'article 324-A C précité de l'annexe III audit code.        La référence à la valeur vénale d'un seul immeuble présentant des caractéristiques proches n'est pas suffisante pour apprécier la valeur du bien en cause. En conséquence, supplément d'instruction aux fins de permettre à l'administration de produire pour l'application de la méthode d'évaluation retenue par elle un ou plusieurs autres exemples d'immeubles d'une nature comparable ayant fait l'objet de transactions récentes.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1931 1, 1932 1, 1497, 1498, 1496 1, 1498-2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN3 324-A B, 324-A C</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Code des tribunaux administratifs T117</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008264038</ID>
+<ANCIEN_ID>JTXLX1978X04X00000PAMON</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/40/CETATEXT000008264038.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 26 avril 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-04-26</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET Droits maintenus</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Altabert</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Le Clainche</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Dorel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - PERSONNES ET AFFAIRES TAXABLES -  Affaires immobilières - Dation en paiement.</SCT>
+<ANA ID="9AA">19-06-02-01          Les dations en paiement effectuées par l'acquéreur d'un terrain en remettant au propriétaire du terrain, à titre de prix d'acquisition, et à un commerçant qui exploitait un fonds de commerce sur ledit terrain, à titre d'indemnité d'éviction, des locaux neufs à construire doivent être regardées comme concourant à la production ou à la livraison d'immeubles, au sens de l'article 257-7 du CGI. Le fait générateur de la taxe sur la valeur ajoutée est constitué par l'acte constatant la dation en paiement.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 219-1 E</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 257 7</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

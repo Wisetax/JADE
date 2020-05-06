@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270769</ID>
+<ANCIEN_ID>JTXLX1979X09X00000ROSRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/07/CETATEXT000008270769.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Rouen, du 28 septembre 1979, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1979-09-28</DATE_DEC>
+<JURIDICTION>Tribunal administratif Rouen</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Desmarescaux</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Desmarescaux</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Sant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-01-01-01 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  B.I.C. - PERSONNES ET ACTIVITES IMPOSABLES - ENUMERATION DES PERSONNES ET ACTIVITES -  Profits immobiliers assimilés aux BIC - Plus-values de cession [art. 35 A].</SCT>
+<ANA ID="9AA">19-04-02-01-01-01          La double circonstance que le profit immobilier réalisé n'entre pas dans les prévisions du b] de l'article 35 A II [résidence principale occupée par son propriétaire depuis l'acquisition ou pendant au moins cinq ans] ou qu'il ne puisse bénéficier de la présomption posée au 2e alinéa de l'article 35 A I [immeuble occupé par l'acquéreur ou sa famille] ne fait pas obstacle à ce que le contribuable justifie qu'il n'a pas acquis l'immeuble dans une intention spéculative.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35 A</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35 A I AL. 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 35 A II</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 73-1150 1973-12-27</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

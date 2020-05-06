@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008270903</ID>
+<ANCIEN_ID>JTXLX1973X02X00000PAPFI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/09/CETATEXT000008270903.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 1 février 1973, publié au recueil Lebon</TITRE>
+<DATE_DEC>1973-02-01</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. de la Fayolle de Mars</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Desmarescaux</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Crochet-Damais</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-02-02 CONTRIBUTIONS ET TAXES -  ANCIENNES CONTRIBUTIONS ET TAXES ASSIMILEES - CONTRIBUTION FONCIERE - CONTRIBUTION FONCIERE DES PROPRIETES BATIES - Exemptions et exonérations - Exemption temporaire de 25 ans en faveur des immeubles affectés à l'habitation - Local constituant une dépendance de parties affectées à l'habitation - Local renfermant un transformateur destiné à alimenter en électricité les immeubles d'habitation à l'intérieur desquels est enclavé ledit local.</SCT>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1384 Bis</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1384 septies 2 B</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

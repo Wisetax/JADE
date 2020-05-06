@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008287580</ID>
+<ANCIEN_ID>JTXLX1993X06X00000GRCCA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/75/CETATEXT000008287580.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Grenoble, du 30 juin 1993, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1993-06-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Grenoble</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Bernault</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Bernault</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Philipbert</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-06-02-08-01,RJ1 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - LIQUIDATION DE LA TAXE - BASE D'IMPOSITION -Distinction entre ventes et prestations de service - Opérations de change manuel - Interprétation administrative contraire - Opposabilité - Absence (1).</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-02-08-03-03,RJ1 CONTRIBUTIONS ET TAXES - TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILEES - TAXE SUR LA VALEUR AJOUTEE - LIQUIDATION DE LA TAXE - DEDUCTIONS - CAS DES ENTREPRISES QUI N'ACQUITTENT PAS LA TVA SUR LA TOTALITE DE LEURS AFFAIRES -Prorata - Calcul - Notion de recette dans le cas d'opérations de change réalisées par des banques - Rémunération de la prestation de service - Interprétation administrative contraire - Opposabilité - Absence (1).</SCT>
+<ANA ID="9AA">19-06-02-08-01, 19-06-02-08-03-03          Si l'instruction de la direction générale des impôts n° 3 L-1-79, en date du 31 janvier 1979, qualifie les opérations de change manuel de "livraisons de biens meubles corporels", cette position ne s'applique qu'à la territorialité et au fait générateur de l'impôt, et ne concerne pas l'assiette de la taxe ou l'étendue du droit à déduction (1).</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. Rappr. CE, Avis, Section, 1993-02-26, Crédit agricole mutuel de la Savoie, p. 37&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CEE 6ème directive Conseil 1977-05-17 art. 19, art. 5-1, art. 6-1, art. 11-A</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 261 C, 256 I, 260 B, 266 1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI Livre des procédures fiscales L80-A</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGIAN2 212</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Instruction 3 L-1-79 1979-01-31 DGI</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Loi 91-716 1991-07-26 art. 7</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

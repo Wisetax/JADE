@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008293161</ID>
+<ANCIEN_ID>JTXLX1980X12X00000PASEA</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/31/CETATEXT000008293161.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 2 décembre 1980, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1980-12-02</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Bonneau</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Le Clainche</RAPPORTEUR>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-02 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX -  TEXTE APPLICABLE [DANS LE TEMPS ET DANS L'ESPACE] - Texte applicable dans le temps - Droit communautaire et droit interne français - 6ème directive du conseil des Communautés européennes en date du 17 mai 1977 prévoyant l'exonération de la T.V.A. des opérations d'assurance et de réassurance effectuées par les courtiers alors que ces opérations étaient passibles de la T.V.A. en vertu des dispositions des articles 256 et 261-4-1° du CGI dans leur rédaction en vigueur avant le 1er janvier 1979.</SCT>
+<SCT ID="8BA" TYPE="PRINCIPAL">19-06-01-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  QUESTIONS COMMUNES -  CHAMP D'APPLICATION DES T.C.A. - Affaires taxables - Affaires réalisées par les courtiers d'assurances - Assujettissement à la TVA en vertu des dispositions des articles 256 et 261-4-1° du CGI dans leur rédaction en vigueur avant le 1er janvier 1979. Exonération de ces affaires, dans les conditions fixées par les Etats-membres, aux termes de la 6ème directive du Conseil des Communautés européennes en matière d'harmonisation des législations des Etats-membres relatives aux taxes sur le chiffre d'affaires en date du 17 mai 1977.</SCT>
+<SCT ID="8CA" TYPE="PRINCIPAL">19-06-02-01 CONTRIBUTIONS ET TAXES -  TAXES SUR LE CHIFFRE D'AFFAIRES ET ASSIMILES -  T.V.A. - PERSONNES ET AFFAIRES TAXABLES -  Affaires taxables - Affaires réalisées par les courtiers d'assurances - Assujettissement à la TVA en vertu des dispositions des articles 256 et 261-4-1° du CGI dans leur rédaction en vigueur avant le 1er janvier 1979. Exonération de ces affaires, dans les conditions fixées par les Etats-membres, aux termes de la 6ème directive du Conseil des Communautés européennes en matière d'harmonisation des législations des Etats-membres relatives aux taxes sur le chiffre d'affaires en date du 17 mai 1977.</SCT>
+<ANA ID="9AA">19-01-01-02, 19-06-01-01, 19-06-02-01          Un contribuable ne saurait utilement invoquer devant le juge de l'impôt la méconnaissance par le service des impôts des directives communautaires, quelles que soient les précisions qu'elles contiennent à l'égard des Etats-membres et alors même qu'elles se bornent à prévoir une mesure d'exonération. Il ne saurait davantage critiquer devant ce juge le défaut de conformité aux directives communautaires des dispositions législatives prises pour l'adaptation de la législation fiscale nationale aux prescriptions de la directive.          Par suite, les affaires réalisées par les courtiers d'assurances en 1978 ont été à bon droit assujetties à la TVA conformément aux dispositions du CGI et nonobstant les dispositions contraires de la 6ème directive communautaire.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CEE DIRECTIVE 1977-05-17 Conseil</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CEE DIRECTIVE 1978-06-26 Conseil</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 256 [1978]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 261 4 1 [1978]</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 261 C 2</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 78-1240 1978-12-29 ART. 33, ART. 49 finances rectificative</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">TRAITE 1957-03-25 ART. 99, ART. 100, ART. 189</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

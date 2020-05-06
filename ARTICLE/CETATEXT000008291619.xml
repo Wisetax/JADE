@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008291619</ID>
+<ANCIEN_ID>JTXLX1977X03X00000STRIE</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/16/CETATEXT000008291619.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Strasbourg, du 24 mars 1977, publié au recueil Lebon</TITRE>
+<DATE_DEC>1977-03-24</DATE_DEC>
+<JURIDICTION>Tribunal administratif Strasbourg</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Beaucarne</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Beaucarne</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Woehrling</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-01-05 CONTRIBUTIONS ET TAXES -  GENERALITES - TEXTES FISCAUX - CONVENTIONS INTERNATIONALES - Convention fiscale franco-allemande du 21 juillet 1959 - Imposition en France d'un contribuable qui a subi un déficit commercial en Allemagne.</SCT>
+<ANA ID="9AA">19-01-01-05        Cette convention a pour objet d'éviter les doubles impositions tout en retenant la méthode au taux effectif qui permet de taxer le seul revenu perçu en France au taux qui aurait été normalement le sien si l'ensemble des ressources imposables du contribuable résident en France avait été encaissées dans cet Etat. Par suite, les déficits subis en Allemagne fédérale doivent nécessairement entrer en ligne de compte pour déterminer le taux effectif de l'impôt sur le revenu dû en France.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1956</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Convention 1959-07-21  fiscale Franco-Allemande</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

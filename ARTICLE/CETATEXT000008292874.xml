@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008292874</ID>
+<ANCIEN_ID>JTXLX1978X01X00000PASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/29/28/CETATEXT000008292874.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Paris, du 11 janvier 1978, publié au recueil Lebon</TITRE>
+<DATE_DEC>1978-01-11</DATE_DEC>
+<JURIDICTION>Tribunal administratif Paris</JURIDICTION>
+<NUMERO/>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>A</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Landron</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Joussellin</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Vandermeeren</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-07-01,RJ1 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES - TRAITEMENTS, SALAIRES ET RENTES VIAGERES -  PERSONNES ET REVENUS IMPOSABLES - Revenus exonérés - Rente d'accident du travail [art. 81-8. du CGI].</SCT>
+<ANA ID="9AA">19-04-02-07-01        L'article 81-8. du Code ne limite pas l'exonération qu'il édicte aux allocations servies par la sécurité sociale aux victimes d'accident du travail. Les allocations complémentaires versées par les institutions de prévoyance prévues par l'article 43 du décret du 8 juin 1946 sont également exonérées de l'impôt dès lors qu'elles présentent le caractère d'une rente d'accident du travail et non celui d'une pension de retraite anticipée [RJ1].</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>1. RAPPR. 81054, S., Ministre de l'Economie et des Finances c/ caisse de retraite X, 1972-06-30&lt;br/&gt;</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1936-1</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 81 8</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 46-1374 1946-06-08 ART. 43</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Ordonnance 1945-10-06</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

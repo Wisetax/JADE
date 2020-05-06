@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008272083</ID>
+<ANCIEN_ID>JTXLX1977X01X00000NASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/27/20/CETATEXT000008272083.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nancy, du 10 janvier 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-01-10</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nancy</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>REFERE</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delevalle</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR/>
+<COMMISSAIRE_GVT/>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-01-05 CONTRIBUTIONS ET TAXES -  GENERALITES - RECOUVREMENT -  Sursis de paiement - Litige sur les garanties - Référé fiscal.</SCT>
+<ANA ID="9AA">19-01-05        Le contribuable a demandé le sursis de paiement pour les impositions dues au titre des années 1966 à 1969. Une saisie conservatoire sur les biens du requérant a été pratiquée le 25 avril 1975. Puis, le contribuable a obtenu le dégrèvement de ces impositions. Contestant les impôts établis au titre des années 1970 à 1973, le contribuable a à nouveau demandé le sursis de paiement et offert comme garanties la prise en considération de la saisie conservatoire pratiquée le 25 avril 1975. Mais cette saisie a été pratiquée pour la garantie du paiement d'impositions distinctes de celles actuellement en litige ; elle est devenue sans objet ; elle ne peut constituer la garantie du paiement d'impositions ultérieures.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1052</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008288766</ID>
+<ANCIEN_ID>JTXLX1999X04X00000LLBLI</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/28/87/CETATEXT000008288766.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif de Lille, du 1 avril 1999, 96-2015, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1999-04-01</DATE_DEC>
+<JURIDICTION>Tribunal administratif de Lille</JURIDICTION>
+<NUMERO>96-2015</NUMERO>
+<SOLUTION>Décharge</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Courtin</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Brunelli</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Mulsant</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-01-02-04 CONTRIBUTIONS ET TAXES - IMPOTS SUR LES REVENUS ET BENEFICES - REGLES GENERALES - IMPOT SUR LE REVENU - ENFANTS A CHARGE ET QUOTIENT FAMILIAL -Notion d'enfant recueilli (article 196 du CGI).</SCT>
+<ANA ID="9AA">19-04-01-02-04          Des revenus de 2690 F par mois en 1991 et de 2775 F par mois en 1993 ne peuvent être regardés comme permettant à la mère d'un enfant d'en assurer la charge, en conséquence de quoi son concubin peut être regardé comme ayant recueilli l'enfant au sens des dispositions de l'article 196 du code général des impôts.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 196</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

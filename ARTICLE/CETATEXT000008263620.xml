@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000008263620</ID>
+<ANCIEN_ID>JTXLX1977X06X00000NASRX</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/08/26/36/CETATEXT000008263620.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Tribunal administratif Nancy, du 30 juin 1977, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1977-06-30</DATE_DEC>
+<JURIDICTION>Tribunal administratif Nancy</JURIDICTION>
+<NUMERO/>
+<SOLUTION>REJET</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION/>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Delevalle</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Laporte</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. Baradel</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-04-02-05-02 CONTRIBUTIONS ET TAXES -  IMPOTS SUR LES REVENUS ET BENEFICES - REVENUS ET BENEFICES IMPOSABLES - REGLES PARTICULIERES -  BENEFICES NON COMMERCIAUX - DETERMINATION DU BENEFICE IMPOSABLE - Plus-values - Art. 93-4 du C.G.I. issu de l'article 35 III de la loi du 29 novembre 1966 - Plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés à l'exercice de sa profession à une société civile professionnelle.</SCT>
+<ANA ID="9AA">19-04-02-05-02        Dissolution d'une société civile professionnelle. Celle-ci, ayant une existence juridique propre, distincte de celle de ses membres, était seule propriétaire des études notariales apportées lors de sa constitution. La dissolution a eu nécessairement pour conséquence la reprise de leurs apports par les associés. Cette reprise est assimilée à une transmission au sens de l'article 93-4 du C.G.I..</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 93-4</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">Décret 67-868 1967-10-02</LIEN>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">LOI 66-87 1966-11-29 art. 35 par. III</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>

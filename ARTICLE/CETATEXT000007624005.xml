@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_ADMIN>
+<META>
+<META_COMMUN>
+<ID>CETATEXT000007624005</ID>
+<ANCIEN_ID>JFXLX1986X11X0000047250</ANCIEN_ID>
+<ORIGINE>CETAT</ORIGINE>
+<URL>texte/juri/admin/CETA/TEXT/00/00/07/62/40/CETATEXT000007624005.xml</URL>
+<NATURE>Texte</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Conseil d'Etat, 8 / 9 SSR, du 17 novembre 1986, 47250, mentionné aux tables du recueil Lebon</TITRE>
+<DATE_DEC>1986-11-17</DATE_DEC>
+<JURIDICTION>Conseil d'Etat</JURIDICTION>
+<NUMERO>47250</NUMERO>
+<SOLUTION>Expertise</SOLUTION>
+</META_JURI>
+<META_JURI_ADMIN>
+
+<FORMATION>8 / 9 SSR</FORMATION>
+<TYPE_REC>Plein contentieux fiscal</TYPE_REC>
+<PUBLI_RECUEIL>B</PUBLI_RECUEIL>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. M. Bernard</PRESIDENT>
+<AVOCATS/>
+<RAPPORTEUR>M. Le Menestrel</RAPPORTEUR>
+<COMMISSAIRE_GVT>M. de Guillenchmidt</COMMISSAIRE_GVT>
+</META_JURI_ADMIN>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU/>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="8AA" TYPE="PRINCIPAL">19-03-03-01 CONTRIBUTIONS ET TAXES - IMPOSITIONS LOCALES AINSI QUE TAXES ASSIMILEES ET REDEVANCES - TAXES FONCIERES - TAXE FONCIERE SUR LES PROPRIETES BATIES -Détermination de la valeur locative - Détermination par comparaison - Termes de comparaison nécessairement choisis dans la commune pour les immeubles ne présentant pas un caractère particulier ou exceptionnel [article 1498 2° a du C.G.I.].</SCT>
+<ANA ID="9AA">19-03-03-01        Aux termes de l'article 1498 2° a, la valeur locative des "biens loués à des conditions de prix anormales ou occupés par leur propriétaire, occupés par un tiers à un autre titre que la location, vacants ou concédés à titre gratuit, ... est déterminée par comparaison. Les termes de comparaison sont choisis dans la commune. Ils peuvent être choisis hors de la commune pour procéder à l'évaluation des immeubles d'un caractère particulier ou exceptionnel".        Les termes de comparaison d'un immeuble dont il résulte du dossier qu'il ne présente pas un caractère exceptionnel ou particulier, et situé dans une zone d'aménagement concerté destinée à recevoir des immeubles de même nature et de type comparable, doivent être choisis dans la commune. Expertise afin de rechercher de tels termes de comparaison, l'administration ayant commis une erreur d'évaluation en recherchant des termes de comparaison hors de la commune.</ANA>
+</SOMMAIRE>
+
+<CITATION_JP/>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">CGI 1498 2 a</LIEN>
+</LIENS>
+</TEXTE_JURI_ADMIN>
