@@ -78,15 +78,17 @@
 </CONTENU>
 </BLOC_TEXTUEL>
 <SOMMAIRE>
-<SCT ID="8A" TYPE="PRINCIPAL">17-03-02-005-01 COMPÉTENCE. - RÉPARTITION DES COMPÉTENCES ENTRE LES DEUX ORDRES DE JURIDICTION. - COMPÉTENCE DÉTERMINÉE PAR UN CRITÈRE JURISPRUDENTIEL. - ACTES. - ACTES ADMINISTRATIFS. - CRÉANCE DÉTENUE PAR L’ETAT SUR UNE COLLECTIVITÉ TERRITORIALE BÉNÉFICIAIRE DE DROITS ET TAXES QUE L’ETAT A RESTITUÉS À UN CONTRIBUABLE.
+<SCT ID="8A" TYPE="PRINCIPAL">17-03-02-005-01 COMPÉTENCE. - RÉPARTITION DES COMPÉTENCES ENTRE LES DEUX ORDRES DE JURIDICTION. - COMPÉTENCE DÉTERMINÉE PAR UN CRITÈRE JURISPRUDENTIEL. - ACTES. - ACTES ADMINISTRATIFS. - CRÉANCE DÉTENUE PAR L’ETAT SUR UNE COLLECTIVITÉ TERRITORIALE BÉNÉFICIAIRE DE DROITS ET TAXES QUE L’ETAT A RESTITUÉS À UN CONTRIBUABLE [RJ1].
 </SCT>
-<SCT ID="8B" TYPE="PRINCIPAL">19-02-01-04 CONTRIBUTIONS ET TAXES. - RÈGLES DE PROCÉDURE CONTENTIEUSE SPÉCIALES. - QUESTIONS COMMUNES. - DIVERS. - CRÉANCES FISCALES – EXCLUSION – CRÉANCE DÉTENUE PAR L’ETAT SUR UNE COLLECTIVITÉ TERRITORIALE BÉNÉFICIAIRE DE DROITS ET TAXES QUE L’ETAT A RESTITUÉS À UN CONTRIBUABLE – CONSÉQUENCE – CONTESTATION D’UNE TELLE CRÉANCE – COMPÉTENCE DU JUGE ADMINISTRATIF.
+<SCT ID="8B" TYPE="PRINCIPAL">19-02-01-04 CONTRIBUTIONS ET TAXES. - RÈGLES DE PROCÉDURE CONTENTIEUSE SPÉCIALES. - QUESTIONS COMMUNES. - DIVERS. - CRÉANCES FISCALES – EXCLUSION – CRÉANCE DÉTENUE PAR L’ETAT SUR UNE COLLECTIVITÉ TERRITORIALE BÉNÉFICIAIRE DE DROITS ET TAXES QUE L’ETAT A RESTITUÉS À UN CONTRIBUABLE – CONSÉQUENCE – CONTESTATION D’UNE TELLE CRÉANCE – COMPÉTENCE DU JUGE ADMINISTRATIF [RJ1].
 </SCT>
 <ANA ID="9A"> 17-03-02-005-01 Les créances que l’Etat, qui assure l’établissement et le recouvrement des impôts, contributions, droits et taxes est susceptible, à la suite d’une décision de restitution de droits et taxes acquittés par un contribuable, de détenir sur une collectivité territoriale bénéficiaire des sommes recouvrées ne constituent pas elles-mêmes des créances de nature fiscale. ...Les litiges relatifs à de telles créances opposant l’Etat à une collectivité territoriale relèvent de la compétence de la juridiction administrative, alors même que seraient en cause des droits et taxes dont le contentieux d’assiette relève de la compétence des juridictions de l’ordre judiciaire en application de l’article L. 199 du livre des procédures fiscales (LPF).</ANA>
 <ANA ID="9B"> 19-02-01-04 Les créances que l’Etat, qui assure l’établissement et le recouvrement des impôts, contributions, droits et taxes est susceptible, à la suite d’une décision de restitution de droits et taxes acquittés par un contribuable, de détenir sur une collectivité territoriale bénéficiaire des sommes recouvrées ne constituent pas elles-mêmes des créances de nature fiscale. ...Les litiges relatifs à de telles créances opposant l’Etat à une collectivité territoriale relèvent de la compétence de la juridiction administrative, alors même que seraient en cause des droits et taxes dont le contentieux d’assiette relève de la compétence des juridictions de l’ordre judiciaire en application de l’article L. 199 du livre des procédures fiscales (LPF).</ANA>
 </SOMMAIRE>
 
-<CITATION_JP/>
+<CITATION_JP>
+<CONTENU>[RJ1] Rappr. TC, 15 mai 2023, Mme Albanhac c/ Ministre de l’économie, des finances et de la souveraineté industrielle et numérique, n° 4270, p. 497.</CONTENU>
+</CITATION_JP>
 </TEXTE>
 <LIENS/>
 </TEXTE_JURI_ADMIN>
